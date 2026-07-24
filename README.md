@@ -1,70 +1,98 @@
 <p align="center">
-  <img src="assets/banner-en.png" alt="KOL Transcripts banner" width="720">
+  <img src="assets/banner-en.png" alt="YouTube KOL Roundtable" width="100%">
 </p>
 
-# KOL Transcripts
+# YouTube KOL Transcripts
 
 [简体中文](README.zh-CN.md)
 
-An open, Obsidian-ready collection of timestamped KOL transcripts for evidence-based AI, technology, business, and strategy research.
+**Turn hours of YouTube interviews into searchable, citable, reusable intelligence.**
 
-The repository currently contains **63 transcripts from 13 publishing accounts**, organized by account and connected to **49 featured-person nodes**. Each transcript preserves the original wording, source video, and timestamps. The bundled `kol-quote-research` skill helps AI agents find viewpoints related to a thesis and return exact quotes with traceable links.
+The ideas that shape markets, products, and technology often appear first in long-form conversations. Watching every two-hour interview is expensive. Finding the exact quote later is even harder, and second-hand summaries frequently remove the context that made the idea valuable.
 
-## Use It as an Obsidian Vault
+This project continuously follows a curated set of high-signal YouTube accounts, converts new long-form videos into complete timestamped transcripts, and organizes them as a knowledge base you can search with Obsidian or an AI agent.
 
-```bash
-git clone https://github.com/Ryder-MHumble/kol-transcripts.git
-```
+It is not another collection of summaries. It is a portable archive of what influential people actually said, where they said it, and how their views connect.
 
-In Obsidian, choose **Open folder as vault** and select the cloned repository root. No conversion or build step is required.
+## Why It Is Useful
 
-Start from [Index.md](Index.md). Account notes, person notes, and transcript frontmatter use Obsidian Wikilinks, so Graph View works immediately after Obsidian indexes the files.
+| Core value | What you get |
+| --- | --- |
+| **Complete context** | Full transcripts instead of a few extracted bullet points, so important qualifications and disagreements are not lost. |
+| **Fresh signals** | New releases from tracked KOL accounts can be added to the same library; `git pull` keeps your local research base current. |
+| **Accurate evidence** | Original wording, source video, and timestamp links make every useful claim easy to verify and cite. |
+| **Immediate use** | Ask an agent to configure everything with one prompt, or clone the repository and open it directly in Obsidian. |
+| **Knowledge you own** | Plain Markdown and YAML keep the library portable, editable, and independent of any closed note-taking or AI platform. |
 
-## Search KOL Viewpoints with the Skill
+## Let Your Agent Set It Up
 
-Install the bundled skill by linking or copying `skills/kol-quote-research` into your agent's skill directory. For Codex:
-
-```bash
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/skills/kol-quote-research" ~/.codex/skills/kol-quote-research
-```
-
-Then ask a research question such as:
-
-> Use `$kol-quote-research`. My thesis is that AI makes execution cheap, so judgment and product taste become the scarce strategic assets. Which KOLs express similar or opposing views? Return exact quotes, video links, and timestamps.
-
-The skill uses local ranked retrieval plus agent verification. It does not require an embedding service or API key.
-
-## Repository Structure
+Copy this entire sentence into Codex, Claude Code, or another coding agent:
 
 ```text
-accounts/                         Publishing-account nodes and transcript lists
-people/                           Featured-person nodes and appearance lists
-transcripts/<account-slug>/       Original timestamped transcript Markdown
+Set up the YouTube KOL Transcripts project from https://github.com/Ryder-MHumble/Youtube-KOL-Transcripts: locate my local Obsidian vault, clone the repository into a separate folder without overwriting any existing notes, install the bundled kol-quote-research skill for this agent, run the repository validation and one example viewpoint search, then show me how to pull future transcript updates. Execute the setup instead of only explaining the steps.
+```
+
+After setup, you can ask questions such as:
+
+- Which KOLs agree or disagree with my strategic thesis?
+- Find the exact quote where a founder discussed AI replacing software seats.
+- Compare how Jensen Huang, Satya Nadella, and Dario Amodei think about AI infrastructure.
+- Show how one KOL's position changed across multiple interviews.
+- Give me publishable evidence with the original quote, video, timestamp, and context.
+
+## Built for Real Research Work
+
+- **Strategy and market research:** test a thesis against first-hand expert views instead of generic web summaries.
+- **Investment research:** trace narratives, disagreements, and changing convictions across founders, investors, and operators.
+- **Product and company building:** recover concrete views on user needs, pricing, distribution, organization, and technology shifts.
+- **Content creation:** find source-backed quotes and context without replaying hours of video.
+- **AI agents:** give an agent a structured evidence base rather than asking it to rely on memory or untraceable answers.
+
+## Open It in Obsidian
+
+```bash
+git clone https://github.com/Ryder-MHumble/Youtube-KOL-Transcripts.git
+```
+
+In Obsidian, choose **Open folder as vault** and select the cloned repository root. Start from [Index.md](Index.md). Account, person, and transcript links are already connected, so the library becomes a navigable knowledge graph after Obsidian indexes it.
+
+No conversion, import pipeline, or proprietary database is required.
+
+## Current Coverage
+
+The library currently includes:
+
+- **63 complete transcripts** with source links and timestamps
+- **13 publishing accounts** across AI, technology, business, and strategy
+- **49 featured-person nodes** for cross-interview exploration
+- An installable **`kol-quote-research` skill** for thesis matching and exact quote retrieval
+
+The project is designed to grow without changing how users work: pull the newest version, keep your own notes beside it, and continue building on the same Obsidian graph.
+
+## Evidence You Can Trust
+
+Every transcript keeps a direct source URL and timestamped passages. Most source transcripts do not include diarized speaker labels, so the repository records attribution confidence explicitly. When a speaker cannot be confirmed from the nearby dialogue, the skill reports that uncertainty instead of inventing an attribution.
+
+See [the metadata schema](docs/metadata-schema.md) for field definitions and [the rights notice](RIGHTS.md) before reusing transcript content.
+
+<details>
+<summary><strong>Repository structure</strong></summary>
+
+```text
+accounts/                         Publishing-account indexes
+people/                           Featured-person indexes
+transcripts/<account-slug>/       Complete timestamped transcripts
 skills/kol-quote-research/        Installable AI research skill
-scripts/                          Import and validation utilities
-data/featured-people.yml          Curated participant metadata
 catalog.jsonl                     Machine-readable transcript catalog
 Index.md                          English Obsidian entry point
 索引.md                            Chinese Obsidian entry point
 ```
 
-Transcripts are grouped by the **publishing account or channel**. Featured interviewees and speakers are modeled separately, which avoids duplicating one interview across several folders while still supporting person-centered graph exploration.
-
-## Evidence and Attribution
-
-Most source transcripts contain timestamps but not speaker labels. Those files use `speaker_attribution: contextual`. The presence of a person in `featured_people` does not prove that every line was spoken by that person. Verify adjacent dialogue before publishing a quotation under an individual's name.
-
-See [the metadata schema](docs/metadata-schema.md) for field definitions and [the rights notice](RIGHTS.md) before reusing transcript content.
+</details>
 
 ## Contributing
 
-Corrections, missing timestamps, account metadata, speaker attribution, and new public-source transcripts are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and run:
-
-```bash
-python3 scripts/validate_repository.py
-python3 -m unittest discover -s tests -v
-```
+Corrections, timestamp improvements, speaker attribution, new tracked accounts, and new public-source transcripts are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
 
 ## License
 
