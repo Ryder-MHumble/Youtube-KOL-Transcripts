@@ -1,0 +1,4 @@
+interface:
+  display_name: "KOL Quote Research"
+  short_description: "Find evidence-backed KOL quotes in local transcripts"
+  default_prompt: "Use $kol-quote-research to find KOL viewpoints related to my thesis, with exact quotes, source links, and timestamps."

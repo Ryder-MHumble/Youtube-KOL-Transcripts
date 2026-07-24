@@ -1,0 +1,383 @@
+---
+title: Ben Horowitz on the Global Race for Tech, Power, and Influence
+source_url: https://www.youtube.com/watch?v=XwfUzW32cIA
+video_id: XwfUzW32cIA
+account: '[[accounts/a16z|a16z]]'
+account_name: a16z
+account_url: https://www.youtube.com/@a16z
+featured_people:
+- '[[people/ben-horowitz|Ben Horowitz]]'
+published: 2026-07-03
+created: 2026-07-21
+language: en
+speaker_attribution: contextual
+description: Ben Horowitz is joined by Anne Neuberger, Raghu Raghuram, and Jen Kha to discuss a16z's expanding international strategy and the growing role technology plays in economic growth, national security, an
+tags:
+- transcript
+- kol
+---
+![](https://www.youtube.com/watch?v=XwfUzW32cIA)
+
+Ben Horowitz is joined by Anne Neuberger, Raghu Raghuram, and Jen Kha to discuss a16z's expanding international strategy and the growing role technology plays in economic growth, national security, and global partnerships.  
+  
+The conversation explores why America's technology leadership matters beyond Silicon Valley, how AI is reshaping relationships between governments and the private sector, and why countries around the world are looking to adopt frontier technologies while building stronger innovation ecosystems of their own.  
+  
+They discuss AI infrastructure, cybersecurity, defense technology, startup expansion, and what it takes to build enduring technology ecosystems. Along the way, they examine the role of trusted partnerships, the importance of Western technology, and why helping founders expand globally has become an increasingly important part of company building.  
+  
+Timestamps:  
+00:00 - Intro  
+01:01 - Why a16z Is Going Global  
+05:06 - Tech as the Arena of National Power  
+09:36 - Products Travel Faster Than Companies Can  
+14:01 - American Values in the Models the World Runs On  
+18:52 - Prioritizing Geos: Japan, Saudi, Mexico & the Indo-Pacific  
+24:41 - How a16z's International Strategy Differs from Other VCs  
+29:31 - AI, Cybersecurity & the Dual-Use Dilemma  
+37:00 - What It Actually Takes to Build a Silicon Valley  
+  
+Resources:  
+Read more about a16z’s global mission: https://a16z.com/a16zs-global-mission/  
+Follow Ben on X: https://x.com/bhorowitz  
+Follow Anne on X: https://x.com/AnneNeuberger  
+Follow Raghu on X: https://x.com/RaghuRaghuram  
+Follow Jen Kha on X: https://x.com/jkhamehl  
+  
+Stay Updated:  
+  
+If you enjoyed this episode, be sure to like, subscribe, and share with your friends!  
+  
+Find a16z on X: https://twitter.com/a16z  
+  
+Find a16z on LinkedIn: https://www.linkedin.com/company/a16z  
+  
+Listen to the a16z Show on Spotify: https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX  
+  
+Listen to the a16z Show on Apple Podcasts: https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711  
+  
+Follow our host: https://x.com/eriktorenberg  
+  
+Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see http://a16z.com/disclosures.
+
+## Transcript
+
+### Intro
+
+**0:00** · When AI becomes the interface for everything, every tool we have, every technology we use is going to be built on these models. And the models are not objective. They have opinions. They have strong opinions on things like history, on culture, on values. And those are very different depending where you are.
+
+**0:18** · Deterrence is no longer just the size of a military. It's the pace of innovation in reacting to cheap softwarebuilt tech that adversaries may be using whether they're a country, criminal, or a terrorist group. And those technologies today are not being built by governments. They're being built by the private sector.
+
+**0:34** · Products and technology travel faster than companies can. So what happens is for startup companies, usually olden days, you didn't care about going international until you had a few hundred million in revenue. Now these companies have to go sooner and sooner internationally.
+
+**0:49** · The number one question we often get when we're visiting different countries is how do you recreate Silicon Valley locally?
+
+**0:55** · I don't think that's true, by the way. I think that's a happy talk.
+
+### Why a16z Is Going Global
+
+**1:01** · We are here to talk international today.
+
+**1:03** · Um, lots of things going on at the firm uh for a firm that used to historically uh be all centered in Menllo Park and and we didn't even want to open up a San Francisco office. This is a big change for us. So Ben, why don't you take us through uh this announcement around our global ambition and how all the pieces between global affairs, international go to market, LP relations on the global partnership level kind of fit in together.
+
+**1:25** · Yeah.
+
+**1:25** · Yeah. Well, it really kind of starts with um America, interestingly.
+
+**1:30** · Uh and you know, it's kind of been our belief, our our strong belief that you know, if you're drop a person into any country in the world and they don't have the culture and they don't have uh money and capital resources yet, and they just have an idea of how to make the world a better place, um their best shot is in America. And um that's just a very very special thing.
+
+**1:57** · And so a big mission of our firm is kind of trying to preserve that that special thing that is America.
+
+**2:08** · And that means America has to be a leader. It has to be a leader uh economically. It has to be a leader culturally. It has to be a leader militarily. Um and to do that we have to be a leader technologically. We have to be a tech leader. And that's kind of really our role in the ecosystem and in the world is to help America be a leader. And then uh what we realized as kind of we've gotten further along with this mission is that we need to kind of bring in our partners, our allies into that mission.
+
+**2:38** · Uh and it kind of started uh with uh the work that you're doing Jen with uh just people from around the world wanting to kind of participate in the uh kind of US technological opportunity and that kind of meant you know we started getting investors from around the world. Uh and as we went out to see those investors and we said you know look how can we be a better partner um we found some interesting things.
+
+**3:05** · So one is every country wants to not only kind of economically benefit from the technology but they'd like to actually directly benefit from the technology.
+
+**3:18** · Can you bring it to us? Can we get a chance to use it? Um and then at a kind of higher level uh you know at at the kind of government policy level people wanted to know well how can we be a great country for adopting technology for innovating like uh you guys are and for kind of helping push our country into the future.
+
+**3:39** · And you know as we uh looked at okay how do we kind of step up and uh step into that opportunity and be a good partner we realized um with our country partners we needed relationships at the kind of government level at the investor level at the adoption level and that's what what these kind of three components become.
+
+**4:00** · So we've got um global affairs which uh builds our relationships led by an which uh helps us have relationships in the right way with uh governments from you know ranging from Saudi Arabia to Japan to Mexico. Um and we've had uh you know just great conversations with all of them.
+
+**4:25** · Then we have people who uh invest you know sometimes those are the government sometimes they're uh various companies in the government sometimes they're companies in who actually um handle government money in the form of pensions uh and then finally um you know
+
+**4:44** · both the government and the businesses want to adopt the technology and that's where kind of ragu's effort comes in where we have the uh the goto market component um and I'm going to get you involved here how much of your decision to join A6 andZ was motivated by this mission and also the sense of duty and helping other countries think about the adoption to AI and not wanting to get left behind in AI like Ben was alluding to very much so.
+
+### Tech as the Arena of National Power
+
+**5:07** · You know what I saw happen in the years in the intelligence committee and then the White House is technology move from being a tool of diplomacy of national power to the arena of it where the supply chain for chips was not a technology issue as much as a foundational economic and national security issue. The supply chain for the components that go into drugs. When used by one country to constrain or have impact on another country, it becomes a tool of national power.
+
+**5:39** · A software vulnerability is now not an IT issue.
+
+**5:41** · Yep.
+
+**5:42** · It can be a source of leverage, particularly if that vulnerability is in key parts of your power systems or your water systems.
+
+**5:49** · Yeah.
+
+**5:49** · So I saw that shift happen from tech being either an IT issue or just a tool to the central arena of both economic growth and national power. And quite frankly the from a deterrence perspective which is the language we talk about between countries in terms of deterring an invasion of a country maintaining an international system of stability. You know deterrence is no longer just the size of a military.
+
+**6:13** · I think as we see in the straight of Hermuz or we saw in the Red Sea, it's the pace of innovation in reacting to cheap softwarebuilt tech that adversaries may be using whether they're a country, criminal or a terrorist group.
+
+**6:27** · Yep.
+
+**6:28** · And those technologies today are not being built by governments. They're being built by the private sector.
+
+**6:34** · Whether that's AI systems, whether that's autonomous systems, whether that's cyber defense systems, they are being built on in the private sector. So certainly from a US perspective ensuring that we have the relationships between government and private sector to leverage that for our own economic growth and as a force for good on the world stage but also that our allies as well we build together we fight together and to ensure that together we can both
+
+**6:59** · have the advantages of that and to the extent that our tech also represents our values it's important that the world run on America and on western tech. Yeah, actually that's a great point on the values point because Ben you've said before no country also wants to get colonized in cyerspace right particularly because AI is now just getting built in the six block radius in San Francisco um say say a little bit more about that well you know when AI becomes the interface for everything um so every
+
+**7:30** · every tool we have every technology we use every kind of system we have from your car to your refrigerator to your education system is going to be built on these models and the models um are not objective. They have opinions um and they they have strong opinions on things like history, on culture, on um you know, ethics, on values.
+
+**7:55** · And by the way, those are very different depending where you are. you know, the uh you know, the history of wars and the you know, history of of of a country and laws and whether that country was a good actor or a bad actor uh are all very different depending on um where you're getting the information from.
+
+**8:18** · And so if you believe that you you know as as I do that you know for all our flaws our fundamental values and ideas about everything from the way our economic system works to the rule of law uh have resulted in basically the best opportunities uh for
+
+**8:44** · humans in the world. then you want those values to be projected onto the world more so than to be the recipients of some other values. Um, which you know maybe were good at a time or maybe um, you know, have some merits but overall don't give people a real opportunity.
+
+**9:07** · Yeah.
+
+**9:07** · Giving giving people a chance.
+
+**9:08** · That's the that was the premise of the original announcement we did for our fund announcement earlier this year and the importance of that and then particularly extending that chance to the allies of America as well. Um regular I want to get you involved on this as well because portfolio companies are increasingly going international way sooner. They're multi-country multi-channel multi-product way sooner in the life cycle. How much of this is also accelerated by what's happening in AI and just the ability to push out software updates right just immediately.
+
+### Products Travel Faster Than Companies Can
+
+**9:36** · Yeah.
+
+**9:36** · I mean the reality is that products and technology travel faster than companies can right because if you got a great product everybody learns about it very quickly instantaneously you can access it through APIs wherever in the world you are you can build on top of those things so what happens is for startup companies usually in the olden days you didn't care about going international until you had a few hundred million dollars in revenue etc now these companies have to go sooner and sooner sooner internationally.
+
+**10:08** · So while um the products are being discovered internationally sooner, also to Ben's earlier point, it's easier to adapt these products for local markets much more easily thanks to AI or as wise becomes the interface to localize uh and internationalize these products, it's so much more easier.
+
+**10:32** · But in order to capitalize on the opportunity at scale, things don't change, right? I mean, you still have to be in region. You still have to understand the market structure of the region that you want to operate in. Um, you have to understand partnerships, you have to build relationships. Lots of other countries have very relationship- based economies, not transaction-based economies. So it's it's this interesting blend where you've got to the technology moves really fast but the way you do business hasn't changed that fast. Yeah.
+
+**11:05** · Actually so a really great example of uh what Ragu was talking about. So uh when we were in uh Mexico recently um we were meeting with uh the CEO of Tel Ava Univision which uh Alonso Angua who is a
+
+**11:22** · great friend of the firms who one of our global partners and we were asking about gee you know what are your struggles and one of his challenges is you know he's really faces uh you know heavy competition from some of the kind of global streamers like you know a Netflix or Disney or so forth. who have this US technology that's very powerful. Um, but he has, you know, this unbelievable Spanish-sp speakaking content. Uh, but it was hard for him to get to play on a global basis because it's in Spanish.
+
+**11:52** · It's a Mexican Spanish accent, which is different than a an Argentinian Spanish or Colombian Spanish accent. Uh, and you know, he's like, you know, how should we solve this? And we're like, well, we've got this great company, 11 Labs. They can help you with it. We put them together in a couple of months.
+
+**12:08** · He was in, you know, France and Poland and all over the world with uh this incredible technology that had his actors basically acting exactly as they normal do with their right kind of intonations, their right laugh, everything but in different languages. And he recently um based on that success got a big deal with Netflix. Yeah.
+
+**12:32** · Uh and so here we have um something where we can bring our partners who you know have a great product uh that's culturally local but really really interesting and make it a global product by you know not competing uh with their allies but partnering with their allies and and I think that's a lot of what the program is about and I want to tie what Benja said back to the values point because people often ask us you know Chinese open source models, how do you compare and contrast?
+
+**13:06** · So in that case, they didn't have to worry that when the content was dubbed into different languages that if the speaker said something sensit sensitive about tanaman square or sensitive regarding the Chinese government that using an American model that content would be translated and changed along the way, right? They knew it would be true to what was said.
+
+**13:28** · And that's what we mean when we talk about American values of not censoring, not injecting political will into how these models operate in the way that one would contrast. Now, open source is something we we deeply value because at the end of the day, there's all different kinds of models and all different kinds of price points clearly. Yeah. Um but that's really a good example of what we mean when we say American and western values reflected in the models that we deploy around our infrastructure.
+
+### American Values in the Models the World Runs On
+
+**14:01** · For sure the te nollas are spicy enough. I don't know how much the introduction of tenement square needs to be introduced necessarily in the story line but you never know the border crossings etc.
+
+**14:11** · Good point they keep their audience well enough.
+
+**14:15** · Exactly.
+
+**14:15** · Exactly. Um but but this actually is a core part you know um when Py McCormack wrote the article about us earlier this year he he called us a power broker and power being part of an offering that we enable our founders to tap into and for a lot of companies you know starting a Mexico office for example is probably not one two three maybe even top 10 on their list but if they have a deal that we're able to walk in and and effectively enable them a shot at winning way earlier in the life cycle cycle, they might prioritize that.
+
+**14:46** · So, so maybe if you want to riff on that, Raun, Ben, on on particularly how that's changed for founders, they think about international when they have the benefit of being able to go right to the buyers in a much more adept way than kind of figuring out a market from scratch.
+
+**15:02** · Yeah.
+
+**15:02** · I mean, a lot of markets are very topheavy, right? So you take any mature business and you say how much of your revenue comes from even companies like I mean countries like UK a significant chunk is going to come from the very very top companies in UK right so the reality is
+
+**15:21** · whichever country you look at it's five or 10 companies that matter and of course the government is a big influencer and buyer so the example that you gave in Mexico is great right I mean there are a few global companies in Mexico like the one that Ben talked about it and so the only way you could it is not worthwhile setting up an old office and serving all of the countries, right? But if you could get into the top five countries in sorry companies in Mexico that probably is worth a lot more than setting up a full operation in some other uh country.
+
+**15:51** · So it is the topheavy nature and the relationship heavy nature that helps in this uh uh helps our portfolio of companies, right? And and the thing there's a couple of other aspects that are important. One is like you're right that Mexico probably isn't a top 10 thing that most companies go into first.
+
+**16:12** · And and by the way, that's a terrible shame because Mexico is our neighbor. uh and from a you know when we think about it from a national security standpoint how powerful would it be to have a western hemisphere supply chain um kind of ecosystem that was really really well connected so I think it's kind of bad for the country that it is number 10 um secondly you know to open a country uh as a company is a very large expense you have
+
+**16:45** · to set up an entity you have to hire a team, you have to like localize the product. And you know, that's going to be, you know, depending on the country, depending on how committed you are to it, it could be like easily five or 10 million just to get to your first deal.
+
+**17:02** · Um, and so that is going to delay in your life cycle when you can go international. But what if, you know, what if you before you ever uh put up an entity or ever kind of got started in that country, you had an opportunity, a big opportunity, a $5 million opportunity, a $10 million opportunity that makes that investment much easier to do earlier. And so we can really enable both our companies and our allies uh by kind of paving the way for that kind of thing.
+
+**17:33** · A great example is um like nobody's going to Saudi Arabia first. Uh however like Saudi Arabia is booming um and there are great opportunities there and they really need our help uh in developing the country.
+
+**17:50** · They're modernizing which is incredibly important to the security of the world that you know Saudi Arabia is going from this uh kind of tribal different kind of society I would just say to kind of a modern you know like highly civilized you know player in the modern world and full ally of the United States like that transition is really important that it succeeds.
+
+**18:11** · So we're able to take a company like Flo, Adam Newman's company, bring them to Saudi Arabia, introduce them to the right people in the government, introduce them to the right people in business, introduce them to the right investors. You know, it's the optimal place to live if you're an expat, you know, kind of moving to Riad, help developing develop the economy. Um, and it's something that just it's not really possible without an effort like this.
+
+**18:38** · For sure. For sure. Maybe let's talk about geos we're prioritizing because there's a handful. Um, Japan, Korea, the Middle East, Mexico, Canada. Are there themes as we think about different countries that make more sense versus others?
+
+### Prioritizing Geos: Japan, Saudi, Mexico & the Indo-Pacific
+
+**18:53** · Yeah, this is this is timely Ragu and I have been debating this on.
+
+**18:59** · So, so I would just say like I think you know from our standpoint it's very powerful when we when they're a strong ally of the US. We've got a relationship with the uh people in government. We've got a relationship with the people in business. We've got a relationship with uh the investors. You know, because those those things are not separate. They they all interact with each other.
+
+**19:24** · And if we, you know, have that, then we can uh really really accelerate the opportunities um for them and for us. I think what I would just say to that point building on Ben's point and then I'll turn it over to Ragu is what's changed so much as we talked about a moment ago is that on the on the
+
+**19:46** · global stage whether it's in the context of or whether it's in the context of countries pressuring other countries via supply chains there are parts of the world which we have close allies who are now in increasingly tenuous positions so if we look at the Indopacific region.
+
+**20:05** · China has vastly increased its military, vastly increased the number of nuclear capabilities that it has uses various um their ship building capability are orders of magnitude more than the United States and our allies in the region have started responding. Japan has changed its really sacrosan policy from in the postw World War II period to say it must have a capable military.
+
+**20:30** · Yeah.
+
+**20:30** · It wants to build the military to fight today's wars, not yesterday's wars. It doesn't necessarily have the military-industrial base. Now, that cuts both ways. As we know from the own kind of the halting steps the United States military has been taken, the number of defense reform policies that have been written in the last 20 years, they all say the same thing, right? Fewer small numbers of exquisite platforms, more cheaper, larger numbers of platforms in addition to very exquisite platforms for certain specific use cases.
+
+**20:58** · So as Japan thinks about building a capable military in order to deter aggression in the region, it is looking to partner with new firms building autonomous ships, building AI for an integrated battle space and they want to build with us.
+
+**21:15** · They don't want to just buy because they have their own capabilities they want in their own country, their own supply chains to protect. So I think a part of that is thinking about those regions of the world. I talked about one in the Indopac region that covers Australia as well. Obviously, certainly the Middle East has been an area of American interest for a long time. Israel is an incredible capable ally with capable military and intelligence community. The UAE is as well. Saudi Arabia is modernizing and thinking about AIN infra how it builds an innovation, entrepreneurial innovation base in order to compete globally.
+
+**21:46** · And then certainly when we think about Latin America, when we think about fentinel coming into the United States, it comes in via Mexico. So public safety, national security, how autonomous ships can help a vast Mexican coastline are not only important to our ally and to the stability of Latin America, it's important to us as well. So I think that's at least the national security lens we bring to some of our partnerships in American dynamism or in the AI infraspace.
+
+**22:16** · Yeah. I mean it's the reason Ben and I have been debating is there are so many sides to this that you got to bring it all together. Mhm.
+
+**22:23** · Firstly, um to to Ann's point, you got to be a lot it has to make a lot of sense from America's interest point of view, right?
+
+**22:33** · And that is abundantly existing in all these countries. These governments are very AI forward and they're putting in policies that are very modernizationcentric whether it's in defense or across the economy. Thirdly, they are all topheavy economies. I mean you go hit the the top companies you are actually having global influence. For example all those North Asian countries that you talked about I think 15 20% of the global 2000 are across Japan, Korea, Taiwan.
+
+**23:03** · Y right. Um and then lastly for our startups it's this the way business is done in these countries is very different than let's say UK or some English-sp speakaking country right. So the value ad that we can provide to these to our startups and the value ad we can provide to these countries is so remarkably higher than in other places.
+
+**23:28** · Yeah.
+
+**23:28** · So when you put it all up and score it out that's why we go into these countries.
+
+**23:32** · Yeah.
+
+**23:32** · And some of these countries are also leaprogging too where they didn't have to deal with the prior Exactly. Like technology like Saudi you go through the uh visa entry and it takes 30 seconds like way that snap wasn't good.
+
+**23:44** · 30 seconds to go through the the visa entry which is like unbelievable and you know here you get stuck behind uh unfortunately a very long line increasingly uh for for a number of different other reasons but you know it's a it's a different kind of uh approach to how you think about incorporating technology in everyday life but it's not evenly distributed. So what are ways we can accelerate that in different avenues is is also the opportunity that a lot of these countries are seeing as as a huge log up.
+
+**24:10** · Um it's very different though when we think about international priorization compared to maybe other VC firms because the typical VC firm was that you know then you've talked about this before like the typical way that other VC firms have done international have always been investment driven versus actually thinking about the portfolio companies and what they would like to do internationally. So maybe speak a little bit more about that contrast and and quite frankly why for the first 10 years of the firm it was very rare we even did an international deal outside of of not just the US but even outside of the Silicon Valley.
+
+### How a16z's International Strategy Differs from Other VCs
+
+**24:41** · Well I think we've always looked at investing through the lens of what do we bring to the table. Um so as as a result like if you think about what we try to do for a company um you know we really try to help them network to the right talent to the right customers um to you know the right expertise and that is very hard to do in
+
+**25:09** · kind of multi- geographies even like San Francisco Menllo Park in the early days we were like like let's just have a really good product for this and then we'll expand from there. Whereas I think other VCs um think of the product much more as the money.
+
+**25:26** · Um and so if the product is the money then the international strategy is okay we'll find a team of investors in say the UK and we'll help them raise money and then we'll take a percentage of their winnings for helping get them their product. uh and you know and that makes sense in that model. I think it doesn't make sense for us because you know our our whole thing is how do we help you build a better company?
+
+**25:55** · How do we you know how do we accelerate your opportunity or growth and so forth. So we needed to get to kind of a certain level of size and stature for that to make sense in more regions. Um but now that you know now that we are um it starts to make a lot of sense and I think you know in our role in investing we don't look at it as how do we snatch up the opportunities in Sweden or Japan or or
+
+**26:26** · or or Saudi or UAE or that kind of thing. We look at it as what is your ecosystem missing uh in terms of kind of capital and expertise to go global and is there an opportunity for us to plug in. So we don't want to displace their a- round and seed investors necessarily. We want to kind of say okay if you've got companies that are emerging as real global uh companies then that's where we can really step in and help.
+
+**26:55** · And if we're already in the uh country and we're already doing a lot of business and we're already kind of understanding um them and their entrepreneurs and so forth, then we're in great position to do that. But we would do that directly.
+
+**27:10** · We're not raising money for somebody who's not part of our firm, our culture, our mission and having them go run a play. That that that's just not us. And also so much of the time when you think about these um entrepreneurial ecosystems, what they're oftentimes missing is growth capital. They actually have a great talent base on the early stage side, but they're kind of missing that component to actually go global and they become a localized success versus you actually thinking about global ambitions.
+
+**27:37** · Maybe that actually drawing from your experience at at VMware Reguing about the evolution of company building. How's that kind of particularly changed in the the ambition for local companies to become global over time?
+
+**27:49** · That's dramatically increased, right?
+
+**27:51** · Yeah.
+
+**27:52** · Um, previously, like I said earlier, you would not even dream of going global until you're like really well advanced and now because your product can be there is such a universal appeal for you. If you've got a great product, it's such a universal appeal whether it's B2B or a B TOC product, it behooves you to go earlier.
+
+**28:13** · Mhm.
+
+**28:13** · What is missing is the supporting ecosystem, right?
+
+**28:17** · And being a finding a way to plug into a new country, right? And that's where our new offering uh really focuses on, right? So, it's really help them get the fast start in these regions. Y and for that you need to have you need to be in the region to have the relationships to build the trust to build the credibility. All of those things don't happen overnight and that's where we can provide that.
+
+**28:42** · Yeah.
+
+**28:42** · Yep. And then by spending time locally as well, we get to know the local ecosystem and then see the great entrepreneurs from those regions and then to the extent to which it makes sense actually fund those and then help them go international leveraging our network as well.
+
+**28:54** · So businesses in these countries are so much a collective ecosystem rather than an individual company going in and dominating something there.
+
+**29:03** · For sure. For sure. um maybe speak a little bit more about the prior tech cycles of of um adoption and and particularly with AI. Ann, this is a great question for you. There's so many nuances around security and and even the debate between open versus closed that there are considerations of whether that's even viable to build without upsetting the Apple card on what is allowed with open source given the security nuances. Maybe speak a little bit more about how you've been thinking about that and advising companies on that that delicate balance.
+
+### AI, Cybersecurity & the Dual-Use Dilemma
+
+**29:31** · So, it's a hot topic right now. um as you know and it's a hot topic around the world because fundamentally as many technologies are AI is dual use right so the first step let's use cyber as an example right the first step whether you are an attacker or a defender is finding vulnerabilities in systems and then if you're a defender you patch them if you're an attacker you exploit them y so models make the step of finding vulnerabilities in code far easier Mhm.
+
+**30:02** · Um, and quite frankly, it makes the next steps, exploit or defend, easier as well. The economics of cyber defense were broken well before, you know, the latest AI models came out. I saw that in the White House where my nightmare was the ransomware attacks against, you know, rural hospitals in America. There wasn't another hospital two blocks down.
+
+**30:22** · So actual Americans opportunity to access health care was disrupted by in some cases states state harbored criminal groups halfway around the world. Right? So infrastructure is very fragile and the reality is that the models help both. I personally believe I'm focused on cyber security for a moment that they help far more in defense because defense is far harder.
+
+**30:44** · You have to be you know defending a broad expanse and attacker has to find one way in. Um so as a result I actually think we have we are in a difficult space at this moment because there's such a broad attack surface there's so many systems that are vulnerable but I think we will see the opportunity for much more secure space to your point you
+
+**31:06** · know when I talk with governments around the world or companies around the world all are grappling with that question of I'll talk about the government side given we know it can both help Most countries have two missions, right?
+
+**31:20** · Defending the country as well as defending it, you know, as well as maintaining its interest overseas. Given both, how do we ensure that these powerful capabilities don't fall into our adversaries hands, don't fall into criminals hands to be used for that purpose? And I think, you know, in the traditional cyber tools arena, we always grappled with this, right? When a capability is on a thumb drive, export controls are a joke. You can't actually control it in that way.
+
+**31:49** · And there is real power, as we talked about earlier, in the models that the world runs on being run on trusted models. When people are using an American model, they don't have to worry there's an intentional backdoor. As we talked about earlier, they don't have to worry that a chatbot's answers will be framed by, you know, censoring to fit a particular political story of like an authoritarian government.
+
+**32:11** · So the question for now is to say how do we build in the degree of safety in model so that they can be used in environments that need that safety and
+
+**32:27** · that is somewhere where because the main models are American we're in a particular position to think through and build that out and I think this is not done by government it's not done by the private sector what it really needs is people who really understand the models best from the private sector at the table with folks on the government side who are thinking about how do we both promote innovation and control for these risks and building out the right set of government policies to enable both the
+
+**32:55** · use as well as the understanding of how do you protect against the risks that come with it with the models as well.
+
+**33:01** · Yeah.
+
+**33:01** · Yeah. As our partner Mark often says, we technology is the dog that caught the bus. And we've never seen before that countries are de, you know, kind of feverishly demanding the latest versions of the model because they recognize how competitive it is to their economy, to their people, to their interests. And this now is unlocking all sorts of new paradigms as we think about globalization in a way that that feels categorically different than just selling product internationally, right?
+
+**33:25** · And and this is hopefully then an opportunity for many of our founders as well.
+
+**33:29** · No doubt. Although it is complicated. Um like so for example you'd like to like from a government standpoint you'd like to say okay don't release your model with cyber hacking capabilities.
+
+**33:43** · But if you do, as an say and you want to find the vulnerabilities in your own code and patch them, you can't do that without also enabling cyber attacks because as soon as it can find the vulnerabilities, guess what?
+
+**34:01** · Uh, and so you're kind of in this situation where it's like, well, if you kind of lock that up, lock that capability to understand vulnerabilities, then the only people who will be able to understand v vulnerabilities are the bad actors who jailbreak the system.
+
+**34:20** · And so you you we're in a very I would say interesting interesting world on that.
+
+**34:26** · Yeah.
+
+**34:26** · And and I think to that point, we'll focus on the cyber aspect because that's gotten so much attention with anthropics mythos model, etc. I think what AI models essentially do to Ben's point is you want to be the first to hack your systems because, you know, you we often use the expression of, you know, digital doorork knobs. It now allows attackers to jiggle every doorork knob continuously and at scale.
+
+**34:49** · So your hope for your network is using those models first to find where you're vulnerable and frankly then be able to fix it and that wasn't a tractable problem before y and I think now the models help you particularly for code bases that were public particularly for if you're relying on third party code or open source code and that's some of the biggest areas of risk or where there is dependencies on code that nobody was really maintaining.
+
+**35:14** · So I think we're now seeing you know companies coming together taking responsibility for that because now the I would say the cost of not addressing insecure code has gone up and the cost of addressing it has gone down.
+
+**35:30** · Yeah.
+
+**35:31** · Which is a good shift from where we were before.
+
+**35:34** · We we we may finally build secure systems.
+
+**35:37** · Exactly.
+
+**35:38** · Please God. And more importantly, the the process for building new code can incorporate these as well.
+
+**35:46** · And it's kind of very tricky from an industry standpoint because like originally cyber hacking was vandalism, right?
+
+**35:54** · Like, okay, I'm going to mess up your PC. Then, you know, with the internet, it became theft and now it's war. Uh, and that evolution kind of, I think, snuck up on people. And so, and we've seen, yeah, I mean, the great thing when it went from vandalism to theft, the the vandalism company, Microsoft, is one who created all the theft opportunities by putting Windows on the internet when it wasn't ready to be on the internet um because it wasn't built for that kind of idea.
+
+**36:24** · And uh you know, with ActiveX and all these kinds of technologies that let people come into the internet and get right to your machine. Uh, and I think that we're kind of in a period like that where we've got all this technology that was built in the pre-AII era that's not nearly secure enough for the AI world. And um, and we're going to have to make that transition.
+
+**36:46** · Yeah. There's a 20 year legacy of code that has to be tackled.
+
+**36:49** · Yeah.
+
+**36:50** · Nope.
+
+**36:52** · That AI is increasingly many opportunities. Yes. Many opportunities. Yeah.
+
+**36:56** · Many many.
+
+**36:58** · Um, awesome. Well, maybe in closing, so Ben, I I know the number one question we often get when we're visiting different countries is how do you recreate Silicon Valley locally, right? That's let's like they want the ingredients to it. And there there's a few components to success that have enabled Silicon Valley, but there's also the the proposition, what if the internet is actually Silicon Valley or this the the actual Silicon Valley just distributed.
+
+### What It Actually Takes to Build a Silicon Valley
+
+**37:21** · So yeah. Yeah.
+
+**37:22** · I don't think that's true, by the way. And like they think that's a happy talk. If you you know like one thing you learn when you go to different countries is they're very different. Like the laws are different, the policies are different, the governance are different. And that's why you know America has continued to be special. We've had the internet now for quite a long time and like that's absolutely not the case.
+
+**37:44** · Uh so like so what is going on? And and by the way, I wish we could bring uh some of our own uh policy makers on those trips so they could hear people say we want Silicon Valley before they keep trying to wreck us. Not all of many of our policy makers are outstanding, but some really don't like the fact that we have a technology industry.
+
+**38:05** · Um, so I think that like as we've traveled around there's a kind of a a combination of ingredients and and they are a little bit the combination that makes Silicon Valley special and then you know America itself special. So the first is um you do need the talent and uh talent is kind of easily kind of most easily seen in like is there a great technical university um that graduates people who know how to build things.
+
+**38:35** · Uh that that that's kind of like an essential thing. And like by the way many countries have that that don't have a Silicon Valley. Um and what are they missing? They're missing the other two components. The second is do you have a set of laws and policies that uh facilitate entrepreneurship are essentially good for business? Like can you create a company easily? Can you hire people easily? Um can you fire people easily?
+
+**39:07** · Is there a tax incentive structure that's not ownorous? Can you um own and this is a big one lately which uh you know California is kind of moving against but can you own an illquid asset that has value um or will it get seized uh and so I think Norway uh introduced a um unrealized
+
+**39:35** · capital gains tax and that that kind of effectively ended the tech ecosystem there. Uh, and I think that that, you know, so those those kinds of policies are super important. If they're not right, nobody is going to take the extreme risk um kind of both personal and financial starting a company if it's not an environment that's conducive to that.
+
+**39:55** · And then the third one which is I think kind of a combination of everything in a way is is the culture such that young people the most capable young people willing to make the biggest contribution is do they get status social status reward is it cool to either start or join a new company um and almost no very few countries have that uh I would say that it's really really good in the US.
+
+**40:26** · It's um you know it's clearly good in China by the way. Uh although they've done a few things to mess it up, but in most countries you know like in a lot of ways like success is frowned upon.
+
+**40:38** · It's like oh you know and in a lot of you hear a lot of this in the political rhetoric. Oh the only way you could make a billion dollars is if you're a thief which is completely absurd. Um you know you just look at the people almost none of them are thieves. like they you can't steal a billion dollars is a real truth. But like that's just like it's a rhetoric that works because if you're you know if you're like how it's a great sour grapes idea, right?
+
+**41:01** · Like it's like how how did he get all that money? Oh, he's a thief. Okay, I go I'm not a thief. So like I feel much better about myself now. But but that's the you that's a lot of the thing and that's the thing that's so hard to replicate and it's so hard to build and it's so easy to destroy. Uh so it's you know something that I think we have to just be aware of how special that is and unique in the world and then we can try and help other people do it but we also have to try equally hard not to wreck it ourselves.
+
+**41:31** · Yeah, for sure. It's uh it's World Cup season and there was a great tweet where someone was like, "I think America thinks they could potentially win the World Cup." And like it's like maybe they can, maybe they can't, but like the fact that America thinks they can is a feature, not a bug. Yes, there's a reason amition is fantastic.
+
+**41:49** · There's a reason we all read our kids. You know that what is it? The little red jing. I think I can. I think I can. I think I can. That's in America. You can believe you can.
+
+**41:58** · That's right. That's right. Amazing.
+
+**41:59** · That's a good note to end on. Thank you all.
