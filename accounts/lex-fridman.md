@@ -1,0 +1,26 @@
+# Lex Fridman
+
+Transcripts: 22
+
+- [[transcripts/lex-fridman/Lex Fridman - Anthony Kaldellis Roman Empire, Byzantine Empire, Rise & Fall of Empires 逐字稿|Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires]]
+- [[transcripts/lex-fridman/Lex Fridman - Biggest Mysteries in Physics Antimatter, Dark Energy & ToE – Don Lincoln 逐字稿|Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln]]
+- [[transcripts/lex-fridman/Lex Fridman - FFmpeg The Incredible Technology Behind Video on the Internet 逐字稿|FFmpeg: The Incredible Technology Behind Video on the Internet]]
+- [[transcripts/lex-fridman/Lex Fridman - Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age 逐字稿|Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age]]
+- [[transcripts/lex-fridman/Lex Fridman - Jensen Huang NVIDIA – The $4 Trillion Company & the AI Revolution 逐字稿|Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution]]
+- [[transcripts/lex-fridman/Lex Fridman - Jeff Kaplan World of Warcraft, Overwatch, Blizzard, and Future of Gaming 逐字稿|Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming]]
+- [[transcripts/lex-fridman/Lex Fridman - Rick Beato Greatest Guitarists of All Time, History & Future of Music 逐字稿|Rick Beato: Greatest Guitarists of All Time, History & Future of Music]]
+- [[transcripts/lex-fridman/Lex Fridman - OpenClaw The Viral AI Agent that Broke the Internet – Peter Steinberger 逐字稿|OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger]]
+- [[transcripts/lex-fridman/Lex Fridman - State of AI in 2026 LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI 逐字稿|State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI]]
+- [[transcripts/lex-fridman/Lex Fridman - Paul Rosolie Uncontacted Tribes in the Amazon Jungle 逐字稿|Paul Rosolie: Uncontacted Tribes in the Amazon Jungle]]
+- [[transcripts/lex-fridman/Lex Fridman - Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse 逐字稿|Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse]]
+- [[transcripts/lex-fridman/Lex Fridman - Irving Finkel Deciphering Secrets of Ancient Civilizations & Flood Myths 逐字稿|Irving Finkel: Deciphering Secrets of Ancient Civilizations & Flood Myths]]
+- [[transcripts/lex-fridman/Lex Fridman - Michael Levin Hidden Reality of Alien Intelligence & Biological Life 逐字稿|Michael Levin: Hidden Reality of Alien Intelligence & Biological Life]]
+- [[transcripts/lex-fridman/Lex Fridman - David Kirtley Nuclear Fusion, Plasma Physics, and the Future of Energy 逐字稿|David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy]]
+- [[transcripts/lex-fridman/Lex Fridman - Dan Houser GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming 逐字稿|Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming]]
+- [[transcripts/lex-fridman/Lex Fridman - Julia Shaw Criminal Psychology of Murder, Serial Killers, Memory & Sex 逐字稿|Julia Shaw: Criminal Psychology of Murder, Serial Killers, Memory & Sex]]
+- [[transcripts/lex-fridman/Lex Fridman - Pavel Durov Telegram, Freedom, Censorship, Money, Power & Human Nature 逐字稿|Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature]]
+- [[transcripts/lex-fridman/Lex Fridman - Norman Ohler Hitler, Nazis, Drugs, WW2, Blitzkrieg, LSD, MKUltra & CIA 逐字稿|Norman Ohler: Hitler, Nazis, Drugs, WW2, Blitzkrieg, LSD, MKUltra & CIA]]
+- [[transcripts/lex-fridman/Lex Fridman - Dave Plummer Programming, Autism, and Old-School Microsoft Stories 逐字稿|Dave Plummer: Programming, Autism, and Old-School Microsoft Stories]]
+- [[transcripts/lex-fridman/Lex Fridman - Dave Hone T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park 逐字稿|Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park]]
+- [[transcripts/lex-fridman/Lex Fridman - Keyu Jin China’s Economy, Tariffs, Trade, Trump, Communism & Capitalism 逐字稿|Keyu Jin: China’s Economy, Tariffs, Trade, Trump, Communism & Capitalism]]
+- [[transcripts/lex-fridman/Lex Fridman - Jack Weatherford Genghis Khan and the Mongol Empire 逐字稿|Jack Weatherford: Genghis Khan and the Mongol Empire]]

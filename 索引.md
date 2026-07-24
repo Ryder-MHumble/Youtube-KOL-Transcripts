@@ -7,6 +7,7 @@
 - [[accounts/google-deepmind|Google DeepMind]] (3)
 - [[accounts/hard-fork|Hard Fork]] (2)
 - [[accounts/lenny-s-podcast|Lenny's Podcast]] (2)
+- [[accounts/lex-fridman|Lex Fridman]] (22)
 - [[accounts/no-priors-ai-machine-learning-tech-startups|No Priors: AI, Machine Learning, Tech, & Startups]] (6)
 - [[accounts/peter-h-diamandis|Peter H. Diamandis]] (13)
 - [[accounts/sequoia-capital|Sequoia Capital]] (3)

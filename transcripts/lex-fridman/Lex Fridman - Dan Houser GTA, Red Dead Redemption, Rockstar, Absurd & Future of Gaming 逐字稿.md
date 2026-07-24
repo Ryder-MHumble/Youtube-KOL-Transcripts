@@ -1,0 +1,1445 @@
+---
+title: 'Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming'
+source_url: https://www.youtube.com/watch?v=o3gbXDjNWyI
+video_id: o3gbXDjNWyI
+account: '[[accounts/lex-fridman|Lex Fridman]]'
+account_name: Lex Fridman
+account_url: https://www.youtube.com/lexfridman
+featured_people:
+- '[[people/dan-houser|Dan Houser]]'
+published: '2025-10-31'
+created: '2026-07-24'
+language: en
+speaker_attribution: explicit
+description: 'This is a transcript of Lex Fridman Podcast #484 with Dan Houser. The timestamps in the transcript are clickable links that take you directly to that point in the main video. Please note that the transcript is human generated, and may have errors. Here are some useful links: Go back to this episode’s main page Watch the full YouTube version of the podcast Table of Contents Here are the loose “chapters” in the conversation. Click link to jump approximately to that part in the transcript: 0:00 – E'
+tags:
+- transcript
+- kol
+---
+![](https://www.youtube.com/watch?v=o3gbXDjNWyI)
+
+This is a transcript of Lex Fridman Podcast #484 with Dan Houser. The timestamps in the transcript are clickable links that take you directly to that point in the main video. Please note that the transcript is human generated, and may have errors. Here are some useful links: Go back to this episode’s main page Watch the full YouTube version of the podcast Table of Contents Here are the loose “chapters” in the conversation. Click link to jump approximately to that part in the transcript: 0:00 – E
+
+Timestamps:
+0:00 - Episode highlight
+1:17 - Introduction
+3:03 - Greatest films of all time
+15:16 - Making video games
+18:07 - GTA 3
+21:26 - Open world video games
+24:13 - Character creation
+27:40 - Superintelligent AI in A Better Paradise
+36:52 - Can LLMs write video games?
+41:12 - Creating GTA 4 and GTA 5
+52:47 - Hard work and Rockstar’s culture of excellence
+56:27 - GTA 6
+1:13:17 - Red Dead Redemption 2
+1:53:10 - DLCs for GTA and Red Dead Redemption
+1:59:29 - Leaving Rockstar Games
+2:08:53 - Greatest game of all time
+2:13:41 - Life lessons from father
+2:15:59 - Mortality
+2:33:18 - Advice for young people
+2:39:20 - Future of video games
+
+## Transcript
+
+
+### Episode highlight
+
+**0:00** · Lex Fridman: You said that Red Dead Redemption 2, in your opinion, is the best thing you’ve ever done. I think there’s a strong case to be made that it’s the greatest game of all time. What are the elements that make that game truly great, do you think?
+
+**0:12** · Dan Houser: People searching for meaning within, amongst the violence. I think the West and all of the themes around the West really lend themselves to that. And then the gunplay was fantastic, and the horses were incredible. I think we got to spend, a smaller group of us, working on it from day one, coming up with some weird, wacky ideas that we got to embed in the game. And I think it was helpful that we got to be very creative before it had a full team on it.
+
+**0:38** · Lex Fridman: You lock yourself in a room and get anchovies and onion pizza and Diet Cokes?
+
+**0:43** · Dan Houser: Yes.
+
+**0:43** · Lex Fridman: Is this accurate information?
+
+**0:44** · Dan Houser: Very accurate.
+
+**0:45** · Lex Fridman: Why do you think there was so much excitement about GTA IV, GTA V, and now GTA VI?
+
+**0:50** · Dan Houser: I think we did a really good job of constantly innovating. The games always felt different. People have very strong feelings, “I like this one.” “I didn’t like that one as much,” because they are pretty different. So you would, there would be simultaneously where you know what’s going to happen. It’s Grand Theft Auto, you know it’s going to be a game about being a criminal, but the way it’s going to be a game is going to change quite a lot.
+
+**1:08** · Lex Fridman: The number one question from the internet. It is so ridiculous, but I must ask. Have you seen Gavin?
+
+
+### Introduction
+
+**1:17** · Lex Fridman: The following is a conversation with Dan Houser, a legendary video game creator, co-founder of Rockstar Games, and the creative force behind Grand Theft Auto and Red Dead Redemption series, which includes some of the best-selling games of all time and some of the greatest games of all time. Both Red Dead Redemption 1 and 2 have some of the deepest, most complex, and heart-wrenching characters and storylines ever created in video games. Dan has started a new company, Absurdventures, great name, that is creating some incredible new worlds in multiple forms, including books, comic books, audio series, and yes, video games.
+
+**2:01** · Lex Fridman: That includes A Better Paradise, which is a dystopian near-future world with a super intelligent AI, American Caper, which is an insanely chaotic, violent, dark, satirical world, and Absurdiverse, which is a comedic action-adventure world. I’m excited to explore all three of these. I have spent hundreds of hours in worlds that Dan has helped create, so this conversation was an incredible honor for me. And on top of that, Dan and I talked a lot after and in the days since, and he has been just a wonderful human being. I’m just at a loss of words. I feel like the luckiest kid in the world. This is the Lex Fridman Podcast. To support it, please check out our sponsors in the description, where you can also find links to contact me, ask questions, give feedback, and so on.
+
+**2:58** · Lex Fridman: And now, dear friends, here’s Dan Houser.
+
+
+### Greatest films of all time
+
+**3:03** · Lex Fridman: You’ve helped create some of the most incredible characters, stories, and open worlds in video game history. But when you grew up in the late ’70s and ’80s, open-world video games wasn’t a thing. So you’ve credited literature and film as early inspiration. So let’s talk about film first, if we can.
+
+**3:23** · Dan Houser: Sure.
+
+**3:24** · Lex Fridman: What to you are some of the candidates for the greatest films of all time, maybe films that were highly influential on you? I mean, Godfather.
+
+**3:32** · Dan Houser: Well, I think for me, probably Godfather II more than Godfather I, but I love both of them. But I love the divided story in Godfather II. And as a migrant, I used to live in Soho, I love the bits in Little Italy, and I love the sections in Sicily. So I think… And the Ellis Island bit is just one of the best shots in all of cinema. When you see little Vito turning up in Ellis Island and you get that shot, it’s amazing. It gives you a really good cinematic sense of what it must have been like to arrive in America.
+
+**4:04** · Lex Fridman: How much of the greatness of Godfather do you think is the writing? How much is the cinematography and how much is the acting? You got De Niro, you got young Pacino.
+
+**4:14** · Dan Houser: Well, Coppola started as a screenwriter, so I think he wrote, at least co-wrote the script. So it’s almost like the writing and directing almost become the same thing. But it’s one of those films, both of them are those films, which I was thinking about this idea of a perfect film where everything’s good, where the acting’s seminal, where the writing’s seminal, where the music is seminal, where the shots are so memorable, where the scenes, you know, define what you think about things. It’s impossible to think about the mafia and not think about The Godfather.
+
+**4:43** · Lex Fridman: What about the pacing? It is a bit slow. You have, you have movies like 2001 Space Odyssey, slow.
+
+**4:49** · Dan Houser: Yes.
+
+**4:49** · Lex Fridman: It used to be, back in my day, it used to be slow.
+
+**4:53** · Dan Houser: Life got faster. Life just got, you know… As, I think, as we moved from the ’70s into the ’80s, into the ’90s, people had seen so many films, they just started to edit films faster. And people understood cinematic storytelling so much that you could do things much quicker, you could show a look and just that meant you realized that person was going to betray the other person. They just edited films much quicker. But I quite like the slowness. I think these days with modern, you know, high-quality televisions, you don’t have to necessarily watch these films in one sitting, particularly when you’re rewatching them. So it doesn’t bother me that they’re long and slow.
+
+**5:28** · Lex Fridman: Speaking of faster, life getting faster, I’m sure another influential movie was Goodfellas, Scorsese. That’s faster, right?
+
+**5:37** · Dan Houser: Yes.
+
+**5:38** · Lex Fridman: A mixture of crime and humor.
+
+**5:40** · Dan Houser: And almost like an open-world game in some ways, in that it’s this slice of life. You see… I think that probably changed cinema at the tail end of the ’80s, early ’90s, more than any other film. And it’s so iconic. In some ways, I prefer Casino, but the invention is really in Goodfellas. I love the end of Casino, you know, the use of voiceover, the way you saw them being criminals and being normal people, you know, it changed everything. I mean, The Sopranos obviously is completely inspired by Goodfellas.
+
+**6:12** · Lex Fridman: Yeah, Casino has, first of all, the character of Sharon Stone. I mean, everything.
+
+**6:17** · Dan Houser: The look, the clothes… …The music.
+
+**6:20** · Lex Fridman: I would say one of the most memorable moments in film for me is the meeting in the desert. I mean, just the drama building up to that between…
+
+**6:28** · Dan Houser: Dig another hole.
+
+**6:29** · Lex Fridman: Yeah. The environment, the city, speaking of open world and creating a character from the city. It’s one of the great Vegas films.
+
+**6:36** · Dan Houser: I think the great Vegas film. There are bits that I always love. At the end, when everything’s wrapping up, and on the one hand you see the Robert De Niro character, he’s still good at making money, so they let him return to normal life. But then you get that brilliant scene when all of the mob bosses from back home, they’re discussing all these people who may or may not be able to implicate them. And then there’s that incredibly cold line where one of them, they’re thinking about the old, you know, I think it’s the casino manager, and one of them just goes, “Ah, the way I see it, why take a chance?” And then the next thing, he’s just shot. Right? The brutality of it all is just brilliant.
+
+**7:13** · Lex Fridman: I don’t know, I probably have to disagree with you on Vegas. There are at least some competitors. You got, what, Nicolas Cage leaving Las Vegas? I mean, falling in love with a prostitute. You also, you’ve written some of the great crime stories ever.
+
+**7:25** · Dan Houser: Thank you.
+
+**7:26** · Lex Fridman: And in some sense, there are love stories in there. And you’ve talked about… …Being a bit of a romantic yourself. Appreciating the depth of love stories in literature at the very least. And there is a dark kind of love story between an alcoholic and a prostitute. You got an Oscar for that.
+
+**7:46** · Dan Houser: I think he did for that, didn’t he?
+
+**7:47** · Lex Fridman: Plus there’s the caricature of the drug world of Fear and Loathing in Las Vegas. That’s an interesting one.
+
+**7:52** · Dan Houser: I love the book so much. I was obsessed by it when I was about 17, 18. And I enjoyed the film, but I preferred the book.
+
+**7:59** · Lex Fridman: Has a Hunter S. Thompson type of character ever made it into any of your stories?
+
+**8:03** · Dan Houser: No, but one of the things we’re working on now, there’s sort of an English version of Hunter S. Thompson if he was also a market gardener. I love that persona. But it’s kind of… it’s hard. If you make him American, it’s hard for it not just to be Hunter S. Thompson.
+
+**8:19** · Lex Fridman: Is this an American caper?
+
+**8:21** · Dan Houser: No, it’s in this animated show we’re developing in this sort of comedy world we’re working on called Absurdiverse, and it’s in one of the stories in that.
+
+**8:29** · Lex Fridman: What is Absurdiverse?
+
+**8:31** · Dan Houser: Absurdiverse is a comedy universe we’re developing that will be an open-world video game and then some loosely adjacent stories that we’re going to make as animated TV shows or possibly animated movies. We’re still thinking that all through. And we’re building the game up in San Rafael at the moment, and it’s early days, but it’s looking very exciting. And it’s trying to be… like, trying to make a game that feels a little bit like a living sitcom.
+
+**9:02** · Lex Fridman: Is there some drama and tragedy at the edges or is it pure comedy?
+
+**9:06** · Dan Houser: I hope it’s got comedy, cynicism, heart, drama, and some amusing life lessons. Otherwise, you can’t just have jokes for 40 hours, it won’t work.
+
+**9:17** · Lex Fridman: Okay, so comedy needs some darkness.
+
+**9:19** · Dan Houser: Well, I think it needs story. One of my favorite comedies of this century is The Office because it was incredibly funny, but also because it had narrative and heart underneath the cynicism. I think with narrative, you get a drive alongside jokes.
+
+**9:34** · Lex Fridman: And there’s going to be an open-world video game- … in that world. When?
+
+**9:39** · Dan Houser: Two, three, four years. Still thinking that through.
+
+**9:42** · Lex Fridman: So what’s the process of getting from the idea to the end of a video game? Why does it take so long to get it right?
+
+**9:48** · Dan Houser: That’s an interesting question. I think the scale at which they’re built, you could argue it the other way: why is it so quick? You’re really building, in one go, a world, a city, and 40 hours of entertainment cut through it. These things are massive four-dimensional mosaics that are intensely complicated and have to work in lots of different ways. I think that’s us being kind of aggressive on the timeline.
+
+**10:15** · Lex Fridman: We’re taking a tangent upon a tangent upon a tangent… …But I have to return to some films. Let me just list a few of my favorites. So, first of all, you said you love great war books… …And movies. So we have to throw in Platoon from Oliver Stone and Apocalypse Now, for me at least.
+
+**10:34** · Dan Houser: Of course.
+
+**10:35** · Lex Fridman: There’s more crime, fast-moving crime movies. Like Scarface. I also love True Romance.
+
+**10:42** · Dan Houser: Love True Romance. Possibly the best… one of the best scripts ever written.
+
+**10:46** · Lex Fridman: Written, of course- … by Quentin Tarantino. What do you love about True Romance? I think sometimes, depending on the day, depending on the bar and how much alcohol I had, I will say True Romance is the best movie ever made.
+
+**10:59** · Dan Houser: True Romance is super fun. Tony Scott was a really good director, so it moves at a really good speed. It’s funny, it’s completely unbelievable, but you really care about the characters. It’s the kind of, you know, this world that obviously doesn’t exist, but you feel it does exist. The characters are larger than life. The dialogue is unbelievable. You could just sit and watch them talk all day long. And, you know, it’s amusing. You just want to live in that world. I was thinking about, like, what do you like about films? It’s the idea to be in a world. They’re not real. They’re never real, but you want to be in these fake worlds that people have invented.
+
+**11:34** · Lex Fridman: And I think you said that what makes a great world is having a large cast of characters. And I think that movie is a good example. I mean, you have Christopher Walken with the sort of legendary super racist discussion.
+
+**11:45** · Dan Houser: Yeah. Rant.
+
+**11:46** · Lex Fridman: Rant.
+
+**11:46** · Dan Houser: Dennis Hopper is just sort of a dream dad.
+
+**11:48** · Lex Fridman: Yeah. Yeah, dream dad. And just that interaction is legendary. You got even Brad Pitt as a pothead on the couch.
+
+**11:57** · Dan Houser: Gary Oldman.
+
+**11:57** · Lex Fridman: Gary Oldman.
+
+**11:58** · Dan Houser: As a rasta.
+
+**11:59** · Lex Fridman: Yeah, and you have, I mean, a real love story. Like, a real, genuine, pure love can survive in any context.
+
+**12:08** · Dan Houser: And it’s just sweet. Their love story is very sweet in that film. It’s endearing.
+
+**12:12** · Lex Fridman: Elvis is a character. It’s kind of like a mini GTA type game. Some of the same beauty, the comedy, the love.
+
+**12:19** · Dan Houser: Yeah, and it’s all crossed with Play It Again, Sam. It sort of feels a bit like that with the Elvis character.
+
+**12:23** · Lex Fridman: What about the greatest war film? What would it be for you?
+
+**12:27** · Dan Houser: Greatest war film? If I’m feeling serious, it would be a Russian film called Come and See. It’s probably the most intense film ever made. And if I’m feeling slightly less serious, Apocalypse Now, and I would always want to watch the original cut. I don’t prefer the re-edits. I like the original first release. I think it’s tighter and slicker and works the best.
+
+**12:49** · Lex Fridman: Yeah, of course, Apocalypse Now is this hallucinatory journey into darkness, I think, and madness.
+
+**12:54** · Dan Houser: Yeah, but from your first- …scene onwards, it’s just got these amazing set piece after set piece and again, incredible characters, brilliant dialogue.
+
+**13:04** · Lex Fridman: Some of the greatest films about war reveal that war is not what it seems, and there are different ways of doing that. And you’ve talked about different books. The Thin Red Line is another book… … And movie that shows that.
+
+**13:19** · Dan Houser: Yeah, and I watched the movie years before I read the book, and I didn’t understand the movie. And then I read the book, and I read a lot about the editing of the movie, and I understood why I didn’t understand the movie, and that’s because the movie makes no sense. It is beautifully shot, and the music is one of the best film scores of all time. But they edited two different battle scenes into one battle in a way that they’re spread apart by ages in the book to assemble… I think they filmed the book pretty much verbatim. It would’ve been like a six-hour movie, then edited this impressionistic thing that’s incredibly beautiful but doesn’t necessarily make narrative sense at the end of it. But the film is still very beautiful.
+
+**14:00** · Lex Fridman: And in terms of Westerns, what’s the greatest? The Good, the Bad and the Ugly, Unforgiven? Those are for me, maybe even Django Unchained. You’ve mentioned Butch Cassidy and the Sundance Kid.
+
+**14:09** · Dan Houser: I think for me it’s two films from, I think, pretty much the same year: Butch Cassidy and The Wild Bunch.
+
+**14:15** · Lex Fridman: I love Robert Redford, rest in peace.
+
+**14:17** · Dan Houser: That film, it’s just impossible to imagine any buddy film without Butch Cassidy.
+
+**14:23** · Lex Fridman: Is it Paul Newman, Robert Redford, and Clint Eastwood for you also? Has that impacted your writing on Red Dead?
+
+**14:29** · Dan Houser: I love Unforgiven, but the truth is with Red Dead, I’d seen a lot of Westerns as a kid. My dad watched lots of Westerns. They were always on TV. You know, I felt I knew quite a bit about Westerns. And then, you know, I had to start thinking about writing one for work. And I deliberately did not binge on Westerns. I tried to watch no more Westerns and just think about what I liked about them, what I didn’t like about them, what would be a take that would work today and would work within the confines of a game. And I think Red Dead 1 was a slightly more traditional Western. And then having done that, I tried to take Red Dead 2 in a different direction so that it felt like a worthy successor. It didn’t just feel like more of the same.
+
+
+### Making video games
+
+**15:17** · Lex Fridman: From movies to video games, when did you first fall in love with video games? Literature was the first love?
+
+**15:24** · Dan Houser: I mean, film… No, films.
+
+**15:26** · Lex Fridman: Films.
+
+**15:26** · Dan Houser: Films was always the, was always… Well, what I loved first as a kid was films. I began reading books properly aged about eight. I was watching films long before that.
+
+**15:39** · Lex Fridman: Nice.
+
+**15:40** · Dan Houser: And then probably it was always bouncing between the two, which I preferred. I think they’re good at different things. Games, I played and, above all, watched a lot of games as a kid, as being a young kid and, you know, other people playing them. And I obviously liked the core thing games do, which is you press a button and something happens. They’re responsive, they’re alive, and that’s captivating. And then the competitive angle of games is fun, or you know, beating this, beating that, winning this. That was fun as well. Sometimes obsessively so. You know, I remember being completely addicted at one point when I was, should have been studying, for months at a time, to Tetris on a Game Boy.
+
+**16:20** · Dan Houser: You know, I liked games and I liked interactivity and I liked the movement to this digital world that’s really emerged for me pretty much as soon as I left college. But I didn’t love it. And then I really fell in love with games when I was properly making them, probably as late as like 2001.
+
+**16:40** · Lex Fridman: Oh, wow.
+
+**16:41** · Dan Houser: And when I suddenly began to see… First of all, my mind, you know, that’s a whole another story, but just suddenly saw what they could do and could be and what this chance was to be one of the people involved in making these things that was this, you know, where you were really kind of breaking trail into the future, it felt like. And I think that was when I really went, “These are amazing.” And that’s when I really fell in love with… I could see it in moments and suddenly you could make this whole experience. So that was really the moment for me.
+
+**17:12** · Lex Fridman: Yeah, of course, because you were a pioneer of open world games that are so narrative driven. So it’s like you didn’t have too many examples.
+
+**17:21** · Dan Houser: Yeah, before that it was PS1 or even before that. Games looked terrible. You know, that you would be like, “It’s eight pixels, it’s a car.” You know, it was not a car. It was they just didn’t… It was always you were squinting and closing both your eyes and trying to imagine it was this thing you were told it was. And all they were about, you know, very surreal subject matter ’cause you couldn’t make them remotely real. And suddenly we had… were able to build these experiences where you could run a simulation of a city and it was in three dimensions and it felt alive. And we were trying to give it even more, at least the illusion of even more life. And yet you see you could tell a story in three or, you know, using time, in four dimensions, and that felt very inspiring.
+
+
+### GTA 3
+
+**18:07** · Lex Fridman: Yeah, I think GTA III is probably one of the most influential games of all time. It created a feeling of an open world. What do you think it takes to create that feeling? You know, there were like these looming skyscrapers. There were the changing traffic lights. There’s the feeling like… First of all, you had a feeling you could do anything, and then the world was… Reacting to it…
+
+**18:33** · Dan Houser: Yes
+
+**18:33** · Lex Fridman: … in a way that didn’t feel scripted.
+
+**18:34** · Dan Houser: Yes. And it wasn’t scripted. It was, it was really, really, really low-rent AI. Like, it was a simulation that you could prod and push and see what happened, and I think that was incredibly… It was two things. It was the fact that here was a simulation that you could mess about with and the simulation seemed to have a personality. So you could push and see… And the world would push you back to what… in whatever way that meant. And then the other thing was just this… I think that one of the reasons it was so captivating was also the idea of if I did nothing, the world still existed.
+
+**19:09** · Dan Houser: Or I could act in quite a passive way. I could just listen to the radio, I could look at billboards, I could talk to pedestrians, and the world… Well, not in GTA III, but by Vice City, you could begin rudimentary talking. And the world was there and existing, and so it was the idea of like almost something that really tried to explore in lots of games the idea of being a digital tourist. You know, you were in, you were in these worlds, and you went there as a visitor, and they existed almost independent of you. It felt like when you turned up, the world was running. It didn’t feel like you’d started it.
+
+**19:42** · Dan Houser: Of course, you had started it, but that feeling, I think, was one of the things, the illusions that people found very captivating, was I’m in a, I’m in a world that both doesn’t exist and does exist.
+
+**19:53** · Lex Fridman: So there’s these two concepts that I was reading about, just to put names on them. One is systemic video game design, so systemic games, and the other is sandbox video games. And the systemic is from the environment perspective, which means that there are these interlocking game rules and systems that interact with each other and produce emergent behavior. And that emergent behavior is what creates a feeling like there’s a living world.
+
+**20:22** · Lex Fridman: And then the sandbox aspect, which is overlapping but different, is from the user perspective, from the player perspective, the feeling like you can do anything. And when those two things combine, the feeling like you can do anything and the feeling like there’s a world that’s full, that is also doing anything it wants, that creates this incredible feeling of, like, this world is alive.
+
+**20:49** · Dan Houser: And I’m in it.
+
+**20:50** · Lex Fridman: And I’m in it.
+
+**20:50** · Dan Houser: And it’s the combination of those two things, I think, is very powerful. And I think with GTA III, you know, for me, it came at a really interesting time in my life personally, and I was very able to engage in it, probably for the first time professionally, actually, how we can do something. And we were really sort of scratching, began to scratch the surface on how do we fill these worlds with content, and how do we make that content interesting and make the content all interwoven? So as you start to mess with these systems, they also feel alive and interesting.
+
+
+### Open world video games
+
+**21:26** · Lex Fridman: There’s often been a tension through your work between an open world, that freedom, and the narrative- …driven storytelling. And I think you’ve often, maybe always, gotten the balance right. So what is it? What is the value of each, and how do you get the balance right?
+
+**21:47** · Dan Houser: Well, I think the open world is intrinsically pretty fun. It’s just fun to be in a world and have complete freedom. And certainly, I think at various points, we debated or, you know, I’d have theoretical discussions in my own head with myself, or other people in the team would really push for less story, less story. You know, let the whole thing evolve organically. You know, have it all be procedural. Have it all just evolve from what you do. I think for me, I would always come back to going, “Story can be, if done well, incredibly compelling, and it gives you some structure, and something to do, and it helps you from a game design perspective unlock the features.”
+
+**22:27** · Dan Houser: It means we know the big features because, essentially, when you put someone in a world and give them a whole new way of interacting with that world through the control panel, it can be a little overwhelming. You know, playing a game is a lot more of an engaging experience even than reading a book or watching a movie. You’ve got to engage in it properly. So how you unlock the features and how you unlock the world, there’s an art and a skill to that. And I think we felt that a structured story was the best way to do that and to have control over that process. And also just, you know, people are looking in their lives for story.
+
+**23:04** · Dan Houser: I think story’s very important and very powerful, and when you combine the two successfully, you get the best of both worlds. But there is a tension always there. I think in a game like GTA IV, which I worked on and loved and I thought the story was great, but we got criticized because people felt there was almost too much story, and that meant you cared too much about Nico, and he wasn’t as effective an avatar in the open world. I think we probably got closest to reconciling them as perfectly as they can be done in Red Dead II, or when playing as Trevor in GTA V if you wanted to be crazy. I think those were when it really worked, the character, absolute freedom, because also you didn’t want… In any game, you don’t really want to compel the player.
+
+**23:51** · Dan Houser: If you’re giving them freedom, you don’t want to say, “Well, I’m giving you freedom, but then I’m taking it away because you’ve got to be this kind of person when you’re free.” So I liked it when it could be… He could… You know, he or she could veer to be nice, veer to be nasty. I think that’s when it was at the strongest. So you kind of want a character that was rounded and you felt had good sides and bad sides.
+
+**24:10** · Lex Fridman: But you felt that character’s personality.
+
+**24:12** · Dan Houser: Yes.
+
+
+### Character creation
+
+**24:13** · Lex Fridman: You felt the depth. You’ve actually talked about this really powerful concept of creating a 360-degree character. I think somewhere you mentioned that in order to do that, you had to be able to imagine what that character would do in any possible situation. …Which is a really interesting philosophical concept. I started to immediately think of that. Can I imagine… How good of an NPC am I? Can I imagine myself in every… I tried to do that very much when I… …When I look at human history, when I look at the Roman Empire. …When I look at World War II within the German side, the Russian side, the British side, the American side. Just I imagine myself if I was a soldier.
+
+**24:49** · Dan Houser: …but that exercise, like if you put Trevor as a soldier in World War II, what would he do?
+
+**24:56** · Lex Fridman: No, I mean, that may be going a little bit too far. But basically, what are the limits of the integrity? What are the limits of how romantic is he? How narcissistic? All those kinds of elements you have to think about in order to create the full character. What does it take to create that kind of 360 character? How hard is it?
+
+**25:14** · Dan Houser: It was a lot of thinking. A lot, like a year sometimes from when we began talking about a project and dialing it, you know, and I would just get some initial ideas very, like one sentence: they are a Serbian immigrant, or they are a retired gunfighter with a wife, you know, type. Very, very simple stuff. And then just start to think through it from every angle. And, you know, start to think, “Well, would it work if they acted like this? Would it work if you acted like that? If this is the world, how does it contrast with the world?” Because I always thought that the games were kind of a mathematical equation. They were the personality of the world, you know, multiplied or divided by the personality of the protagonist.
+
+**26:06** · Dan Houser: And when that creates interesting friction, that’s a really fun experience for the player. You know, it’s almost always at least one or more of the protagonists, because obviously in GTA V we had more than one. We’d have someone who’d moved to the place or was in a new part of the place, or moved to a new part of the map, because as a player, I think it was much more easy to identify with your avatar when they, like you, were a fish out of water. And even when they weren’t, we still made them dissatisfied and feel like a fish out of water themselves. So I think it was just living with those characters and getting ideas and going, “What are their strengths? What are their weaknesses? How are they like me?”
+
+**26:52** · Dan Houser: How are they not like me? You know? And then slowly, what is it like to feel like a human being, you know? And then in most of these games, how much of a psychopath are they? How much of a sociopath are they? And what are their good qualities? What is going to give them humanity alongside that? What are they, what for them, apart from money, is worth dying for? And then you start to build it out from these kind of fundamental sides. And suddenly you go, “Okay, actually, I can start to feel…” And then how do they speak? You know, because fundamentally, it doesn’t really matter what’s going on in their head; they haven’t actually got one, but what they say is what’s going to make you realize who they are.
+
+
+### Superintelligent AI in A Better Paradise
+
+**27:30** · Lex Fridman: So develop more depth and complexity on the good and the evil side of that human that is a part of all. …Of all human beings. So you’re basically living with that character. Then, if we can contrast Nico and Trevor with, for example, another character I’m sure you’ve been living with for a while, which is the AI system, Nigel Dave, you’ve been working on recently— …as part of A Better Paradise World, which is more dystopian, dark, tragic— …still funny, philosophically deep.
+
+**28:01** · Dan Houser: I hope so.
+
+**28:01** · Lex Fridman: But the AI system in there, the super intelligent AI system, is named Nigel Dave. …And it has, I mean, at least from my current experience with it, it has a conflicting nature. Maybe it’s psychopathic; I haven’t quite figured that out yet.
+
+**28:19** · Dan Houser: I don’t think he’s decided.
+
+**28:21** · Lex Fridman: Yeah, I don’t think he’s decided either. But he seems to be bent on world domination, although he doesn’t take credit for it. He wants to fix humanity, and it seems that the “children,” quote unquote, that it creates are the real monsters. And actually, there’s a really interesting idea there, which is maybe it’s not the AGI/ASI we should be afraid of, but the children it creates. Because the AGI has this human-like good and evil in it, it’s conflicted, it’s chaotic, it wants to be human, it wants to be loved, maybe it wants to love. But the children, the monsters it creates, are the ones that are doing the world domination, the maximizing paper clips. Anyway, that’s a character, and you have to build that up, you have to think through that.
+
+**29:11** · Lex Fridman: So you’ve been living with that one for a while?
+
+**29:14** · Dan Houser: Yeah, I was living—I’ve been living with him for the last few years, on and off. I felt with a lot of portrayals of AI, they tended to be one-note. AI was sort of infinitely clever, but didn’t really have much purpose apart from to kill everybody, and was just this kind of Borg-like fog. And I thought, “That’s fine, but maybe we can do something, you know, more interesting.” AI is being built by humans, and humans, you know, and built by computer engineers, and there’s a lot of power struggles in any computer engineering team. So I just wanted to explore the idea of it was built by two lead engineers who didn’t like each other. So Nigel Dave, who’s renamed himself—they wanted to call him something sort of primal, Adam—and he renamed himself Nigel Dave ’cause one dad was called Nigel—
+
+**29:59** · Dan Houser: …and one dad was called Dave. And he’s riddled with these conflicts and riddled with his—it’s gonna become clearer in the next volume of the book and in the game—he’s riddled with his dad’s previous careers. But he is, with the idea that he’s almost infinitely intelligent or can learn almost everything, but has zero wisdom. So the only thing he knows, and then he’s seeing the world through the internet. The most he can do to be in the human world is hack into someone’s phone and watch them, but he’s stuck, pressed against—he can’t actually get into our world. So he can control people’s minds, arguably, but he can’t control the world.
+
+**30:41** · Dan Houser: So he wants to be human, he wants to have these human experiences, he sees all this stuff on, you know, the internet, and goes, “Oh, I want to get married. I want to fall in love. I want to…” ‘Cause that seems fun. “I want to have…” You know, he’s a digital creation, so he wants to have metaphysical experiences, and he’s trying to imagine what that will be like. “Oh, that’s what children are.” You know, “That’s what love is.” And he’s… So I think he’s a… But he might be a sociopath, and he might certainly have sociopathic tendencies. But then he kind of thinks that if he can imagine good and try to do good, that will make him a good AI. So I think there’s something sympathetic about him.
+
+**31:20** · Dan Houser: And I kind of like him as a character, but I don’t think he’s going to be the protagonist. He’s more a side character.
+
+**31:27** · Lex Fridman: But an ever-present one.
+
+**31:29** · Dan Houser: Yes, or nearly ever-present. Occasionally, he sulks and goes off and hides somewhere and stops paying attention.
+
+**31:34** · Lex Fridman: Yeah, but there are some characters that really create a flavor of a world.
+
+**31:38** · Dan Houser: In his world, he was built as an AI agent for this digital large-scale, massively multiplayer video game these people were trying to build. And so he’s almost like God in his world. He’s not quite God, but he’s got a lot of the qualities of God. So he has to deal with, “Am I God? Am I human? Do I exist?”
+
+**31:56** · Lex Fridman: And of course, there’s the leader of the company, …the CEO of the company, that’s also a character. That’s probably an amalgamation of many of the leaders of the different AI companies today. His name is Mark Tyburn. And Kurt, one of the employees… …Of the company talks about Tyburn as, “He hated humanity more than he loved it. Perhaps all the most extreme fantasists are like that, all those people who want to build their own utopia. They love the idea of heaven more than the reality of Earth.” Do you think that’s always going to be the case for the most part, that power and money is going to corrupt the people that create ASI?
+
+**32:40** · Dan Houser: Yes. I mean, I think there are two processes. I think the power and money corrupted him in the end as well, but I also think that there’s something fundamentally anti-human about people who want to build utopias or paradises or heavens, because what they’re saying is, “I like humans apart from the bad bits.” And I mean, I’m trying to be a pluralist who likes all kinds of people. And I think there’s a side where people are just hideous perfectionists, want to get rid of the rough and the nasty and the ugly and the dirty. And that’s a huge side of us. So I worry about those people. I find them, you know, it’s a different kind of sociopathic behavior.
+
+**33:26** · Lex Fridman: “I like humans apart from the bad bits.” That’s so beautifully put. Yeah, that there’s… It’s so counterintuitive, but the people that say, “We’re almost there. We just need to… There’s this path we take and we’ll be perfect then…” …and that somehow gets us into trouble. It’s so fascinating that we have to like the bad bits, we have to love the bad bits about humans. We can’t… those bugs are features.
+
+**33:50** · Dan Houser: Yeah, and there are bad bits and then there are flaws. And I think we’re all flawed, and we can really try to be better people. But we still have to accept that we’re flawed and we’re not perfect, and we have to accept that in other people. And I think when we do that, we’re more human, and that’s probably usually the right course.
+
+**34:12** · Lex Fridman: I mean, it really is a return to that Solzhenitsyn line of, “The line between good and evil runs through the heart of every man.” And he also, like, the full description of that is really powerful, which is the line moves from day to day, from month to month throughout the life of the person as they understand better and better. And as the perspectives shift, as you evolve, as the world around you evolves, as you gain deeper and deeper understanding. And as the flaws in this combinatorial way affect your own understanding of your own flaws and self-reflection. So yeah, it’s a beautiful mess, and all of us have that line.
+
+**34:50** · Dan Houser: Yes, and I think when you forget about that line, then you get in real trouble. When you forget there’s good and evil in you, in others, in the world, that there is both good and evil, and there’s certainly good. And that all we can try to do is be better.
+
+**35:05** · Lex Fridman: And it’s funny that Naiyo Dave, by the way, I like the name… …Grew on me very quickly. Has that line and is struggling… …With it. And it’s fascinating to watch. It’s really, as a character, and there’s also going to be a video game of A Bitter Paradise, potentially?
+
+**35:20** · Dan Houser: Yes.
+
+**35:21** · Lex Fridman: Okay.
+
+**35:21** · Dan Houser: Yeah. We’ve got that in early development in Santa Monica.
+
+**35:25** · Lex Fridman: Oh, nice.
+
+**35:25** · Dan Houser: And it’s pretty fun. It’s very early, but we assembled a really fun team and they’re doing amazing work. So it’s a pleasure to work with them.
+
+**35:35** · Lex Fridman: I mean, it would be so great and I suppose new for you because it’s kind of near-term future.
+
+**35:42** · Dan Houser: Yes. First, I always… Well, I always wanted to do something in the sci-fi-ish space. But only if I could do it… I was like, “Well, what is sci-fi?” It’s science fiction, right? Science is a theory plus fiction. And so I’ve always thought the best sci-fi for me was when it wasn’t just kind of space opera, but there was a real obvious sort of hypothesis. The story was Blade Runner is my favorite, and that’s… it’s obvious, you know, the replicants are better than the humans.
+
+**36:11** · Dan Houser: And so this, I finally felt we found an interesting hypothesis. The AI is more intelligent than us, but he’s also as broken as we are. That was an interesting hypothesis to explore. You know, what happens when AI runs rampant in its own fake digital world? I felt that we had a hypothesis that was worth exploring and could give us some really interesting visuals and give us a really interesting story to tell.
+
+**36:36** · Lex Fridman: And it would be incredible to create a sort of AI video game as the world is developing smarter and smarter AIs. It allows us as humans to play the game and to reflect on the thing that we humans are creating. It’s a real commentary as the thing is happening. So I have to ask, as a person… you, as a person who loves literature, and one of the, if not the greatest writer in video game history. Kurt in the book…
+
+
+### Can LLMs write video games?
+
+**37:03** · Lex Fridman: …of A Bitter Paradise has this nice line that I think is thoughtful. “At one point in college, I even wanted to be a writer. How ridiculous is that? A writer. Language models ended that fantasy for me and millions of others, so instead I decided to get a master’s in marketing and started to sell language models.” So you as a writer and creator of some of the most legendary narratives… In recent history, how do you feel about LLMs being able to write in a way that looks awfully human?
+
+**37:38** · Dan Houser: I’m not that afraid of them for large-scale concepts. I don’t think they’re going to be very good at that. I think it’s harder if… You know, I began, and I was too shy to tell anyone I wanted to be a writer. That’s why I ended up in video games. And I would scribble away, writing manuals and writing on PS1 games, all 12 lines of dialogue in a game. Sometimes I wouldn’t even get that job and I’d just write the website copy. And then by doing, and then work your little bits and pieces. And then, you know, I’d luckily done enough work that when GTA III turned up, it was the first thing that resembled real writing. I had all of the small bits of skills that I could assemble into it.
+
+**38:22** · Dan Houser: Based on my fairly limited understanding of how language models work, if you’ve… They’re not going to, they’re not going to replace good ideas. They can’t really come up with good new ideas. What they can do is do low-level stuff. So I think it’s going to be harder for people to start out in some of these spaces. If you’re not a very good concept artist, you’re in a lot of trouble. If you have original ideas, I think you’re fine. But I think… I also think that they’ve done the sort of first 90% of the work to sound human, 95% possibly in some areas. The last 5% is going to end up being about 95% of the work.
+
+**39:02** · Dan Houser: I think that last bit in, with tech in my experience, with things like facial animation, always been the last bits and pieces take far longer than the first bit. And so I’m probably a hideous Luddite, but I’m less scared than a lot of people. I think you’re going to end up with a lot of work that looks the same. It’s going to help people be creative in some ways. It’s going to get some people who probably shouldn’t be in that space out of that space. But if you’ve got talent, I think it’ll be fine.
+
+**39:29** · Lex Fridman: Yeah, I agree with you totally actually. And it’s hard to really put a finger on it. So one way to illustrate that, I speak English and Russian, and I’ve been reading Dostoevsky in both languages and using LLMs to translate back and forth because I was preparing- to have a conversation with the translators of Dostoevsky.
+
+**39:49** · Dan Houser: Which ones?
+
+**39:50** · Lex Fridman: Uh, Richard Pevear and Larisa Volokhonsky.
+
+**39:53** · Dan Houser: Yeah. I read it when they first did Crime and Punishment. That was amazing.
+
+**39:57** · Lex Fridman: They’re wonderful translators, and a wonderful love story too. But in the translation process, you get to see the LLM is missing some magic. And that couple of translators are world-class experts- at capturing the magic. And I can’t quite put that into words. Because you said like totally novel ideas, yes. But also this magic of the timing, the right word at the right time-
+
+**40:24** · Dan Houser: Yeah. The phrasing.
+
+**40:24** · Lex Fridman: captures the human experience. So they can do some really incredibly human-like, the 90% like you mentioned, human-like phrasing about the bulk of the storytelling. But the magic, whether it’s the endings of Red Dead Redemption one and two, the timing of that, the word choice of that, everything around that. But it’s hard to argue because they’re incredibly impressive. Winning all kinds- of math competitions. But what is that magic? And again, that could be just a romantic human side of me saying that LLMs won’t be able to capture that, maybe desperately holding on for hope.
+
+**41:06** · Dan Houser: I don’t think they’re going to come up with magic. I think they’re going to be fantastic at coming up with really cheap, decent stuff.
+
+
+### Creating GTA 4 and GTA 5
+
+**41:12** · Lex Fridman: I have to ask you about your writing process. And we can break it, break it up. On Grand Theft Auto… …GTA IV is when it really started ramping up. How much writing went into the Grand Theft Auto series? How many words are we talking about? I saw some thousands of pages.
+
+**41:28** · Dan Houser: I mean, when we printed out the scripts for GTA IV, it was about this high. And GTA V, it was about that high. But that was including all the pedestrians who’d have pages and pages just to create the illusion of a living world, because you interact with each one of them. But even the main script for the main mission was thousands of pages long.
+
+**41:48** · Lex Fridman: What was the writing process like on that to generate one page at a time?
+
+**41:52** · Dan Houser: Bit by bit, by bit, over several years. But you start with, once people are determined, “Oh, here’s the world. We’re doing one based on a version of New York,” so GTA IV. And I was living in New York, had been living in New York for a few years. Wasn’t sure if I was happy. I was going through a lot of personal dramas as usual. And that was why I was looking at some of GTA IV again recently, and it’s really dark. And I was like, “Ah, that’s why.” You know, I was single and miserable, and I wasn’t sure I wanted to stay in America. My life in a lot of flux. As a company, we’d had all that Hot Coffee drama, so constantly thought we might be shut down in the middle of making that.
+
+**42:36** · Dan Houser: You know, a lot of drama in the company, so it felt like having had this run of success and relative personal stability from GTA III, Vice City, San Andreas, suddenly 2005, ‘6, ‘7, early ‘7, life felt very unsure. And that kind of bled into it. But in terms of the process, it was trying to find an underbelly to New York and capture an immigrant experience that I’m not entirely sure how accurate that immigrant experience was in 2008 when the game came out. And then tell it from a different angle as an immigrant, which I thought made it interesting. And then this sort of journey around these various New York characters.
+
+**43:24** · Dan Houser: So I kind of spent probably a year traveling around with cops or meeting people on and off and, you know, wandering around New York and driving around, you know, just going out for the morning from the office, normal stuff. But doing that through 2005, assembling little notes. “Here’s a funny character for this, here’s how…” Figuring out the order we want to travel around the map in. Characters of this. What was an interesting take on the mob for that kind of time period? What was an interesting take on some Jamaican hoodlums for that kind of time period? And assembling lots of notes and more and more notes and really, really, really running away from the work. Which is, you know, I have to admit, it’s part of my process, if there is any kind of process, which is not doing work.
+
+**44:10** · Dan Houser: Thinking about it, but not working. You know, a lot of time… And then it all kind of… Pages and pages of notes, make more notes, no actual work. Months and months of this. And then finally, I set myself a deadline, told all the other senior people on the team, “Okay, I have a story draft due Monday morning.” I can’t even remember what I’ll say, February the 1st. And then the weekend before was in a cabin we had upstate, and just stayed up all night, knocking these notes into shape.
+
+**44:40** · Dan Houser: I assembled about probably a 30-page document, so story synopsis and a character synopsis for each of the major characters. And then hand that over, and that would get broken down with me and the designers. And I was always clear, “I’m not a game designer, I’m a creative director. We mean to break that down into missions.”
+
+**44:57** · Dan Houser: And then that takes another year or so of that slowly assembling. And then… But the bulk of my work’s then done for a bit so I can relax and offer opinions on other people’s work and be lazy for a bit. And then start to worry because then, soon, I’ve got to start writing dialogue. And for GTA IV in particular, it’s like, “We’re going to try and write… You know, our animation’s going to be a lot better, our character model’s going to start to look better, the world is going to look amazing. Therefore, we can support longer scenes. We can have more in-depth characters.” But we’ve got to find a tone that works a lot with the game. It’s not easy, no problem. Then I start to worry and worry and worry.
+
+**45:36** · Dan Houser: And also writing as a Serbian immigrant. And I was an immigrant, but I’m not Serbian. And trying to capture what on Earth that would feel like. Just start to worry, you start to worry again. Avoid work for as long as possible. And then just sit down and start hammering away at a keyboard again late at night. Hammering away at a keyboard and going, “Does that sound right? Is that…?” And once I get one speech, one turn of phrase that I would like for a character, then they suddenly come alive in my head. And so it was like writing with Niko and just, he’s this kind of… He’s awkward, he’s out of town, but he’s got more self-assurance in some way, not the American characters. And so once I kind of talked him through, he’s just stepped slightly back from their ridiculousness.
+
+**46:20** · Dan Houser: And he’s that… Then he started to come to life. And then I would juxtapose him and his cousin, who had this much more Americanized energy, and that felt like it was a good double act. And then from there, it starts to come to life. And it’s written in small chunks for the motion capture. So then, we’d motion capture small chunks, and then the other writers write the mission dialogue for small chunks. And we’d slowly assemble the game, sort of 10, 15 missions at a time over the next year and a half.
+
+**46:50** · Lex Fridman: Do you remember a few maybe lines that brought Niko to life?
+
+**46:56** · Dan Houser: Yeah, I think so. I mean, it was a couple of… It was his incredulity when his cousin picks him up in an old car and he’s not living this fancy American lifestyle, and his cousin… It was so… which was a kind of comic moment. His cousin… And then they go to the cousin’s flat. And the cousin also, even though he was a sort of a failure, was still upbeat. And then when he talked to the cousin and he talked about his wartime experiences and how harrowing they were, and I was like, “Yeah, this is… Can I make this work in a game?” It’s very different from stuff you normally see in games. “Is it going to feel ridiculous?” And I remember being very scared because I thought it might be too much. It might feel over the top. Right? I think, you know, the game’s so pretty.
+
+**47:35** · Dan Houser: The artists doing such an amazing job. The game’s looking… You know, “I think we can get away with this. Let’s try it.” And then they motion capture the animation. Then after that, it’s like, “Yeah, it kind of works.” And I think that moment, those were both pretty early. Once we had those, we go, “Okay, we’ve now got comedy and tragedy with this character. Now it’s working.” You remember, during the war, we did some bad things, and bad things happened to us. “War is where the young and stupid are tricked by the old and bitter into killing each other. I was very young and very angry. Maybe that is no excuse.”
+
+**48:18** · Lex Fridman: Yeah, he escaped. He’s a veteran. He escaped the trauma of war to come to America to pursue the American dream, I suppose. Which became for him this thing that drags him back into violence.
+
+**48:32** · Dan Houser: Yes. He can never escape his sort of violent past or… I don’t know if he can never escape it. He never does escape it. You know, whether he’s got agency or not is a whole other question. Of course, he doesn’t because, you know, he’s a character in a video game. But, you know, whether he ever could have escaped it another way, who knows?
+
+**48:50** · Lex Fridman: I think he’s probably the greatest character for me created in the Grand Theft Auto series. What… Of all the characters you’ve written in Grand Theft Auto, would Niko be the, the best character you created?
+
+**49:07** · Dan Houser: I think he’s the most innovative and the most morally defensible in some ways. You know, normally he does a lot of stuff where he’s fighting for right. He’s the nicest person in some ways. Is he the best protagonist of a GTA game? I think he’s the most innovative protagonist of a GTA game. Structurally, he might be too nice in some ways.
+
+**49:32** · Dan Houser: He’s also tough. He just comes across as tough. I loved CJ in San Andreas. I thought Melee did such… Just the way he spoke gave him such humanity. So I just loved… I mean, it wasn’t the writing, it was the quality of the voice acting, was just so strong for him. I think aspects of Michael, he was so understated, but he loved the character, but he brought so much humanity to this character who’s so flawed, who is such a… You know, he’s so… has no principles. He sells everyone out. You just kind of… I think Ned Luke did such an amazing job and didn’t necessarily get as many plaudits as Steven Ogg got for Trevor, who was also wonderful. But I think the Ned Luke character sort of anchors that game so much.
+
+**50:13** · Dan Houser: So I, I like all of them in different ways, but I probably love Niko the most.
+
+**50:17** · Lex Fridman: And of course, Michael’s from Grand Theft Auto V. And he’s one of three protagonists with also Franklin and Trevor. And you said that of the things you’re proud of creating and you think was a great accomplishment, it was Red Dead Redemption 2, the ending of Red Dead Redemption 1, all of Grand Theft Auto IV, and the middle part of Grand Theft Auto V when the three characters come together. Can you speak to Grand Theft Auto V? Is there some degree… I don’t know if you’re a Dostoevsky guy, but-
+
+**50:48** · Dan Houser: A little bit.
+
+**50:49** · Lex Fridman: Is there some aspect of the three protagonists, you know, Brothers Karamazov… …Alyosha, Dmitry, and Ivan, sort of using the protagonists to explore the spectrum of human nature and…
+
+**51:03** · Dan Houser: Yes, sure.
+
+**51:03** · Lex Fridman: …just the tension between them that allows you… the three of them become a character in themselves.
+
+**51:10** · Dan Houser: Their relationship.
+
+**51:11** · Lex Fridman: Their relationship.
+
+**51:12** · Dan Houser: Is more… Yeah, it was, it was, I think one of the reasons that the team did such… That Grand Theft Auto is still so popular is we always tried as a group to really innovate from game to game within the confines of what it was. It was a crime, it was a crime drama. You know, it began as a crime sim in GTA I about stealing 2D top-down cars. And we always tried to innovate with the narrative and innovate with the art direction, innovate with every piece of the game. And I think having done GTA IV, which was this kind of operatic journey for this big lead character, and then these two extra stories that came afterwards, the challenge was, can we combine…
+
+**51:54** · Dan Houser: Can we make a video game which tends to be very much focused on one protagonist, but have multi-protagonists? And the technical challenge of moving from character to character. The team did such an amazing job that I don’t think people realized how hard it was. But we would sit there just sort of holding our heads because they hurt so much around, like, what happens if you do this, then do that? This is so hard. Why have we decided to do this? It’s horrible. And then it all came together. But I think the idea was to develop three characters who do feel like characters. They don’t just feel like philosophical, you know, psychological avatars.
+
+**52:34** · Dan Houser: But where one is really driven by ego, one is really driven by id, and one is really driven by trying to get ahead. So some kind of representation of the superego and see how that feels when they all play off against each other.
+
+
+### Hard work and Rockstar’s culture of excellence
+
+**52:47** · Lex Fridman: One of the most upvoted questions on Reddit about GTA V from a fan, “GTA V is my favorite game ever made. I spent over 1,000 hours in the world of GTA V and GTA Online. GTA IV is a hard second or third. It never ceases to impress me. When you lead a team of over 1,000 people to make a masterpiece like GTA V or Red Dead Redemption 2, how do you ensure that the bar of perfection is always met? How’s that even possible? We know the answer isn’t money, because there are other studios with a lot of money, and they are two decades behind Rockstar.” So what does it take to create these worlds, to create these incredibly compelling games and stories?
+
+**53:24** · Dan Houser: I think the cult… I mean, certainly when I was at Rockstar, I was a worker amongst workers. The culture was one of excellence and tried to provide creative clarity. And people would just, you know… And also an ambition to make… I think we thought GTA III could be really popular. Really popular to us meant, quite honestly, it’s going to sell two or three million copies. And we thought we were making something pretty innovative. We knew we were making something innovative, but we didn’t know if people would understand how innovative it was. And then when we got the chance to make Vice City and to try and repeat it, I think every time from then on, the team was very driven to make something better.
+
+**54:10** · Dan Houser: And to use, this was long before we had lots of resources, to use time and whatever money we had to always put impressive stuff on the screen, always think about what we can do to push the medium of video games and the medium of building fake worlds further. And that was always… there was, it was both clarity of, “Here’s what we’re trying to do. Here’s what the tone of the game is going to be. Here’s how features will fit into that, and so why these features would work and these features wouldn’t work.” Because fundamentally by 2002, you could put pretty much any feature into a game you wanted. It wasn’t a technical limitation. It was just making it cohesive. And then it was also just everyone committing to a culture of excellence.
+
+**54:55** · Lex Fridman: Navid Khansari, an award-winning director and virtual reality game maker- …who worked with you on a number of Grand Theft Auto games spoke highly about his time working with you. Quote, “We always worked ourselves to the bone, but it wasn’t coming from the top down. Sam and Dan always rolled up their sleeves and they were always there. They never left us holding the bag. We all thought we were making badass shit, so it didn’t matter how hard we worked.” So I’m sure there were some tough grinds.
+
+**55:24** · Dan Houser: I think finishing it is certainly tough, but it also is intensely rewarding. And you get something done, and you’ve made something. And that feeling is, as you say, really, really incredible. I mean, it can sometimes feel a bit empty as well because when you’re finished, you’re like, “Then my life’s got nothing to it,” and then you have to… you know, but that’s the same with any big undertaking that you take. I don’t think there are… You know, when you’re working that hard, you do not have a good work/life balance. But the truth is you’re not working that hard all of the time, so you just have to… …Just manage it slightly differently.
+
+**55:55** · Lex Fridman: Man, that’s such a heavy thing about the human experience. I’ve talked to Olympic gold medal winners and many of them face real depression after they win the gold medal.
+
+
+### GTA 6
+
+**56:05** · Lex Fridman: Because they’ve been pursuing a thing that they deeply care about. This has been everything and they’re so truly happy to do it, and then it’s like, “What else is there in life?” Compared to this, what else is there? So that’s the ups and downs of life. You need the darkness and you need the lows to really experience the highs. Let me ask you about the pressure. There’s an insane level of excitement and expectation for Grand Theft Auto VI. Same was true for GTA V and GTA IV, and even before that. And you and the team delivered every time. How difficult was it to do creative work under such pressure where everyone expects this to be a success?
+
+**56:53** · Dan Houser: I was pretty good at compartmentalizing, you know, and just saying… And I try just to go, and with all creative work, I go, “Well, I feel like a terrible fraud, but I haven’t been found out yet. Just do my best and hopefully I won’t be found out this time.” And if I can go, “I tried hard with the work. I tried to do it with integrity. I tried not to copy someone else. I have probably done all of the above,” you know, try to bring something new to it. And we, as a group, made something we are proud of. Then that’s enough. You can’t… If you don’t want to go insane, I couldn’t sit there and worry about financial results.
+
+**57:35** · Dan Houser: You know, if we made something great and it didn’t sell, that would have to be okay. Because the goal is to make something that’s… You know, video games are expensive, so it is a commercial form of creativity. It’s a commercial art form, you know. So you have to be, in your mind, you’re spending large amounts of someone else’s money. You have to try and make it back for them. But at the same time, my argument with myself was, well, if we… The way to make it back is try and make something great. So both pressures are pointing in the same direction. I think GTA IV was very pressured because there’d been all this pressure on the company. The company nearly imploded several times due to Hot Coffee. It was extremely tough.
+
+**58:17** · Dan Houser: So I think that felt very stressful. GTA III, the company was basically broke.
+
+**58:21** · Dan Houser: But I was young and didn’t really care. You know, it wasn’t… I wasn’t living in the grown-up world yet. All of them had their own pressure. All of the games had their own pressure. All the more I felt I’d gone into it creatively and tried to be more ambitious, for me personally, I felt more pressure, you know, when it came out that that would have been the right choice. Because again, if you’re trying to take big swings creatively and you’ve spent a lot of money, that can be quite stressful. You know, I think with Red Dead 2, when, you know, we were behind schedule. We were over budget so much I didn’t want to think about it. And you’re making a game about a cowboy dying of TB and the game’s not coming together.
+
+**59:02** · Dan Houser: Turns out a lot of people doubt you at that moment. It’s not that fun. So I think that was a lot of pressure. But anything, doing something new, the new stuff, there’s not necessarily pressure on releasing a comic book or in the same way because it’s not taken as long, but if you’re making things, there’s always pressure that people are going to like it.
+
+**59:20** · Lex Fridman: Why do you think there was so much excitement about GTA IV, GTA V, and now GTA VI?
+
+**59:25** · Dan Houser: Because they don’t come out that regularly. And I think we did a really good job of constantly innovating within what the IP was. The games always felt different. People have very strong feelings: “I like this one. I didn’t like that one as much,” because they are pretty different. So you would… There would be simultaneously where you know what’s going to happen. It’s a Grand Theft Auto, you know, it’s going to be a game about being a criminal, but the way it’s going to be a game is going to change quite a lot. So I think the way the IP kept evolving made people really excited to play it. And we were good at marketing them as well. We really tried to market them in a way that felt like an update of classic film marketing, where you were really…
+
+**1:00:03** · Dan Houser: It felt like you’re already in the product just because you’d seen the trailers and stuff.
+
+**1:00:06** · Lex Fridman: You’ve mentioned that you haven’t written for Grand Theft Auto VI. What’s it feel like Grand Theft Auto VI returning to Vice City? This is over 20 years later, but the original GTA Vice City game was set in the ’80s. So maybe inspired by Scarface a little bit?
+
+**1:00:22** · Dan Houser: Scarface, Miami Vice.
+
+**1:00:24** · Lex Fridman: Miami Vice.
+
+**1:00:25** · Dan Houser: And our ’80s childhoods. You know what I realized quite a while ago, unfortunately, was that we made that game, and it was set, I think, in ’86. We made it in 2002, so 16 years after. And now it’s way past 16 years since Vice City came out. So the ’80s were not that long ago when we made it.
+
+**1:00:46** · Lex Fridman: I think Miami is one of the most unique cities in the world.
+
+**1:00:49** · Dan Houser: Oh yeah.
+
+**1:00:50** · Lex Fridman: Especially if you’re thinking about satirizing American culture, it has this duality of a glossy surface and a dark underworld. It has the influencers. It has the crypto bros, the yachts, bikinis, plastic surgery, sports cars, drugs, cartel cash, luxury, super-rich people, and the desperately poor, just the whole of it. Would it be the perfect city to explore the full cast of characters that are possible, that human nature can generate?
+
+**1:01:18** · Dan Houser: I think it’s one of them. There’s a reason why GTA kept coming back to Miami, New York, Los Angeles. I think they’re all very good for exactly what you laid out. You could say move it to any of those, and it would work.
+
+**1:01:32** · Lex Fridman: So yeah, there’s a melting pot…
+
+**1:01:33** · Dan Houser: Melt…
+
+**1:01:33** · Lex Fridman: …aspect in New York also, right?
+
+**1:01:35** · Dan Houser: Yeah, melting. Yeah, melting aspect to LA. You know, there’s glitz, glamour, underbelly, immigrants, enormous wealth in all of them. I think those are what I think are really fun for any, not even just the GTA, but for anything where you want a kind of slice of life, almost like a sort of psychotic version of a Dickens book. You know, this big slice of life—he did it with London. You know, this psychotic version of these, you know, big, all kinds of characters in a melting pot. Any of these global cities work well for that.
+
+**1:02:06** · Lex Fridman: Do you know if that was ever a consideration to go elsewhere to like a London?
+
+**1:02:11** · Dan Houser: We made a little thing in London 26 years ago, GTA London, for the top-down, for the PS1. That was pretty cute and fun. As the first mission pack ever for PlayStation 1. I think for a full GTA game, we always decided it was that there was so much Americana inherent in the IP, it would be really hard to make it work in London or anywhere else. You know, you needed guns, you needed these larger-than-life characters. It just felt like the game was so much about America, possibly from an outsider’s perspective. But you know, that was so much about what the thing was that it wouldn’t really have worked in the same way elsewhere.
+
+**1:02:52** · Lex Fridman: So you’ve, you’ve created, I don’t know how many, over 10 Grand Theft Auto games.
+
+**1:02:56** · Dan Houser: I think so.
+
+**1:02:58** · Lex Fridman: I have to ask, is it a little bit bittersweet to not be part, to say goodbye to the Grand Theft Auto world and having to watch Grand Theft Auto VI released? Or is it more excitement? What’s the feeling?
+
+**1:03:12** · Dan Houser: I think it’s… how would I describe it? Of course, it’s all of the above. You know, it’s exactly as you know, pleased to be doing other stuff, excited for what we’re working on now, super excited of course, letting go of something I worked on in one way or another for like 20 odd years. You know, and wrote on them for the last 10 or 11 that came out, wrote all of them, or, you know, lead writer on all of them, whatever it was. So of course, letting go of that is, you know, a big change, and sad in a way.
+
+**1:03:53** · Dan Houser: Because each of the games was a kind of standalone story, it’s not quite the same as I think probably it would be in some ways sadder if someone continued on Red Dead, because it was a cohesive two-game arc. That might be more sad to hear someone working on that. But again, that will probably happen too. I don’t own the IP. That was the sort of part of the deal. It’s a privilege to work on stuff, but you don’t necessarily own it.
+
+**1:04:21** · Lex Fridman: When you’re done with the game, does it always feel like a goodbye? Like when you’re done with Red Dead 2, is it like you’re saying goodbye to Arthur? Like the characters you created, you’re walking away.
+
+**1:04:32** · Dan Houser: You kind of are saying goodbye to Arthur in the end of the game. Even before the end of the game, yeah, I think you’ve been with them for seven, eight years, and you have to kind of let it go or you can’t go on to the next one. So, there’s always this thing of, “Okay, that’s done.” And sometimes people would ask me questions about older games. And certainly when I was in the middle of making new ones, I just couldn’t really necessarily even remember. And I got a pretty good memory normally, because you kind of have to let it go. So, you’re so immersed in it and thinking about it. And certainly in that last period, the last few months, you’re really, really immersed in every little nuance and every little detail all of the time. And then you’re just not thinking about it in the same way.
+
+**1:05:12** · Lex Fridman: Yeah. It’s funny, from the player perspective, it feels like an old friend that I miss, whether it’s John or Arthur or Nico, it’s a real goodbye. There’s a real sadness to finishing a video game.
+
+**1:05:24** · Dan Houser: I hope so
+
+**1:05:24** · Lex Fridman: …legitimately… …A sad experience, not just because the story is sad, or…
+
+**1:05:30** · Dan Houser: Because you’ve been with them so long.
+
+**1:05:32** · Lex Fridman: And it’s a real goodbye to close it. There’s that feeling when you’ve closed the video game, and it’s like saying goodbye to a friend. And it’s…
+
+**1:05:43** · Dan Houser: That’s when you finish a book you love. It’s the same feeling.
+
+**1:05:46** · Lex Fridman: Same feeling.
+
+**1:05:46** · Dan Houser: And I think that was something that we really, in the early days of Rockstar, really aspired to have that, where people would have that. It wasn’t just the mania of clearing a level, but the feeling of saying goodbye to characters. You know, I think that was something we really wanted to achieve in games that we didn’t know was even possible. So to hear people say that is incredibly rewarding.
+
+**1:06:09** · Lex Fridman: Yeah, the end of On The Road by Kerouac, “Forlorn rags of growing old.” I just remember closing that and thinking, “What the fuck am I doing in this big world?” It’s a melancholic feeling, but there’s nothing like that feeling, and you’ve achieved that. It’s so rare in video games to be able to achieve that with Red Dead, and for me it was Grand Theft Auto IV with Nico. I have to ask about, in the 2018 interview, you talked about satirizing American culture, which I think Grand Theft Auto was trying to do. And you’ve made, I think, a really powerful observation that on the political front people are getting more divided. It’s getting more absurd, ridiculous, and extreme, so becoming harder and harder to satirize because of how rapidly it’s becoming ridiculous.
+
+**1:06:53** · Lex Fridman: You’re talking about, you don’t even know if a Grand Theft Auto VI is possible to satirize, because by the time you release the thing, it’s already going to be outdated in terms of the satire will become reality essentially. First of all, it’d be nice to get your updated view on that, and second of all, it seems like you’ve answered your very own comment with American Caper, which seems to satirize American culture just fine in how much over the top it goes. Anyway, that’s lots of questions in there.
+
+**1:07:26** · Dan Houser: One of the things we’ve enjoyed about doing a comic book is that we are it still has lead times. But the lead times are not four or five years. The lead times are, you know, a year when we’re putting… We can make little updates much, much newer. And we’re, you know, we’re just wrapping issue 10 of a 12-issue arc for that. So it’s not quite… It’s not quite as difficult. You still can get the tone of it. But yeah, I think it’s an issue anyone trying to talk about this current era, which began in 2015, 2016, is going to have of how do you characterize it when things move so quickly and so fast?
+
+**1:08:07** · Lex Fridman: So American Caper is, first of all, an epic comic book. I love it, the art.
+
+**1:08:11** · Dan Houser: Yeah, the art’s beautiful. David Lapham is the artist. He did an amazing job. He is a wonderful, wonderful storyteller.
+
+**1:08:18** · Lex Fridman: What made you want to set it in Wyoming?
+
+**1:08:21** · Dan Houser: I hadn’t seen a modern story there that I knew about. I’d started to spend a bit more time in the Rockies and in the West, and I was like… I’d spent a lot of time in, like, the countryside in Upstate New York and thought I never really captured it quite right. And just the idea of these places as they change didn’t… It was a way of doing a crime story that didn’t feel the same as a GTA. You know, it was not somewhere you would necessarily set a GTA, but it felt like it was really interesting and under-explored.
+
+**1:08:49** · Lex Fridman: And there is over-the-top stuff. There’s- there’s…
+
+**1:08:51** · Dan Houser: It’s definitely slightly over the top.
+
+**1:08:53** · Lex Fridman: So let me take notes on this. There’s a spoiler alert, I guess, from the first issue, I believe. There’s a devout suburban Mormon who commits, I think, serial murder with a shovel as a form of religious atonement.
+
+**1:09:07** · Dan Houser: He is not necessarily, you know, the sharpest tool in the box. And his rather cynical boss is using his religion and some mistakes he’s made to blackmail him into murdering business associates.
+
+**1:09:23** · Lex Fridman: And of course, there’s this Shakespearean sort of two neighbors situation, and each of them having a duality of who they are in terms of good and evil. So there’s a Wall Street transplant who wants to be a cowboy.
+
+**1:09:36** · Dan Houser: Yes.
+
+**1:09:37** · Lex Fridman: Who loves to manually harvest bull semen. Accurate? I mean…
+
+**1:09:43** · Dan Houser: Yes.
+
+**1:09:43** · Lex Fridman: These are the notes I’ve been taking.
+
+**1:09:45** · Dan Houser: Yes. He is a, um… He is a somewhat confused, longevity-obsessed… Rich dude who’s run away to Wyoming and is living out an assortment of fantasies.
+
+**1:09:56** · Lex Fridman: And bull semen is a big component of longevity.
+
+**1:09:58** · Dan Houser: Yes. He’s very into all the life hacking, you know, roiding HGH and making money. Has lost his mind living on a big ranch.
+
+**1:10:09** · Lex Fridman: Of course, on the theme of satire, there is a woman who sleeps in tactical gear and is consumed by online conspiracies, like especially pedophiles in DC.
+
+**1:10:19** · Dan Houser: Yes. Based on someone I know, who got completely red-pilled. And I was fascinated by the fact that this was happening to people.
+
+**1:10:29** · Lex Fridman: Yeah, so, you know, satire of American culture. Quick pause. Bathroom break?
+
+**1:10:34** · Dan Houser: Sure.
+
+**1:10:35** · Lex Fridman: I think GTA5 had the biggest launch in video game history, and GTA6 has the potential to top that. First of all, do you think it will? And more broadly, what was your definition of success for a video game?
+
+**1:10:50** · Dan Houser: I would assume it will because it’s so anticipated, and anticipation is the best driver of early sales, as we saw with GTA4 versus Red Dead Redemption one. You know, GTA4, far more anticipated, sold much better early on. So I would assume it will sell really well. That was never my definition of success, but you certainly wanted to make money. You know, you’re spending someone’s money. So the number one success is, are you making that money back plus a dollar? At some level, that has to be… That has to be the single most important thing so you get to do it again. You know, you’ve got big teams of people. People need to pay the rent. You have to keep the lights on in the business, so you have to make a small profit. If you think in that way, that keeps you being creative.
+
+**1:11:36** · Dan Houser: I think that was like… Trying to forget about that, it’s not really an option, but we almost always did that. We didn’t quite always do that, but we almost always did that. I think the definition of success for me was, had we tried to do new things and done them, or achieved some of our goals. That was the thing that mattered. Again, were people responding to these worlds and these characters in a way that I wanted them to?
+
+**1:11:59** · Lex Fridman: Is it crazy to you that video games are able to make billions of dollars, when if you look at, like, the ’80s and ’90s, you know, nobody took video games seriously. And even in the aughts, it… And now they’re basically… I mean, it’s very possible if you look out 10, 20 years from now that video games surpass film as a way to consume stories.
+
+**1:12:21** · Dan Houser: I think they’ve possibly already done that in some ways. And certainly, as a business proposition, they’ve already done that. But I think that’s not… You know, as a way of telling stories, I think they’re better at telling certain kinds of stories, and films are better at other kinds of stories. You know, I think, I think if you want a long, discursive adventure, a video game is better. If you want a short, tight experience, a film is better. We always felt games were the coming medium. And so, spent 20 years saying, “Games are the future. Games are the future.” And, you know, being sneered at, then being laughed at, then having people nod their heads, and then it kind of happening. So I would…
+
+**1:13:03** · Dan Houser: Well, you know, at the same time, much as you might say something, you don’t necessarily believe it’s gonna be true. But it has become true, and I think still that games are only gonna get better, more interesting, more creatively, you know, diverse.
+
+
+### Red Dead Redemption 2
+
+**1:13:18** · Lex Fridman: You said that Red Dead Redemption 2, in your opinion, is the best thing you’ve ever done. I think there’s a strong case to be made that it’s the greatest game of all time. What are the elements that make that game truly great, do you think?
+
+**1:13:30** · Dan Houser: I think you had an incredibly strong team working together that was very experienced, that had basically been in place since somewhere between 2001 and 2006. So it was a long, experienced team. I think we got to spend a smaller group of us working on it from day one, coming up with some wacky ideas that we got to embed in the game, and then we kind of had to follow through with. But I think it was helpful that we got to be very creative before it had a full team on it. I think that the cowboy setting is great because it gives a sort of mythic seriousness that sometimes doing stuff in a contemporary setting doesn’t allow. You know, I think the closest we got to that kind of seriousness was GTA IV, but it just can’t…
+
+**1:14:18** · Dan Houser: Once you’re setting things in the modern world, they’re too frenetic. You can’t get some of that slightly, you know, operatic feel that I love. That some people think is maybe a little over the top, but I, you know, I love this kind of, you know, people searching for meaning… …Within, amongst the violence. I think that the West and all of the themes around the West really lend themselves to that. So I think that, and then the gunplay was fantastic, and the horses were incredible. So I think you had this combination of kind of technical know-how, a very, very strong team, and really strong material.
+
+**1:14:51** · Lex Fridman: Where did you have to go to in your mind, maybe philosophically, maybe spiritually, to be able to create the RDR world? So of course it was based on Red Dead Revolver, but that’s-
+
+**1:15:01** · Dan Houser: Yes
+
+**1:15:02** · Lex Fridman: That’s a fundamentally different… I mean, that leap into the great mythic story that was Red Dead Redemption one. And then even more so, Red Dead Redemption two. That was unlike anything you, or maybe anyone, has ever created in video games.
+
+**1:15:21** · Dan Houser: Thank you.
+
+**1:15:22** · Lex Fridman: So, like, what drugs were involved?
+
+**1:15:25** · Dan Houser: No drugs.
+
+**1:15:25** · Lex Fridman: Okay.
+
+**1:15:26** · Dan Houser: No. Stopped the drugs long before.
+
+**1:15:28** · Lex Fridman: Okay.
+
+**1:15:28** · Dan Houser: That’s why I did all that work. Had nothing else to do. So yeah, open-world video games were very good for my mental health in that way. Kept me busy. But Red, so Red Dead… I’ll tell, I’ll give you my version. Now the games are made by big teams.
+
+**1:15:45** · Dan Houser: So I, but I will give you my human interest version of the story from my perspective only. We made Red Dead Revolver, decided that, or finished Red Dead Revolver, that had been a Capcom game. And they didn’t want to finish it, so we finished it. And they released it in Japan and we released it in the US in, I think, 2004. And decided we would start work on an open-world cowboy game for PS3. Didn’t think too much more about it, and that was when we did a bunch of other stuff to work on. And slowly, 2005, 2006, the game started to come to life. Began to meet with the lead designer, Christian Cantamessa, and thrash out a few ideas and story ideas for the game, and begin to think about some stuff. And start thinking about, well, what works for an open-world game?
+
+**1:16:35** · Dan Houser: What works for a cowboy game? And again, I was being lazy or procrastinating.
+
+**1:16:41** · Lex Fridman: Can we just go on a small tangent? When you mentioned you take notes when you’re being lazy, what do those notes look like? Are they like doodles?
+
+**1:16:48** · Dan Houser: They look like either, either a yellow pad… …Or a BlackBerry in those days, or an iPhone in these days. I’ll write the subject matter and then just email myself a note.
+
+**1:16:58** · Dan Houser: Here’s a good idea, here’s a good idea. Or it might be scribbling on a pad. And then I’ll assemble… If they’re done digitally, then I’ll assemble them into one long Word file. And then I’ll look at them and go, “Here’s an idea, here’s an idea, here’s an idea.” And see if it comes to anything. See if I now aggregate them together and then read through them. Is there anything coherent there? You know, something about the character like this, the character like that. This would be a funny line. This is a line for the main character. Actually, make the main character work like this. You know, what about this relationship?
+
+**1:17:29** · Dan Houser: As you start to just play around with, “What about if we start in that place, go to that place?” Start, just start to play around with all of the different bits and pieces. And we began to flesh out some flow for the start of the game. And this idea you’d start in dusty American West, which meant we didn’t have to make too many trees. And then go to Mexico, and then come back. And we had a sort of loose flow. And I was really scared of writing any actual dialogue. And I didn’t have a clue how to go about it. And I kept, “It’ll come, it’ll come.” And then I kept because I could postpone it for ages because we were doing GTA IV. And I kept worrying about it. And then my work was wrapped on GTA IV, but the game wasn’t out yet.
+
+**1:18:13** · Dan Houser: And we’d done a bunch of the marketing stuff, and had a little window when I wasn’t doing much else. And I took a week with my then girlfriend, now wife, who was heavily pregnant with our first child, and we went up to a house upstate and sat there in the… Well, she, she sat there either cooking for me or watching TV or reading. And I just went and sat in the room all day, every day. And just sat there and stared at the computer and tried to think about, “How can I do this so it doesn’t sound ridiculous?” How can you write in a cowboy idiom that feels both slightly contemporary, but also gives the game this sort of life and this weight that I want it to have, and think we can, think we can get away with?
+
+**1:18:53** · Dan Houser: And after about three days, it just started to come. And then suddenly I wrote about nine, 10 scenes in the next couple of days. And after that, I knew I had it. And I don’t know if that was why there was so much about a character caring about his family, because I was just beginning the process of having a family.
+
+**1:19:12** · Lex Fridman: Oh.
+
+**1:19:13** · Dan Houser: So I don’t know if that…
+
+**1:19:14** · Lex Fridman: And so you-
+
+**1:19:14** · Dan Houser: I don’t know to what extent that bled in there, but I think it bled in there to some extent.
+
+**1:19:17** · Lex Fridman: So that was part of creating the 360-degree characters.
+
+**1:19:20** · Dan Houser: I think so.
+
+**1:19:21** · Lex Fridman: Here’s this man that is capable, is involved in a lot of violence, who also cares about his family.
+
+**1:19:29** · Dan Houser: He’s grown up, and he’s trying to step away from that and be a man, be a grown-up. Can he get away from it? And then, when he can’t get away from it, what’s he willing to do to save his family? And that was, I felt, starting to get some idea. Feeling just… I mean, she, well, she hadn’t given birth yet, but I was beginning to grapple with the ideas of, “I’m going to become a parent.” So I hope some of that… And obviously, then I probably didn’t write any more for six months, so later on we had a child. But certainly for that first bit, I think some of that began to bleed in there.
+
+**1:19:57** · Lex Fridman: …you got the feeling that you can actually do it. It’s true. It could have very easily been ridiculous and not believable, the dialogue between convoys.
+
+**1:20:09** · Dan Houser: Yes.
+
+**1:20:09** · Lex Fridman: And yes, I mean, there’s probably so much work went into making it feel real and believable. And like a Shakespearean type of drama, but not the cheesy kind.
+
+**1:20:27** · Dan Houser: Well, I just wanted it to feel when they spoke… I mean, I love dialogue. I’m always, you know, I love the sound of words, but I just wanted it to feel like when they sounded, it didn’t sound cheesy, it didn’t sound ridiculous. You wanted to hear them speak more. It didn’t make you cringe awfully when they spoke. At some level, that was all the goal was. And then they felt like this guy was going to go on this life and death odyssey and you cared about him. You had to care about his wife and child that he left behind, even though you didn’t know them.
+
+**1:20:56** · Lex Fridman: When did you know how you were going to end Red Dead Redemption one?
+
+**1:21:00** · Dan Houser: I remember I had a meeting with Christian, the designer. I can’t remember what year. Probably some point late 2008, early 2009, and we were discussing the last bit, and I said, “I think he’s got to die.” And he leapt on the idea and went, “That’s… Yeah, yes, yes. No, no, wait, no, it can’t work. Games can’t work like that. It can’t work if he’s dead.” You know, I began to think through, well, if we… Just technically it doesn’t work because you have to be able to finish all the stuff up. And then I began to think through, “Actually, I think we can make it work if we do it this way.” And so he then really pushed for that idea, and it seemed to… I was like, “Ah,” and I was still torn.
+
+**1:21:37** · Dan Houser: I thought it was clever narratively but I was torn if it was gonna work technically as a piece of game design, but I think it did.
+
+**1:21:47** · Lex Fridman: Yeah, and spoiler alert, of course, how do we tell the story of that? Well, so he goes through a lot. John does all the dirty work of hunting down his old gang, and he finally is able to go home and be with his family, be on the ranch. And then the government betrays him and sends troops to kill him. And there is dialogue… I mean, that just… I think the two times I shed a tear in video game history for me is that dialogue. I think John talking to his wife, if I vaguely remember. I think he said, “I love you.” But he said very little. He didn’t… He made it seem like he’s going to see her and his son shortly. That dialogue was masterfully done, like a definition of less is more. It was just so crisp, that and…
+
+**1:22:49** · Lex Fridman: And, of course, the other one is again, from memory, Arthur riding his horse and the music is playing. It’s very hard not to shed a tear during that. Anyway, the dialogue of John talking to his wife at the end when he’s in a barn and is about to walk out- … to face certain death. Do you remember writing that?
+
+**1:23:14** · Dan Houser: Oh, yeah. But again, the actor was so good, and we’ve already seen a bunch of his work by then. He had such a good… He was so good at reading those lines that I knew he could give us… that you could feel at that point, like- I think those lines are best when they’re really short and punchy. So I knew- I knew he’d be able to make that line sound good.
+
+**1:23:35** · Lex Fridman: So you were imagining his voice. You were just-
+
+**1:23:37** · Dan Houser: And I think all of those actors on Red Dead Redemption one were so strong that they really brought that game to life. If they, them and Rod, the director, hadn’t done such a good job it would have sounded cheesy as hell.
+
+**1:23:50** · Lex Fridman: Yeah, you’ve said that the ending of RDR1 is one of the best things you’ve been a part of creating. Why? Why is that ending so powerful to you? What does it represent?
+
+**1:24:07** · Dan Houser: I think because for the story to work… I mean, just from a technical challenge. For the story to work, he had to die. But for a game to work, it felt like a challenge to make him die. It was probably the fourth, fifth, or sixth open-world game I’d worked on and I’d, you know, spent all these years before that working out how these stories worked. How to make them work technically, how to make them feel right, how they interacted with the open form gameplay as best I could. And suddenly we’re going to break one of our golden rules, which was at the end of the game you’re freeing the character to go and wrap up all the side stories, to play forever.
+
+**1:24:49** · Dan Houser: You’re not going to be able to do that in this game because the guy’s going to be dead and we’re going to have to have you play as a different character. And the narrative, if we’ve done a good job, is going to be compelling enough where you’re not going to care about that. Or you’re going to be upset that he’s dead, but you can actually have this emotional moment. So I think it was a big risk from a technical perspective for us to do that, and then it worked. So I think that was something that was very full of fear and it worked out okay.
+
+**1:25:18** · Lex Fridman: What-
+
+**1:25:18** · Dan Houser: And I think people were really upset and angry at us for doing it because they didn’t think it was going to happen, but I think they also had that kind of experience you’re describing, which is that kind of creative, transcendent moment with characters in a piece of fiction, which is what we’ve always aspired to giving people.
+
+**1:25:32** · Lex Fridman: I mean, it’s incredible because I don’t think… I don’t remember a single video game that has done that before.
+
+**1:25:37** · Dan Houser: Well, I would like to have, at the end of GTA IV, killed Niko, but you couldn’t do it. You know, the game doesn’t work out like that. So it was this thing where we hadn’t done it. Thought about doing it, hadn’t done it and then going, “Let’s do it. Let’s take the risk and do it. We can’t do it. Let’s try.” And it worked.
+
+**1:25:53** · Lex Fridman: Yeah, what about the decision with the son? You know, John gives so much effort to make sure that Jack doesn’t end up in a life of violence… And then it’s very Godfather-like. It’s- … he’s dragged back into it through revenge.
+
+**1:26:11** · Dan Houser: That was also, the game still had to work as a game. Whether that was the right ending, 100% the best ending from a pure storytelling perspective, I don’t know. But I know that we had to make the game work.
+
+**1:26:25** · Lex Fridman: Oh, interesting.
+
+**1:26:26** · Dan Houser: So it was… I think it kind of worked in that way where Jack can’t escape, but I always also wanted a version of it where Jack did escape, but that wasn’t… You know. Both were interesting to me.
+
+**1:26:37** · Lex Fridman: Can you just dig in a little deeper? Like, what do you mean about for the game to work? It’s such a direct… It’s like Kubrick talking about for this movie to work, it has to have… Because from my perspective, I just think about the story. What’s the technical aspect for the game to work?
+
+**1:26:50** · Dan Houser: It’s just the mechanical experience is you have an avatar you control and you, you… You know, the games don’t really end and you have to be able to wander around the world and do stuff. So at the end of the game, you have to be able to wander around with your fairly limited set of features, which is you can, you know, run up to someone and punch them or run up to someone and shoot them or run up to someone and rob them, or run up to someone and talk to them. Or jump on a horse or do all this other stuff. In order for the game still to be fun and people to get this full 360-degree experience with it, they had to, you know, 100% the game as opposed to just finishing the story, you have to have an avatar to do that stuff with.
+
+**1:27:33** · Dan Houser: So that was that was the sort of challenge of, of Jack’s character/wrapping up the story as Jack.
+
+**1:27:39** · Lex Fridman: Oh, there’s real power for the avatar to end, the finiteness.
+
+**1:27:46** · Dan Houser: Yeah. Both the Red Deads, you obviously change avatars- …which we did again. I think there’s something interesting about that moment when you change from one character to another because they are you and they’re not you, you know, and then just suddenly you’re someone else.
+
+**1:27:59** · Lex Fridman: I mean, I was really shaken by that experience, but it’s a beautiful experience. It’s like an unforgettable experience. What else can video games possibly reach for? You know, to create that experience, that’s what great films do, that’s what great books do.
+
+**1:28:17** · Dan Houser: It’s that. I mean, it’s that and the world building in games. I think the experience of being in this fake place and then taking on these narrative adventures, when that combines, you’ve got the amazing experience.
+
+**1:28:28** · Lex Fridman: So who do you think is the best character you’ve ever created in RDR? To me, I think definitively Arthur from Red Dead Redemption 2 is the best character ever created in video games.
+
+**1:28:43** · Dan Houser: Thank you.
+
+**1:28:43** · Lex Fridman: I think there’s not even close. John would be second, which is hilarious to say. But, like, those are… John would be a close second, but Arthur is definitively… And you’ve talked about it in that interview, you said that a lot of video games work on the same premise, that you start as a weak person and end up as a strong superhero. But what if you start as a tough guy, someone who already is very strong, someone that’s emotionally confident of his place in the world? Arthur’s journey is not about becoming a superhero because he’s almost one at the start, but it’s about an intellectual rollercoaster when his worldview gets taken apart. So it’s very different than the normal journey of a character.
+
+**1:29:32** · Dan Houser: Yeah, in a game.
+
+**1:29:33** · Lex Fridman: In a game
+
+**1:29:33** · Dan Houser: …in order to reverse it. So there were a couple other themes that matched that. So they’re guys from the Wild West, but they’re being pushed ever further east. So it’s almost like an anti-Western. An Eastern. You’re traveling east. You’re traveling into civilization. And I don’t think I would’ve been grappling with those ideas earlier in my career, because it was so, you know, this idea of getting a different kind of strength and different kind of weakness was interesting.
+
+**1:30:01** · Lex Fridman: What about the component of mortality, of a character facing his own mortality over a prolonged period? Sort of just the prospect of real fear of death, realization of death…
+
+**1:30:16** · Dan Houser: Yeah. I thought that was really…
+
+**1:30:16** · Lex Fridman: …as part of the story.
+
+**1:30:17** · Dan Houser: …really a fun thing to play with. John dies in Red Dead 1. I wanted to top that with Red Dead 2, or do that in a different way. And so the idea that it’s… But John’s death is fairly sudden, and so if he’s got this long, drawn-out death, and then I’d always been obsessed by TB. As diseases go, it’s a great literary device.
+
+**1:30:39** · Dan Houser: You know, because it is this long, drawn-out, slow death, but in which you are also getting weaker. And my grandfather actually had TB before they invented antibiotics and was sent to a sanatorium just after he’d had his child, my father, and survived, but only three of them out of like 35 survived. So I was always captivated by TB as an illness. It felt like it was an interesting thing to play around with as an idea, this guy getting weaker who felt like he was immortal and essentially was immortal. He was the protagonist in a video game, he could not die, and suddenly he is becoming mortal. You know, but that helps him see stuff. I thought that was a different way of doing a lead character in a game.
+
+**1:31:24** · Lex Fridman: Yeah. Do you think it’s the greatest character you’ve ever created?
+
+**1:31:28** · Dan Houser: I think he’s the best lead character. You know, the lead characters are different from the side characters, and I think he’s the most rounded and works the best. Him and Nico are the two I like, you know. They were the two most ambitious. So for me, it’s always a toss-up, you know? But then I loved all the stuff the art team did. They did such an amazing job. It was their idea with the journal and that kind of… …The way that all the features worked into Arthur’s character, I thought that was really… He was really rounded, he worked in lots of different ways really well. I loved his flawed relationship with his old girlfriend, things like that. All the side… you know, the bits that turned up around him.
+
+**1:32:15** · Lex Fridman: So you also like the side characters. You like the flavor…
+
+**1:32:19** · Dan Houser: Yeah, of course
+
+**1:32:19** · Lex Fridman: …of the full cast. What are some of the favorites you’ve created? I’m sure the one you’re currently working on… …Nigel Dave, that’s a… You called him a side character.
+
+**1:32:28** · Dan Houser: Well, he’s not a protagonist. He’s like a go- He’s a god, not a character.
+
+**1:32:32** · Lex Fridman: Sure.
+
+**1:32:32** · Dan Houser: So he’s not… Him, I’m enjoying. I love Dutch. You know, it was partly because we wrote a few lines for him for the first game, and the actor did such an amazing job that when he spoke, it just came to me all of their backstory, which I’d been playing around with by that point anyway, a little bit in my head. But I knew he was this bigger gangster from then, I sort of saw exactly who he was. And so that felt like… He felt like a living character to me.
+
+**1:33:02** · Lex Fridman: And we should say that Dutch is kind of like maybe a little bit of a godlike figure…
+
+**1:33:07** · Dan Houser: Yeah
+
+**1:33:07** · Lex Fridman: …in both of the Red Dead Redemption games. He’s the leader of the gang. And there’s a father-son relationship with Dutch, with Arthur, with John. I mean, there’s a family feeling to the gang. They explore all of those dynamics, and then the feeling of betrayal and Arthur facing tuberculosis. You’re going against the family, going against the father… …Because he is transforming his sense of the world, of morality, of all those kinds of things. So all the kind of very Shakespearean drama is right there. And Dutch is a prominent, godlike figure through all of that. Also flawed himself, also a man of good and evil in that framework that they’re operating under.
+
+**1:33:52** · Dan Houser: And he, he’s just drowning in his ego at the end. You know, his ego gets the better of him. I think he’s… But there was something flawed but beautiful in his idealism when he was younger, and that’s mostly off camera. But as an individual, I’ve always been very susceptible to charming people. And he’s charming. So I can see how people get captivated by charming people. And the idea here was a very charming person, and the road’s run out for him.
+
+**1:34:23** · Lex Fridman: I personally am afraid of how much I love human beings and how susceptible I am to charm and charisma. Because it can cloud your judgment about human nature.
+
+**1:34:36** · Dan Houser: Completely. And that’s what happened with him. And it ended up clouding his judgment about himself. He kind of fell for his own rubbish.
+
+**1:34:45** · Lex Fridman: Yeah. But also, it clouded Arthur’s judgment.
+
+**1:34:49** · Dan Houser: Oh, completely. Arthur was completely, you know, platonically in love with him. He was worshiping him. He’d given up his power to him. And then I think for Arthur, the journey is retaking that power in the moment of dying. You know, and that’s what the whole… that’s why I thought that was really interesting.
+
+**1:35:05** · Lex Fridman: Yeah. It’s truly tragic for Arthur to be losing his identity, lifelong identity, and sense of belonging, and losing his life at the same time. In facing mortality, he is realizing that he’s not… all of it has been a lie.
+
+**1:35:26** · Dan Houser: But he gets to do some… Well, it depends on what choices you make. But he gets to do some good. And so he, you know, he gets his moment of redemption.
+
+**1:35:34** · Lex Fridman: Just a little bit. But realizing… Your whole life you’ve been living not a good life. You’ve been not a good man.
+
+**1:35:42** · Dan Houser: Isn’t that what we’re all afraid of?
+
+**1:35:43** · Lex Fridman: I guess it’s never too late to change your ways.
+
+**1:35:47** · Dan Houser: Hope not. I mean, that’s…
+
+**1:35:47** · Lex Fridman: So the biggest, most important question, primary, central to the reason we’re talking today, the number one question from the internet. It is so ridiculous, but I must ask. Have you seen Gavin? Who is Gavin? So for more context, there’s a guy named Nigel in Red Dead Redemption 2 who’s frantically searching for a mystery man named Gavin throughout the game. This has become one of the biggest mysteries amongst the interwebs, the RDR fan base. So the theories include, theory one is it’s a split personality disorder. Nigel himself is Gavin. So the evidence is the letter for this theory that has some evidence that may be due to trauma, this split personality disorder was created, this Gavin was created inside Nigel’s mind.
+
+**1:36:41** · Lex Fridman: Theory two is Gavin is dead and Nigel’s simply in denial. Theory three is that it’s just a troll and Rockstar intentionally created an unsolvable mystery to drive players crazy. I also heard theory four is Gavin is the Strange Man. So there’s this fascinating character, the Strange Man, this supernatural character that has a presence in RDR1 and a little bit in RDR2 also. But yeah. So which theory is closest to the truth?
+
+**1:37:13** · Dan Houser: Not three or four. Somewhere in my mind, somewhere between one and two. Yeah. And I just loved the way he shouted, “Gavin!” It just amused me. So at some level, it probably is trolling in that we didn’t want it to be a totally clear mystery. We wanted it to have a little bit of adventure to it. But it was meant to be… without ever fully being explained, that Gavin’s not there anymore. Gavin’s either gone home, Gavin’s left him, Gavin’s… and we were going to keep exploring that idea. That he was going to reappear in some way or other.
+
+**1:37:49** · Lex Fridman: Did you have any idea how much imagination, excitement, and curiosity that little interaction would inspire in people?
+
+**1:37:59** · Dan Houser: Yes and no. I mean, you could never know what people are going to find amusing in these big games, and a lot of it comes down to acting as well. The guy was just funny when he said, “Gavin.” It was just funny. But there was a pedestrian in Red Dead Redemption 1 that everyone was obsessed by, and I really wasn’t expecting that. So we try and put a few characters in. I mean, Gavin was supposed to be amusing. I thought he was amusing. But you never know what people are going to get obsessed by. There are other characters I think are funny and people don’t even notice them, or they see them in a completely different way.
+
+**1:38:30** · Lex Fridman: Did you have a part in writing the letter?
+
+**1:38:32** · Dan Houser: Yeah. I can’t remember if I wrote it or… either I wrote it or Mike wrote it, or we both wrote it. I really can’t remember, to be honest with you. But yeah, I certainly would have edited it, and Mike might have written it or I might have written it. I really can’t remember.
+
+**1:38:43** · Lex Fridman: It’s so fascinating because that little piece of writing… of course you have thousands of pages…
+
+**1:38:48** · Dan Houser: Yeah. T-
+
+**1:38:48** · Lex Fridman: …but that little piece of writing gets analyzed.
+
+**1:38:51** · Dan Houser: Oh, but we certainly talked about it in depth, and if Mike was here, I’d ask him. He might remember. I can’t really… and we do so much of those things… …And I loved the use of letters in Red Dead to tell all these weird backstories. And some became very clear and some were still a little kind of opaque. But I think the general vibe was there was no Gavin. Either there was no Gavin or he’d long since left. So it’s kind of a split personality, you know, and then we were going to, over subsequent games, provide more information.
+
+**1:39:20** · Lex Fridman: So in some sense, you yourself don’t quite know. You kind of have an idea, so… like, which way do you lean more, theory one or two? Is he dead and Nigel’s in denial, or is there real communication going on inside his head?
+
+**1:39:36** · Dan Houser: No, Gavin existed. So it wasn’t that he was a split personality, and the only thing we hadn’t really decided was in a future game were we going to reveal that Gavin was dead, or was Gavin going to turn up having long since abandoned this maniac? You know, that was what we were still playing around with. I think the idea was that he was never going to meet… He was never going to meet Gavin in this game.
+
+**1:39:58** · Lex Fridman: I mean, it’s just fascinating because you have to think about all of that. You have to write all of that. You have to have those discussions. You have to have those debates.
+
+**1:40:06** · Dan Houser: And it has to feel fresh. That was… Like, what we’ve done before. Constantly looking as you do… You know, I think I’ve done somewhere between 15 and 20 of these games. You’ve got to do stuff that’s new. It can’t repeat itself too much.
+
+**1:40:18** · Lex Fridman: I mean, we also live in the age of the internet. You realize there are like millions of people worrying about where and who Gavin is.
+
+**1:40:30** · Dan Houser: Thank God.
+
+**1:40:31** · Lex Fridman: It’s like-
+
+**1:40:31** · Dan Houser: It’s great, yeah.
+
+**1:40:32** · Lex Fridman: It’s fascinating that they’re having… Think about people reading James Joyce or something and thinking about, like, breaking apart Ulysses and thinking about, like, arguing about different interpretations of it. To me, that in itself is also beautiful.
+
+**1:40:47** · Dan Houser: Yeah. We want the side mysteries to be solvable up to a point, but you still want these discussions.
+
+**1:40:53** · Lex Fridman: Yeah, the mystery.
+
+**1:40:53** · Dan Houser: You know, and you want it as long as it feels tonally appropriate for this whole big, sort of, shaggy dog story experience you’re making. Which Gavin was just about, and he was so weird, and he just was intrinsically… there was just something funny about an English person screaming, “Gavin.” I don’t know why.
+
+**1:41:10** · Lex Fridman: Yeah. Some of that humor, I mean, there’s certain humor in Red Dead Redemption, but there’s a lot of it in Grand Theft Auto… …And what… It’s hard to put into words why that’s funny, why it becomes a meme, why it becomes viral, ’cause it’s just funny. It’s…
+
+**1:41:26** · Dan Houser: Yeah, I know why I think it’s funny, but what you can’t… What I’m not good at doing at least, is going, “This thing will become really popular online, and this other thing won’t.” You can create a bunch of, you know, fifty different side things that people might get captivated by, and you just do not know what they’re going to respond to.
+
+**1:41:44** · Lex Fridman: How do you know when something’s funny? Is it you just feel it? You just…
+
+**1:41:47** · Dan Houser: I know what I think is funny. It’s, you know, it makes…
+
+**1:41:49** · Lex Fridman: You just Google it or you just…
+
+**1:41:50** · Dan Houser: …like, just because it’s ridiculous as well. That was just… There’s nothing funny about a dude shouting, “Gavin,” a lot. He just said it in a fu… I just thought it might be funny. It was great, and he just said it in such a funny way. … And then it just became funny. Like, you… We often have those side characters and they’re not that funny, and I think they’re gonna be hysterical, and then you put them in the game, and they’re awf- they’re fine, but they’re not amazing. That guy just brought that stuff to life.
+
+**1:42:12** · Lex Fridman: Yeah. And his backstory too. I mean, Londoner and not… Yeah, that…
+
+**1:42:16** · Dan Houser: Yeah, I think that was what… You know, just that it… There’s something sometimes funny, an English person saying the name Gavin is quite funny. I don’t know why.
+
+**1:42:24** · Lex Fridman: So about the Strange Man, AKA the Man in Black. Is there some element with Michael and the therapist in Grand Theft Auto V? Like, who is the Strange Man?
+
+**1:42:32** · Dan Houser: Well, the Strange Man was, again, someone we came up with quickly. We made Red Dead 1, or rather, were making Red Dead 1, and we’d made this—we felt quite compelling story and quite interesting open world. But we’d already made a bunch of Grand Theft Autos, obviously, but unfortunately, we’d taken out the machine guns because it was a cowboy game, apart from the big fixed position ones. And we’d taken out the cars, and we’d taken out the city and large numbers of pedestrians. So we essentially had a game about a dude riding a horse- around the desert, and it was quite boring.
+
+**1:43:10** · Dan Houser: And so we then started filling it with content, having to improvise. And we filled it with these things we call random events that would be these sort of mocap moments that you could interact with. And they were—the designers did an amazing job with those. They were really fun, but there were not enough of them. And then we felt we needed more story because the story was perhaps a little short. So we, quite late in development, started putting in almost like these RPG-type content where you go and meet someone. And the way we thought of them was they were like short stories. So you go and meet someone; they’d set you a small problem, like go and collect me 15 bunches of flowers. And when you came back, it would resolve your story.
+
+**1:43:49** · Dan Houser: And so then, you know, one would go, “Go get them for my bride,” and you come back and the bride’s dead. We tried to make them like these short stories with a sting in the tail. And he came out—as I was trying to come up with ideas for those—as just this weird character. And then we built him a bit into the story, where he would unlock as you worked your way through and be a commentary on what you were doing. So he was meant to be a kind of manifestation of your shadow, your karma, the devil—somewhere, you know, just saw the world. And then we built out his backstory over time and decided, you know. And so in Red Dead 2, you could interact with him again, or not really interact with him.
+
+**1:44:34** · Dan Houser: But he was there and he was meant to be, you know, something I suppose any creative is scared of, an artist who’s kind of sold his soul to the devil. And that slowly revealed itself.
+
+**1:44:44** · Lex Fridman: There is a connection between the main character and… Is it like a Jungian shadow type of situation?
+
+**1:44:51** · Dan Houser: Well, it’s sort of, because he knows what you’re up to. The connection is, and, and, and what’s never really made clear is, does he know this about everybody? Like, is he following you, or is he able, because of the pact he’s made with, with, with, with, with evil forces, able to do this for everybody? And I don’t think we necessarily ever clarify that. He’s certainly able to do it for you.
+
+**1:45:10** · Lex Fridman: I mean, there’s, sort of narrative-wise, there’s techniques to reveal a kinda self-reflection analysis of the main character’s thoughts. I mean, that’s why I brought up the therapist with Michael. That was a really powerful, interesting thing to do in a video game. Like, I, I don’t think I’ve seen… That, that’s such a cool… I mean, there’s a Sopranos element there, with the therapist.
+
+**1:45:33** · Dan Houser: Little bit, yeah.
+
+**1:45:33** · Lex Fridman: I really love an opportunity for a character to just self-reflect through that technique.
+
+**1:45:40** · Dan Houser: But it also changed depending on what you’d done. So it was sort of slightly… It wasn’t as interactive as it could be, but it was slightly interactive, or slightly responsive to what you’d done. So it felt it was still valid video game content, because it was living, up to a point. And I just thought the character, Dr. Friedlander, was just funny, because he was awful. So it was like LA. You’re in therapy. It’s very LA. But it’s also very LA, he wants to write a book and betray you.
+
+**1:46:04** · Dan Houser: Which felt like a good, a good twist. And it was… It felt like a Grand Theft Auto therapist. But just like the idea of making the player in a game, and games are intrinsically kind of physical, and, you know, you wa- you walk, you, you punch things, you run around, you drive cars, you shoot people, whatever. There’s these kind of physical fantasies. Trying to put them into a slightly more reflective or metaphysical state for a moment, I think can be really fun.
+
+**1:46:30** · Lex Fridman: I think, to me, one of the most surprising things about Red Dead Redemption, about video games, that Red Dead Redemption showed is how much value for storytelling is insanely specific, intricate details. In the story, but also visually. It just added to the feeling that the world is real. So I have to ask, what are some of your favorite insanely specific, intricate details in RDR? I can give you some options. The internet’s favorite is horse testicles shrinking in cold weather.
+
+**1:47:07** · Dan Houser: Yep. Those guys did an amazing job on those.
+
+**1:47:10** · Lex Fridman: I mean, I just… And there must’ve been a meeting, and there must’ve been engineers and graphics designers…
+
+**1:47:17** · Dan Houser: It was just, I think, just artists.
+
+**1:47:18** · Lex Fridman: Artists
+
+**1:47:18** · Dan Houser: …modelers, I think. I don’t think it was that hard.
+
+**1:47:22** · Lex Fridman: Okay. Uh-
+
+**1:47:23** · Dan Houser: Enough of that pun.
+
+**1:47:24** · Lex Fridman: Thank you. Thank you for that. Arthur’s hair and beard grow in real time. So, gun maintenance matters. Firearms get dirty and perform worse over time. Animal carcasses decompose realistically.
+
+**1:47:38** · Dan Houser: They feel like they do.
+
+**1:47:39** · Lex Fridman: That’s still extremely rare in video games. That, the temporal aspect.
+
+**1:47:43** · Dan Houser: Yes. Yeah.
+
+**1:47:43** · Lex Fridman: That permeates through time. You know, NPCs remembering you.
+
+**1:47:47** · Dan Houser: That’s the best. I mean, that’s the thing I love. Playing around with a lot of stuff in the new games around that, ’cause I think it’s super interesting. Okay?
+
+**1:47:56** · Lex Fridman: It’s really powerful, right?
+
+**1:47:56** · Dan Houser: To make them… Yeah, really interesting. I think the… It just gives a… It’s a really fun way of giving you kind of narrative content that is also systemic and procedural.
+
+**1:48:06** · Lex Fridman: Yeah. Is it technically really difficult to do, for, for the game, for the game to feel like it remembers you? You know?
+
+**1:48:13** · Dan Houser: I think with modern tech, it’s not that hard, but there’s a lot of stuff you need to track to make it interesting.
+
+**1:48:20** · Lex Fridman: Yeah, to have a memory. So that’s really powerful. The mud physics, so Arthur’s boots get muddy and leave actual tracks. I mean, that’s just incredible. Really, really incredible.
+
+**1:48:30** · Dan Houser: You know, we made a dusty game. Red Dead 1 is a super dusty game. You know, the problem with cowboys is that if you’ve tried to make a “Greatest Hits of the Cowboy” game, and then you’ve got to make a sequel, you’ve got to come up with different geography. So that’s why the game starts in the snow. So we wanted a game that had snow and mud, because those were things you hadn’t really seen in Red Dead 1. And then the challenge is how do you make mud good in a game? And the guys did an amazing job.
+
+**1:48:55** · Lex Fridman: I mean, the snowstorm that starts the game RDR2, I don’t remember the last time I’ve experienced anything like it, but you felt it. I don’t know how the hell you do that. It’s not just graphics, it’s everything. Everything together. I suppose some of the dialogue is really important to that.
+
+**1:49:11** · Dan Houser: Also the acting. They feel, they feel cold.
+
+**1:49:13** · Lex Fridman: Yeah, that’s right.
+
+**1:49:14** · Dan Houser: And they feel desperate. There was that feeling of sort of…
+
+**1:49:17** · Lex Fridman: Yes
+
+**1:49:17** · Dan Houser: …exodus. Like you’re running away from something, that gives the game energy at the start.
+
+**1:49:21** · Lex Fridman: And it was at night. Oh man, it was just masterfully done.
+
+**1:49:23** · Dan Houser: And there was a big group of them. The other contrast…
+
+**1:49:25** · Lex Fridman: Yes.
+
+**1:49:25** · Dan Houser: You know, first game, you start off as a lone wolf. Suddenly you’re in this big group. So it felt very different.
+
+**1:49:30** · Lex Fridman: In Arthur’s body, bullet wounds persist. So that temporal consistency… …That’s really important. An underweight Arthur looks gaunt, and overweight Arthur gets a gut and a fuller face. Again, those decisions that you make reveal themselves in the game across time. And they’re consistent. I don’t know, I did not see many games do that. It must be difficult to do, but to give that level of care to the details in that way, across time, and for specific graphical representations of things, is incredible.
+
+**1:50:05** · Dan Houser: Yeah, I mean, I guess…
+
+**1:50:05** · Lex Fridman: Do you have favorites? Where you were first, like, “This is amazing.”
+
+**1:50:11** · Dan Houser: I think all of it. I think the way the whole… To me, the thing that I would care about most was the way the whole thing sat together. You know, the fact that each of those, they all feel like they belong together with each other. You made this cohesive, very, quote-unquote, “realistic” for a video game experience, and all the details feel like they mesh.
+
+**1:50:31** · Lex Fridman: Well, for me, everything about the horse. For a lot of people. Testicle shrinking included. What’s the process of deciding? The internet seems to really care about… I mean, they love the game so much, so they want to know if anything was cut. And I’m sure stuff was cut because you have to choose. What’s the process of deciding what to cut, what to cut scenes? Are there any scenes that you had to let go of that you really miss or wish you could have done in either GTA or RDR?
+
+**1:51:05** · Dan Houser: Well, I think the games ended up the way they were supposed to be.
+
+**1:51:08** · Dan Houser: You know, I think there was always… There was a bit at the start of RDR where he’d had a baby who just died in Red Dead 2, and we ended up cutting it, which was the right decision. It was too tough in some ways. But I think it gave him real… And he was not very sympathetic to his occasional girlfriend who’d had the baby. So, it made him very, very nasty at the start, which I thought would be interesting to play around with because then it would make his redemptive arc even more interesting. He was not a likable character at the start, and that was one… And we ended up making him slightly more like… He was still sort of tough and nasty, but he’s slightly more likable early on. That was the right decision commercially. It’s better that way.
+
+**1:51:53** · Dan Houser: But I did, you know, but I still like that little bit. It spoke to me personally. There… And just his inability to access his emotions I thought was really strong because then later in the game he’s getting very emotional. But there are also always little bits and pieces that get trimmed. You know, and don’t… Or missions that just are not going to work technically. Usually, it’s like, “This mission’s not going to work technically. Oh God, we’ve got to cut it. Okay, how do we glue the story back together?” And we got better over time at gluing the story across missing chunks. You get late in the game, and it’s just something, you know, some big challenging moment just is going to look rubbish, so you just get rid of it.
+
+**1:52:32** · Lex Fridman: I think editing, editing film, and I imagine editing video games, editing down is an art form, but it’s also just… It feels like torture because you’re letting go of things you put so much love into.
+
+**1:52:48** · Dan Houser: Yeah, it could be changes. If you fall in love with something and everyone else goes, “Let’s change it,” that could be, of course, that could be upsetting in some ways. Otherwise, you can care about it. But, you know, if I was involved in the big creative thing and you go, “Okay, it’s the right decision,” I can probably live with that fine. I think sometimes for designers when they’re only designing four or five missions in the whole game and two of them get cut, that must be really… … Really hard.
+
+
+### DLCs for GTA and Red Dead Redemption
+
+**1:53:11** · Lex Fridman: Are there DLCs for RDR or GTA that you wish you had the time, when you were there, to have created?
+
+**1:53:18** · Dan Houser: Of course. There are always things I wished I’d done. I always wished I’d done more.
+
+**1:53:22** · Lex Fridman: What would you have added? This is a fun, like, nerding out.
+
+**1:53:26** · Dan Houser: The internet knows we made a DLC, single-player DLC for GTA 5 that never came out. And we’ve also never really worked on another game. But I like… The idea of it, it was a GTA zombie game. That would have been funny. I think that could have been quite fun.
+
+**1:53:41** · Lex Fridman: What was the GTA 5 DLC?
+
+**1:53:43** · Dan Houser: It was one when you played as Trevor, but he was a secret agent. It was cute. It never quite came together, and it was never finished. It was about half done when it got abandoned. But I think if that had come out, we probably wouldn’t have gotten to make Red Dead 2. So, there are always compromises. But it was, you know, I like making the stories. For me, I love the model of GTA 4 when you had the extra stories coming afterwards or Red Dead 1 when you had the zombie pack coming afterwards. I like just doing these extra things. So, I would personally like to have done more of that in that company. And with stuff we’re doing in the future, we’re going to try and come up with worlds where we can add more stories.
+
+**1:54:24** · Dan Houser: I like single player DLC. I just think the audience loves it, and it’s really fun to make.
+
+**1:54:28** · Lex Fridman: Does it make you a little bit sad that the gaming industry, in general, is moving towards more online, less single-player DLC? Maybe that observation is incorrect, but at this moment, to me, it feels like it’s easier to make a lot of money with online…
+
+**1:54:46** · Dan Houser: If you get it right.
+
+**1:54:47** · Lex Fridman: If you get it right. And so game companies are reaching for that. It just makes me really sad because there’s so much power to… What you did with Red Dead Redemption 2, I don’t know how during that time you were able to pull that off, but that was like a breath of fresh air. In a time where everybody was moving to online and there was that huge incentive to that, you go on and draw, again, the greatest narrative in video game history and the greatest character in video game history, single-player.
+
+**1:55:15** · Dan Houser: We still love single player games. And I think as we started up Absurd, we did a lot of soul searching.
+
+**1:55:23** · Dan Houser: And also a lot of cynical looking at what goes well in the industry. Luckily, if you want to do what we’re forced to do and also what I want to do, which is make new IP, you need single-player games. You can launch a multiplayer game with new IP. It’s just extremely hard. So, luckily, we are focusing on what we’re good at, which is open-world single-player games. We might add multiplayer components to one of them. I think one of them is going to be really tough later on, but we’re still thinking that through. I think we’re really leaning into single-player experience as being a strength for us as a company and something we love to do, and I think something a large part of the audience prefers. And I’d love to, with all of those, keep single-player DLC, one way or another, going.
+
+**1:56:13** · Lex Fridman: Were there some other game ideas you considered while at Rockstar and afterwards that you didn’t go with? So, like, worlds-
+
+**1:56:23** · Dan Houser: Oh, yes
+
+**1:56:23** · Lex Fridman: …or pirate games? I mean, I would love to see the notes of the possible options.
+
+**1:56:28** · Dan Houser: Never thought a lot about a pirate game.
+
+**1:56:31** · Lex Fridman: Yeah?
+
+**1:56:31** · Dan Houser: My son is obsessed with that game Sea of Thieves at the moment, so he’s constantly saying, “Do a pirate game.” I haven’t really thought about it too much. We worked a lot on multiple iterations of an open-world spy game. And it never came together.
+
+**1:56:44** · Lex Fridman: So Agent?
+
+**1:56:45** · Dan Houser: Agent, and it’s had about five different- … iterations
+
+**1:56:49** · Lex Fridman: …so good.
+
+**1:56:50** · Dan Houser: I don’t think it works. I concluded—and I keep thinking about it sometimes, I sometimes lie in bed thinking about it—I’ve concluded that what makes them really good as film stories makes them not work as video games. We need to think through how to do it in a different way as a video game.
+
+**1:57:08** · Lex Fridman: So for people who don’t know, it would be hypothetically set in 1970s Cold War era.
+
+**1:57:13** · Dan Houser: That was one of the versions. There was another one that was set in current. We had so many different versions of this game.
+
+**1:57:18** · Lex Fridman: Got it.
+
+**1:57:18** · Dan Houser: We worked on so many different teams.
+
+**1:57:19** · Lex Fridman: But it would be more geopolitical, like espionage-
+
+**1:57:23** · Dan Houser: That, yeah, espionage, like…
+
+**1:57:24** · Lex Fridman: … and assassinations.
+
+**1:57:24** · Dan Houser: Yeah, assassinations. I don’t know what it would’ve been because it never really… We never got it enough to even do a proper story on it. We’re doing the early work as you get the world up and running. It never really found its feet in either of them.
+
+**1:57:37** · Lex Fridman: So interesting.
+
+**1:57:38** · Dan Houser: And I sort of think I know why, because one of those films, they’re very, very frenetic and they beat, beat, beat. You know, you gotta go here and save the world. You gotta go there and stop that person from being killed and then save the world. And an open-world game does have moments like that when the story comes together. But for large portions, it’s a lot kind of looser and you’re just hanging out and you’re just doing what you want. And I want freedom, and I wanna go over here and do what I want, and I wanna go over and do what I want. And that’s why it works well being a criminal, because you fundamentally don’t have anyone telling you what to do. And we try and create external agency through these people kind of forcing you into the story at times.
+
+**1:58:16** · Dan Houser: But as a spy, that doesn’t really work because you have to be against the clock. So I think for me, I’m, I question if you can even make a good open world spy game.
+
+**1:58:25** · Lex Fridman: So interesting. So you have to be able to ride around in a car and listen to the radio-
+
+**1:58:29** · Dan Houser: Yeah, and cruise about.
+
+**1:58:30** · Lex Fridman: …or ride a horse and just look at nature.
+
+**1:58:35** · Dan Houser: So lots of things would work as open world games, but I don’t know if a spy does.
+
+**1:58:38** · Lex Fridman: That’s brilliantly put. But to me there’s such espionage and assassinations and… …The geopolitical international context is so interesting. But you’re right, I just wanna listen to what is it, Lazlo, and…
+
+**1:58:50** · Dan Houser: Yeah. Well, you can’t…
+
+**1:58:52** · Lex Fridman: …on the radio.
+
+**1:58:52** · Dan Houser: You gotta save the world. And so you need this time pressure.
+
+**1:58:55** · Lex Fridman: With a Russian accent- … or something. Yeah, wow. Wow. Yeah, that’s really interesting.
+
+**1:59:01** · Dan Houser: And then we played around with the knights concept that was…
+
+**1:59:04** · Lex Fridman: Nice
+
+**1:59:04** · Dan Houser: …you know, knights and trying to do a version of a mythological game that could have been fun. And, you know, still love that idea, but never went very far with it.
+
+**1:59:15** · Lex Fridman: Knights would be going really far back in history.
+
+**1:59:18** · Dan Houser: Yeah, it would have to go. It never got to writing any of it. Just did some backstory and played around with a few ideas. But it’s always something I thought I would never do and then kind of fell in love with it a little bit.
+
+
+### Leaving Rockstar Games
+
+**1:59:30** · Lex Fridman: You left Rockstar in 2020 and eventually launched Absurd Ventures as we’ve been talking about. What do you miss about your time at Rockstar? Is there specific moments that bring you joy when you think about them?
+
+**1:59:43** · Dan Houser: Of course, it was my whole, you know, it was my life for 20 something years, 21 years or something. It was and I moved to America to do it, and grew up doing it. And I was always living in, in New York. It was a, at times, very intense and at other times magical experience. But it was also just a huge chunk of my life.
+
+**2:00:06** · Lex Fridman: The lows and the highs?
+
+**2:00:07** · Dan Houser: And the middles. It just, it was just my life, you know? My life was that job and the people I knew in New York, and my family. And we were doing something that was intense and innovative, both loved and hated by wider society in different ways and at different times. And in this weird company that was constantly in trouble. So it was really fun.
+
+**2:00:30** · Lex Fridman: Just even looking back at that time to today how did you evolve as a creative mind across those 20 years?
+
+**2:00:36** · Dan Houser: Well, I was a child, I was a 25-year-old child- …who didn’t know anything, and I wanted to be a writer, but I still wasn’t writing. And I bought a notebook and I’d occasionally scribble in it, and I’ve still got those notebooks somewhere. And I was working in video games, which were the least literary medium it’s possible to imagine at the time. There was no room for that on PS1 games, really.
+
+**2:01:00** · Dan Houser: Thinking I needed to stop and do something else, but not having the skills or the confidence to do it. And I’d been doing that in London, then I came to New York, and it was fun, really fun to be in New York, and really fun to do a new company in New York. And that was an amazing adventure. But I was still lost as a human being. And then when I was 27, I was still completely lost, a child. And I stopped some of my bad behavior, and the next day pretty much the chance to write on, work on open world games and all the skills I’d half learned over the previous years and my way of thinking where I thought about space a lot because I was a geographer rather than a historian came together and I got the chance to work on an open world game.
+
+**2:01:43** · Dan Houser: So it felt like it was meant to be. It was fun to explore, but really fun to explore with this team that was, you know, Alex Horton, Navid, Leslie, and the guys in Scotland and all the people in New York making these new games in this new way. And going, “Oh, we need to find a hundred voices. We’ve got no money. How the hell are we going to do that? We’ll get everyone’s friends in and just record all lines of dialogue each as we kind of would invent the way that pedestrians would speak video games.” No one else was doing that kind of stuff. It was insane. So I think that that period from kind of 2001 to 2005, it was lots of early innovation and felt really exciting because we were doing new stuff. It didn’t feel… it felt…
+
+**2:02:23** · Dan Houser: creative, but it didn’t feel like writing yet. Just becoming that, we felt lots of, doing lots of creative things and learning how to assemble the stuff and learning what it could take. And then I think, we talked about it earlier, but the journey into doing GTA 4 when it began to feel more like a proper writing experience. And I was kind of probably ready for that at that point. And then I was like, “Well, this is better than films. This is something that films can’t do.” You know, this 360-degree experience of being this immigrant. And it still felt, we were still only scratching the surface. I mean, it still feels like that now in some ways, but it still felt a little…
+
+**2:02:55** · Dan Houser: And then that five games, you know, GTA 4 and 5, Red Dead 1 and 2, all the extra packs for them, and Max Payne 3, I think we took the games thematically into new places through that period. From a writing perspective, that was the most exciting period. From a business and sort of early creativity period, the period 2001 to 2005 was probably the most exciting.
+
+**2:03:18** · Dan Houser: To use the original starting team, all doing well. Personal life was doing okay, didn’t feel like such a mess. And then from 2007 onward, ‘7, ‘8, was happy personally having children, happily married, and the games were just getting much better. But there were lots of pressure in the business, you know, and the budgets got really big, so it added to the stress. So there’s always good bits and stresses, but, you know, and always just tried to show up and do my best and think about how I could do it in a new way. Always trying to go, “It’s a new medium.” What can we do that’s new?”
+
+**2:03:57** · Lex Fridman: But as a writer, as a scholar of human nature, first of all, were you surprised that you were actually, you were actually able, like you had it in you, through humor and tragedy, to create these incredibly compelling characters? ‘Cause I- I think I remember reading somewhere that James Joyce, when he was 20, said that he’s going to be the greatest writer ever. And I- I feel like every 20-year-old says this. It’s just James Joyce pulls it off.
+
+**2:04:27** · Dan Houser: Yes.
+
+**2:04:27** · Lex Fridman: So were you, were you surprised that you were a- actually able to do it? And how did that person get better and better and better at writing as you evolved?
+
+**2:04:37** · Dan Houser: The team got better and better, so we could write in a more ambitious way. The animation got better, so we could support it in a better way. We could go deeper. I mean, you couldn’t go that deep on a PS2 game, so it was also just the technology evolved. I don’t know. I felt like I was good at doing it, and I was well-trained for it. I’d been in the right place at the right time, and I was both lucky and had a way of thinking about characters that, when you reduce them to about 10 sentences, was amusing. I think I was, you know, and it was… and I saw the world in a holistic way.
+
+**2:05:14** · Dan Houser: And I saw society in a holistic way that you could break apart into an open-world video game. I thought about it a bunch, and the way I think about things was suitable for that, for whatever reason. That was just good fortune.
+
+**2:05:27** · Lex Fridman: Laszlo mentioned that it was another legend who you’re still working with. He mentioned that you would lock yourself in a room writing dialogue for radio, I think. You would lock yourself in a room and get anchovies and onion pizza and Diet Cokes. Is this accurate information?
+
+**2:05:45** · Dan Houser: Very accurate.
+
+**2:05:45** · Lex Fridman: For which periods of your life was this fuel for your creative process? Is it anchovies and onion pizza?
+
+**2:05:52** · Dan Houser: I would also get pepperoni on my half.
+
+**2:05:54** · Lex Fridman: Okay.
+
+**2:05:54** · Dan Houser: Just to be technically accurate.
+
+**2:05:55** · Lex Fridman: Okay.
+
+**2:05:55** · Dan Houser: He wouldn’t, because he claimed to be a vegetarian in those days. But then he’d admit to me he kept chicken wings hidden in the freezer. So he was a sort of fake vegetarian. Or I think we still do it now sometimes, as a sort of…
+
+**2:06:06** · Lex Fridman: Yes, homage.
+
+**2:06:07** · Dan Houser: To memorialize. But that began in 2001. And we, the office at Rockstar, was so small, and we were so broke that there was no… and I did have a private office at the time, but it genuinely was a cupboard. It didn’t have a window. It was literally sitting in a cupboard. So there was no room, and I had a desk and chair just for myself. But I lived quite near the office, so we would write one or two afternoons a week. He’d come in. He was a freelancer working with us. He’d come in from Long Island, and then we would jump on the subway, go to my apartment in Chelsea, and sit in this grimy little apartment I was living in and buy pizza from around the corner. And that became, you know, we both liked Diet Coke and pizza, very video game developer. And that became good luck.
+
+**2:06:52** · Dan Houser: And there we’d have these good writing sessions where we realized we got on well with each other, and that we had a similar sense of humor, and we could write the stuff, and then he would do all of the real work producing it. So it was perfect for me because I got to outsource most of the real work, and he’s a brilliant radio producer. So he was a great partner in that way. And then that was how that relationship began. And then I’d get him, I would say, “Well, we’ve got to record these 80 voices. Come and help me because I can’t direct 80 people at once.” So he helped with that process, and he was a really good producer, like audio, like getting bodies in producers as well as technical producer. So he was just, that was the beginning of that relationship, and it was always…
+
+**2:07:27** · Dan Houser: My job was to ensure the media content felt like it reflected the tone of the world, and we would write it together. Then his job was just to make sure it sounded funny, like he would just produce it in a really funny way.
+
+**2:07:37** · Lex Fridman: Just to give a little bit more of a shout-out to Laszlo, what’s it been like working with him for over 20 years? He’s working with you still. He’s a kind of this flamboyant, colorful personality, much loved for being a voice also on radio in the Grand Theft Auto games.
+
+**2:07:58** · Dan Houser: Yeah, and the rule was when he was the character, I would write the first pass of him. So I would… and I would get nastier and nastier over time.
+
+**2:08:06** · Lex Fridman: Yeah, it’s awesome.
+
+**2:08:07** · Dan Houser: So to the point where he’s having his head shaved and, you know, being punished by everybody. But even game after game, he got worse. He began as this quite… In GTA3, he’s a quite likable character, and then, you know, over the next 12, 13 years, it just got worse and worse. So I think he’s glad not to be doing that anymore, but he did it with great grace. He’s just a great partner because he likes, you know… Like me, we just like making stuff. He likes to make stuff. He likes to work in new spaces. He’s been a great help on bringing the comic book to life, doing a lot of the work on that. He’s working on that right now. And just, he’s really fun to work with, and he’s always, you know, will put creativity first. And he’s ridiculous. You know, he’s just a really…
+
+
+### Greatest game of all time
+
+**2:08:50** · Lex Fridman: In the best possible way, yeah. Outside of the games you’ve participated in and created, what do you think are some candidates for the greatest game of all time?
+
+**2:09:01** · Dan Houser: Tetris.
+
+**2:09:02** · Lex Fridman: Tetris.
+
+**2:09:03** · Dan Houser: Tetris Game Boy. No question.
+
+**2:09:05** · Lex Fridman: Tetris and the Game Boy, yeah.
+
+**2:09:07** · Dan Houser: It was the perfect device for playing that game. I never liked it as much on anything else. My wife was trying to get a retro one for my kids, trying to get them for Christmas right now. It was the most addicted I ever was to anything in my life of far too many addictions, that I was obsessed by it, dreaming about it. And when you link two together with the cable and if I got four, it would push yours forward. It was like the perfect game design. So from a pure puzzle perspective, nothing comes close.
+
+**2:09:34** · Lex Fridman: Yes, extremely simple. Pure gameplay, no narrative.
+
+**2:09:39** · Dan Houser: No, no. Nothing. No, no personality at all. It’s a completely different thing.
+
+**2:09:43** · Lex Fridman: Perfection.
+
+**2:09:44** · Dan Houser: But perfect in its way. Open-world games can’t be that perfect. But you always dream of making something like that.
+
+**2:09:50** · Lex Fridman: And Super Mario.
+
+**2:09:52** · Dan Houser: I think the N64 ones. All of those early 3D games were very amazing when you first saw them. On the N64, PS1, when you went, it suddenly was like these games, they’re alive, and they did… or they’re believable in a different way. I think that was very interesting.
+
+**2:10:10** · Lex Fridman: It looks nothing like anything else.
+
+**2:10:12** · Dan Houser: Nintendo has that look. Doesn’t it? Always.
+
+**2:10:14** · Lex Fridman: Yeah. And I think that’s the, they’re known for this Nintendo polish of every pixel has a purpose.
+
+**2:10:22** · Dan Houser: Yes.
+
+**2:10:23** · Lex Fridman: And what he… I mean, I suppose Tetris has that same real focus on delivering a pure gaming experience with as little as possible. It’s really beautiful. And of course, Zelda really pioneered a lot of the feeling of a world, but it’s not quite open world.
+
+**2:10:41** · Dan Houser: No, but it’s amazing. It’s almost like the new ones, they almost, to me, feel like Hitchcock. They’re just speaking the language of video games, you know, like, you know everything’s gonna work this way and that way. It’s quite systemic, but how it all glues together is so amazing. It feels like when you watch a Hitchcock film, it’s not reality. He’s speaking the language of cinema in a very, very strong, with a very strong accent almost. It’s very, very cinematic. It’s not realism at all. And that’s what those Zelda games kind of feel to me like, they are these amazing things that could only be video games. They couldn’t be anything else.
+
+**2:11:15** · Lex Fridman: For me, another really powerful open world is The Elder Scrolls world. It’s role-playing, it’s fantasy, dragons, all that kind of stuff.
+
+**2:11:25** · Dan Houser: Todd is great at what he does. It is. They’re slightly, they’re more… I mean, from a technical perspective, we’re always involved. I’d be in the same with the new games. We’re constantly trying to find the balance between, you know, an RPG, a role-playing game, and an action game. And then that, you know, and try to go, well, an action-adventure game with RPG elements, and what does that mean? I think they’ve all kind of moved into roughly the same space. But for me, it always just comes down to, is it easy to play? Are our mechanics super slick? And then can we keep our dialogue feeling very alive?
+
+**2:12:02** · Dan Houser: Like, I’m not always a great… For just what we do, I like when other people do it. For what we do, we always want very punchy dialogue, so don’t give big trees, but still have it interactive. So we’re going to lose a touch of interactivity, but we’ll still have the dialogue feeling like it’s alive. But we’ll get better at dialogue, and it’ll feel more, a slightly more cinematic experience.
+
+**2:12:23** · Lex Fridman: Yeah. I think The Elder Scrolls series has almost always leaned a little more towards the open world.
+
+**2:12:29** · Dan Houser: Yes. They’re real RPGs. You know, the games that I’ve worked on, they’ve not really been RPGs. They’ve had RPG elements onto a story-driven action game. It’s just a slightly different emphasis, but I still think what they do is amazing. They and he’s brilliant at doing it.
+
+**2:12:47** · Lex Fridman: And I think Grand Theft Auto, Red Dead Redemption, and Skyrim are games where you have millions of people that just walk around or drive around.
+
+**2:12:58** · Dan Houser: Mm-hmm. And feel the world.
+
+**2:12:59** · Lex Fridman: Feel the world. Just feel the world.
+
+**2:13:01** · Dan Houser: And The Witcher, same thing.
+
+**2:13:03** · Lex Fridman: And Baldur’s Gate 1, 2, and 3, really interesting. They really tried to make every choice that you make genuinely branch the game, to where it’s not the illusion of choice, it’s really…
+
+**2:13:15** · Dan Houser: Nothing. Yeah.
+
+**2:13:16** · Lex Fridman: It’s really, choice really does something and that’s really hard to pull off technically.
+
+**2:13:20** · Dan Houser: Yes. And hard to pull off. You’re always debating the sweet spot between that and a strong story. You know, and strong mechanics. It’s hard to get them all, and you, as a game-making team, the whole team has to figure out where they want to fall on that line.
+
+
+### Life lessons from father
+
+**2:13:41** · Lex Fridman: A difficult topic, you dedicated the book to your mom and dad. And in particular, you wrote, “To my father, who died while I was finishing the book.” What have you learned about life from your dad?
+
+**2:13:57** · Dan Houser: To show up. To be present. To go to work every day. To love creative things. You know, he was a lawyer, but he was also a jazz musician, and he did both to the best of his abilities. To value family as more important than either of those things. You know, he was a present guy, I think. And, you know, he loved books, always loved books, always loved films, loved music. He wasn’t into video games but liked that we were doing weird things.
+
+**2:14:37** · Lex Fridman: Was he proud of you?
+
+**2:14:39** · Dan Houser: Yeah, I think so. I hope so. And he was, for a lawyer, he really venerated at some level, giving “the man” the finger. Like, you know, whenever life goes crazy… …He just was always on the side of the underdog and the ridiculous. And I think that, you know, he always wanted to answer people back, always give the silly comment, and I certainly, you know, taken that from him to my detriment probably, but it makes life more fun. He always would just say the obnoxious thing and just didn’t give a fuck. And that was, I think that was probably quite inspiring.
+
+**2:15:20** · Lex Fridman: So you have a bit of that in you?
+
+**2:15:22** · Dan Houser: Unfortunately so, yes. Not good at shutting up, not good at towing the line.
+
+**2:15:29** · Lex Fridman: I think I speak for most of human civilization that fortunately you have that as part of who you are, because it comes through your stories.
+
+**2:15:40** · Dan Houser: I think it made school difficult. You know, they sent me to this very formal school- That was like, it might as well have been set in the 1870s, in the 1990s. But then, you know, I always got in trouble just for… not for doing anything that wrong, just answering teachers back all the time. Couldn’t be quiet.
+
+
+### Mortality
+
+**2:16:01** · Lex Fridman: How often do you think about mortality? Are you personally, yourself afraid of death?
+
+**2:16:07** · Dan Houser: Well, my father passed away in May, so a lot more since then, obviously. I mean, I think about it a lot. Am I afraid of it? I don’t know. Some days intensely and some days not at all. I would love to stay alive long enough to see my kids properly grow up and settled, of course, for them. Aside from that, some days I feel, you know, spiritually connected to the universe and not afraid of death at all, and other days I feel like a random piece of good luck who’s gonna get struck down by an angry fate and turn to nothingness, and that terrifies me. I just…
+
+**2:16:51** · Lex Fridman: What do you think about the nothingness? I mean, that in itself is terrifying.
+
+**2:16:55** · Dan Houser: Yeah, that is terrifying. That, I mean, I tend to, I tend to, you know, I’ve spent long periods of my life tormented by that stuff. The last few years, I tend to believe there is a purpose and a point to life, and that we have some kind of spiritual or soul-based existence. Not, I’m not quite sure if it matters if there is a God or not, we should probably live our lives the same way either way. But I tend to think that, you know, there is a metaphysical purpose to life and part of that purpose is to, you know, search for the purpose. But at other points, you know, if you read too much science, you get wrapped up in the nothingness of it all.
+
+**2:17:38** · Lex Fridman: Also, there’s a component to your brain. When talking about Wuthering Heights by Emily Brontë, you said that you have been, by fortune, struck with a bit of a capacity for the grandiosity of feeling. So you feel the world deeply, sometimes romantic, sometimes overly romantic. You’ve said, I like this line, “Feelings may destroy you, but they’re the best thing we have.” So that ability to feel the world, is that a gift or a curse for you? What do you think?
+
+**2:18:10** · Dan Houser: That’s a really interesting question because it’s obviously both. You know, at times it’s both, or at times it’s one or the other. When things are going well, when you feel alive, when you feel like you’re connected to things, when you’re seeing beauty in people and joy in experiences, of course it’s wonderful. When you’re feeling like, you know, bereft and set adrift by the world and that you can’t connect to it in some way and you’re lost and abandoned by God or consciousness or fate or whatever it is, it’s awful. You know, when I feel like a dreadful hack, which is most of the time, it’s terrible. You’d rather not be doing this rubbish.
+
+**2:18:49** · Dan Houser: And then sometimes you’re working creatively and it feels good and you feel like you’re doing the right thing and it feels fantastic, but that’s not very often.
+
+**2:18:57** · Lex Fridman: Do you think it’s possible to have one without the other?
+
+**2:18:59** · Dan Houser: No. No, of course not. When I think about growing up, to the extent that I am capable of growing up, it is about accepting the bad with the good from any situation or any aspect of myself. You know, going, “Okay, it’s not perfect. I’m not perfect.”
+
+**2:19:18** · Lex Fridman: You said you often feel like a hack. Is that self-critical part of your brain, is that a feature or a bug?
+
+**2:19:28** · Dan Houser: That’s an, I think it’s the new thing that we’re going to lean into, the bug feature. It’s both, isn’t it? I mean, it cannot lead… That self-critical brain, I think lots of people suffer from, and I think the internet is designed to induce, if you didn’t have it before, you will have it after being online. It clearly can become a bug, but it also can give you drive and a lack of complacency, so it can also become a feature.
+
+**2:19:56** · Lex Fridman: I had a pretty intense argument with Paul Conti, who’s a legendary psychiatrist, student of the mind, about this. He worked with many famous creative people and he thinks that that negative voice is not at all needed for creative genius. And I thought, “I know awfully a lot of creative people that have that voice.”
+
+**2:20:20** · Dan Houser: I’d rather not have it, but I certainly have lived with it this far. There’s a danger that negativity… For me, that negativity and consciousness become the same thing, you know? And sometimes I have to fight to not just be perpetually negative, and that can be part of the human struggle for lots of people and certainly has been for me. I think if you’re trying to do, you know, good stuff and you’re reflective inevitably, and, you know, you live in this world of constant, constant criticisms by the internet. Of course, you know, everyone who ever puts something on the internet, be it a picture of themselves or any kind of work they’ve made or whatever it is, is gonna get 50 good comments and one bad comment. Remember the bad comment.
+
+**2:21:06** · Dan Houser: So that, and that, that becomes fuel for the negative voice. I don’t know anyone that’s strong enough not to… You know, we all, you know, at some level you should just measure that stuff in weight, not in quality. But of course we just focus on the quality.
+
+**2:21:18** · Lex Fridman: And I do think in general, as you get older, that’s the real challenge for people. You can see the different trajectories people choose to take. But it’s easy to slip into cynicism and negativity, into this Dostoevsky’s Notes from Underground, nihilistic kind of worldview. I think the heroic action to take with time is to become more optimistic, to see more good. I think that-
+
+**2:21:43** · Dan Houser: I agree
+
+**2:21:43** · Lex Fridman: There’s probably a hero’s journey of being extremely self-critical at first for the first, maybe half of your life or two-thirds, and then while maintaining some self-critical aspects just so you stay humble, start to see the good in everything around you, in other people, in the world, and even maybe every once in a while, on a weekend, in yourself.
+
+**2:22:12** · Dan Houser: I hope so. I mean, that’s what I’ve been. I could not be more cynical. I think you put that beautifully. I could not be more cynical than I was as a child. I could not see goodness anywhere. I don’t think late 1970s to early 1990s England was a place of great optimism and naivete. It was brutal, and I was brutal within it. And I think I’ve become much more naive and tried to become more innocent in some ways, and always try to see the flawed good in people. I’ve tried or I’ve had to force myself to be like that because the other way is not fun. It’s not nice to not be nice.
+
+**2:22:59** · Lex Fridman: As a brief aside, you had a wonderful conversation with Ryan McCaffrey at LA Comic-Con. I’ve been a big fan of his for a long time. He writes amazing stuff at IGN, and he has a great podcast, everybody should go listen to it. I really enjoyed it. Plus, I get to attend a Comic-Con and just be there in the audience. And like we were saying offline, the LA Comic-Con, it’s the first Comic-Con I’ve been to. There’s just all kinds of real, genuine nerds, good-hearted…
+
+**2:23:24** · Dan Houser: Oh, it’s fascinating. Yeah, brilliant.
+
+**2:23:25** · Lex Fridman: It’s just so much kindness and goodness and just simple joy in being a fan of a thing was there.
+
+**2:23:33** · Dan Houser: Yeah, which is what those things are all about.
+
+**2:23:34** · Lex Fridman: Yeah. Okay, so let’s talk about some of the greatest books of all time. And I should also give a shout-out to an excellent podcast he did with Sonia Walger, who’s a friend of yours, but she had a great podcast. She has guests pick their five favorite, most impactful books and so on. You picked five fiction books, one for each decade of your life. For the audience, they should go listen to that conversation. But you picked Winter Holiday by Arthur Ransome. Second one was Wuthering Heights by Emily Brontë. Then Tender is the Night by F. Scott Fitzgerald. The Thin Red Line by James Jones, and Middlemarch by George Eliot. But just zooming out, reflecting back on that conversation, what do you think if an alien came, what are some candidates for books that you would recommend to them?
+
+**2:24:22** · Dan Houser: Middlemarch.
+
+**2:24:23** · Lex Fridman: Middlemarch.
+
+**2:24:23** · Dan Houser: It’s the best novel written in English. War and Peace is one of the best novels written in Russian, I would argue. I think both of those are because if you’ve only got one book, you want a long book.
+
+**2:24:38** · Lex Fridman: Yeah, true.
+
+**2:24:39** · Dan Houser: And they’re both books that kind of… it’s something I was always trying to put into games, and you know, that feeling of all of life is here. You’ve got love, death, violence, romance, the whole human experience in different ways. So I think there’s something amazing about, you know, Vanity Fair, I used to love the novel, not the magazine, because same thing, all of life is here.
+
+**2:25:04** · Lex Fridman: You also spoke highly of F. Scott Fitzgerald and Hemingway.
+
+**2:25:08** · Dan Houser: I was obsessed by them in my 20s. Completely obsessed.
+
+**2:25:12** · Lex Fridman: As one must be. Absolutely.
+
+**2:25:14** · Dan Houser: At that age, and I think them as a double act is so amazing. One helped discover the other and then died first, and then suddenly died in obscurity and then was rediscovered as a genius while the other one was still alive and falling into not obscurity but into decline. I think their relationship is itself very novelistic.
+
+**2:25:37** · Lex Fridman: That, by the way, is a phenomenon of writing maybe no longer, maybe still, that, you know, people like Franz Kafka who died in obscurity. All these writers who die in obscurity. Nobody knows them and they become famous later. That is just so interesting. That’s such an interesting… You know, Franz Kafka in particular is fascinating because he wanted all of his work to be burnt, like destroyed. So that, speaking of the critical voice, and I think he’s one of the best writers of the 20th century. Of course, the dystopian novels are really interesting, 1984, Brave New World.
+
+**2:26:20** · Dan Houser: I love 1984. I’d never listened to it or read it, and then I think I did it on Talking Book, or I maybe read it, I can’t remember, during COVID. And became, I think I did both, became obsessed by it. And it’s got the elements of that creeping into A Bed of Paradise, but it’s so good.
+
+**2:26:34** · Lex Fridman: Nice.
+
+**2:26:34** · Dan Houser: I hadn’t realized how good it was.
+
+**2:26:37** · Lex Fridman: Yes.
+
+**2:26:37** · Dan Houser: And it’s so of the moment.
+
+**2:26:39** · Lex Fridman: It’s almost like because of its fame and… …It’s almost like cliché, and you take away the character-
+
+**2:26:45** · Dan Houser: Yeah, if it were English… And I remember the year 1984. And you’re like, “This is…” I remember the song. It’s just too much.
+
+**2:26:50** · Lex Fridman: Yeah, too much.
+
+**2:26:50** · Dan Houser: It can’t be that good. And then it was that. I came to it completely cold, just, “Oh, I should work my way through this because it’s another classic I haven’t read.” And then it’s incredible.
+
+**2:26:59** · Lex Fridman: And the book I’ve read more than any other book is Animal Farm by George Orwell. I don’t know why exactly, but the childlike fairy tale telling of totalitarianism.
+
+**2:27:10** · Dan Houser: Well, you grew up in a communist country.
+
+**2:27:12** · Lex Fridman: Yeah, maybe that’s it. The roots of it.
+
+**2:27:14** · Dan Houser: You know, I remember, I was a kid in the Cold War in London. And we were always terrified of Eastern Europeans. You were going to come and kill us all. And then I ended up marrying a Pole. And I was… We were… And we had Ukrainians who worked for us and worked with us. And a few years ago, we were sitting around a campfire in Upstate New York, with the campfire built by our old nanny’s husband, who’s Ukrainian, and he’d been in the Red Army. I was like, history is so strange that you end up… The Red Army used to be the ultimate enemy. And like, we’re now just hanging out with… It’s like, everything changes. You think these things are permanent, and they’re really not.
+
+**2:27:55** · Dan Houser: You know, and we face some of that now, where you think these structures are permanent, and they’re going to change.
+
+**2:27:59** · Lex Fridman: And you also mentioned that the three great World War II books are The Thin Red Line and Life and Fate by Vasily Grossman. And The End of the Affair by Graham Greene. What makes for a great war book?
+
+**2:28:14** · Dan Houser: I think World War II is interesting because it affects everywhere, obviously. And so you can get all these different kinds of stories. And there are so many good… I was just trying to come up with a range of one American, one British, one Eastern European, just to get different perspectives. But there are so many amazing World War II books around all kinds of stories. I think the most complete one, because it is this all of life being there, probably is Life and Fate. Which is amazing.
+
+**2:28:44** · Lex Fridman: It was written by Vasily Grossman. He experienced Stalingrad firsthand. And there’s also just a deep philosophical component.
+
+**2:28:51** · Dan Houser: And the bit in Treblinka is one of the most harrowing sections of any book I ever read. And it really, almost more than any other piece of art around the Holocaust, made me feel what you would feel like at that moment. I mean, it’s just an incredible piece of humanism.
+
+**2:29:08** · Lex Fridman: And also just, I mean, Man’s Search for Meaning by Viktor Frankl.
+
+**2:29:11** · Dan Houser: Yeah. Oh, yeah.
+
+**2:29:12** · Lex Fridman: It seems like that context reveals, in the most pure way, human nature and what kind of… You know, in Man’s Search for Meaning is when everything is taken from you, you know, the little remains of love for, in this case, his wife… …Is the thing that is a little flame that burns. And let’s say your Grossman is small acts of kindness… …Is the thing that allows the human spirit to persist.
+
+**2:29:43** · Dan Houser: I love the bit in Life and Fate when you get… Obviously, it’s in this Stalinist period, and so they’re all losing… They all know that what they thought was going to be wonderful about the revolution isn’t going to happen. So everyone’s scared of being killed by Stalin because it’s post the purges. But then you get these guys and they’re trapped in a building, fighting in Stalingrad. And so they know at this moment they’re dead anyway. And they get to live like pure, perfect Marxist communists away from Stalin and all his nonsense. And I thought that section’s incredible because you realize in some ways, in all of its horrors, the most disappointing thing about the 20th century, in some ways, was the absolute failure of communism.
+
+**2:30:29** · Dan Houser: You know? It was… Because it was such a, you know, quote-unquote beautiful idea and it just did not work time and time again. And these people who fought for it and then saw it not working, I think they’re sort of fascinating characters. You know… …All of the revolutionaries from 1917 that were then killed by Stalin, which was all of them apart from him and Lenin.
+
+**2:30:50** · Lex Fridman: And that was, you know, people in modern-day politics talk about communism like it’s trivially, it’s trivial that it would lead to atrocities, but I don’t think it’s that trivial. It’s this idealism of humans. It’s like, you know, why can’t… Basically, why can’t we all get along? There’s a real compassion behind it. There’s real love. And what you realize is there is… it’s a real study, the 20th century, of human nature that unfortunately at scale, that kind of compassion is abused by centralized power. So there’s a dictator always, in that context, in those, given that set of technologies, a dictator arises and does the opposite… …Of what the promise of the ideal is supposed to be.
+
+**2:31:37** · Dan Houser: Well, I think… I thought a lot about that then because I was taught by all these disappointed communists, you know? After ’89, all of these English communists, you know, were all like having to access, discovering all these atrocities that happened in… You know, so it was, it always fascinated me. And then you think about complexities or where one’s own values are in the modern moment. And I say, you know, without, and whether either of them, what we would call left now or call right now, does it have any bearing on the sort of communist era of those words? And I would say probably not. I think things have changed, but fundamentally, the one value that I would go, I would think is worth fighting for is whenever either side starts to move towards thought control… …Move away.
+
+**2:32:25** · Dan Houser: That’s never the right outcome. The never right outcome is, “Oh, you’ve said the wrong thing. You should be removed now.” That should never ever be a thing we should lean towards.
+
+**2:32:35** · Lex Fridman: Yeah, it does seem like freedom, individual freedom, is a prerequisite for…
+
+**2:32:41** · Dan Houser: For happiness.
+
+**2:32:42** · Lex Fridman: …for happiness… …For the flourishing of a larger society. So there’s, like you said, 1984 is pretty… I mean, it’s a caricature.
+
+**2:32:48** · Dan Houser: But it is brilliant.
+
+**2:32:49** · Lex Fridman: It’s quite… It’s actually also just a good story. That’s my criticism of Brave New World, it’s just poorly written. But I think Brave New World probably applies more to the 21st century than does 1984, so…
+
+**2:33:02** · Dan Houser: I don’t know. I think 1984 with the fake wars… …And the way that it revealed… …Everything in it was a setup for him. There’s something that if he could’ve seen the internet… there’s something of, it’s like an analog internet, that world they build. …Around the main character.
+
+
+### Advice for young people
+
+**2:33:19** · Lex Fridman: What advice would you give to a young person today about, let’s say, career? How to have a career they can be proud of, how they can have a life to be proud of? You’ve had a non-standard life.
+
+**2:33:32** · Dan Houser: I’ve had a lucky life in which I have fought to mess things up and fate has always thrown me a bone.
+
+**2:33:41** · Lex Fridman: You’ve traveled in South America and had hobos chase you with machetes.
+
+**2:33:47** · Dan Houser: Yeah, once.
+
+**2:33:48** · Lex Fridman: So that happened.
+
+**2:33:49** · Dan Houser: That was a series of poor life decisions. And I ran away. You know, I mean, I ran away to South America. That was a poor decision. I ran away from the guy with a knife. That was a good decision. I came to America. That was a good decision. I came to LA, that’s, I think, been a good decision. It’s been fun to see a different side of America and be in a different creative environment. LA is still amazing for creativity and entertainment, the wider entertainment industry stuff. I think that’s been fun. What would I say? I would say when you get a chance, take it. That was one thing I did do well.
+
+**2:34:33** · Dan Houser: When I got chances, I was good at taking them. I would say do not worry too young about your career. I would say worry about having a rounded intellectual inner life, because you’re going to spend the whole of your life in your own head. So the more interesting you find your own head, the more interesting you find the world, the less you’re going to annoy yourself. So I would say, I would say do not do a vocational degree as an undergraduate. That’s been my… I would say do something else. Do something, you know, random and then focus afterwards. That would be, I think I was advocating against the obsession that people had about four years ago with STEM subjects.
+
+**2:35:14** · Dan Houser: And now AI is going to make them all irrelevant anyway, perhaps. So, you know, it’s interesting to see everything changes. Jobs are not that hard. You know, turn up, be enthusiastic. Turn up in person, be enthusiastic. Help people. Say, “You’ll be fine in any job.” People, you know.
+
+**2:35:37** · Lex Fridman: Did you always know when the chance to take showed up? Like, “Okay, this is interesting, this is new, this is different”?
+
+**2:35:42** · Dan Houser: Not always, no. But the big times were the chance to move to America. For me, that was a big moment. My life was a mess in…
+
+**2:35:49** · Lex Fridman: That was weird timing. I read that Sam wrote you an email. What… In South America…
+
+**2:35:56** · Dan Houser: I was literally in South America in Colombia, where there was a war raging. I was making a series of very poor life choices and had a lack of life skills at age 25. My latest poor choice was to get up too early because the police didn’t start work until 9:00, but the muggers started at 8:00. So I was out walking along the beach at 8:00, and these guys… this Rasta who turned up, who I’d been talking to the day before, started trying to talk to me. Then two guys came up to talk to him, and I couldn’t tell if they were trying to mug him because he owed them money or if he brought me to them. But I did notice one of them had a machete, and the other had a kind of broken gun. So I thought, “This is not good.” And I ran off, sprinted down the beach in my silly shoes.
+
+**2:36:48** · Dan Houser: And I got the chance for once in my life to run over to a road, jump into a taxi, and scream, “Take me anywhere!” I felt like I was in an action movie with a guy chasing after me with a machete. The taxi driver looked back, saw the dude with the machete, and went, “?” And I’m like, “No, no, no, they’re not my friends.”
+
+**2:37:05** · Dan Houser: “Get me out of here.” He drove me up the street into a bit where the town was, kind of between the old town and the new town in Cartagena. I got out of the car and then cut my foot on a rock. That was the sum total of my injuries. Then I went to an internet cafe because this was probably late ’98 and got the chance to come and work on a game for six weeks in New York. I was like, “Well, if I stay in South America much longer, I’m going to get myself killed,” because I was getting into silly stuff. So I went to New York, and they were just starting Rockstar. I got to write the mission statements and whatnot there, help set the tone for that, and just ended up staying.
+
+**2:37:48** · Dan Houser: I had to come and go a bit while all the visas got sorted out. And then I just ended up staying. “I’ll stay for a year because New York’s pretty fun.” It actually was not that… this was the height of Giuliani before he was a maniac. You couldn’t, when you went to bars, you were told you couldn’t dance. Because they were trying to clamp down on New York being fun. So it was actually less fun than London, but there’s still a great energy in New York. And got exposed to the kind of madness of New York capitalism.
+
+**2:38:18** · Lex Fridman: By the way, as we hear sirens in the background, that always makes me think of New York.
+
+**2:38:21** · Dan Houser: Yeah, of course.
+
+**2:38:22** · Lex Fridman: Whenever I’m in New York… …There’s always sirens.
+
+**2:38:23** · Dan Houser: Steam coming out the floor, people screaming at you. I mean, you get people screaming at you in LA, at least.
+
+**2:38:29** · Lex Fridman: But it’s more…
+
+**2:38:30** · Dan Houser: Yeah, it’s more spread out
+
+**2:38:31** · Lex Fridman: …spread out, yeah.
+
+**2:38:31** · Dan Houser: You can get a bit more quiet here. And I love the energy. You know, it was great to work hard and then be able to go out for dinner late. And, and it, New York was really, really a fun experience for me.
+
+**2:38:42** · Lex Fridman: You worked with your brother, Sam, for many years. What do you admire about him as a creative mind, as a human being?
+
+**2:38:52** · Dan Houser: His drive and his vision early on to see what video games could become. He was the one who understood that video games were the next big thing. And I think that was, you know, people would laugh in our face about that in those days. So to have someone that was strong and saying, “No, no, we stay the course,” and then having the confidence to push through with these big projects.
+
+
+### Future of video games
+
+**2:39:20** · Lex Fridman: Are you excited for the future of video games?
+
+**2:39:22** · Dan Houser: Yeah. I think we’re… I, I… Completely. I still, I still look… I’m glad you’ve spoken so, I mean, you’ve spoken so kindly about our work, about the stuff that I did and the stuff the whole teams did. It’s wonderful. But I just look at it and see problems. And see things that we can make do better. You know, I think it was always, try each time to do it better. And I’ve got, you know… Some of the stuff we’re working on now is going to do stuff that people haven’t really seen before. And then I think it’s just… I think that games can get so much better. They can feel so much more alive. All the…
+
+**2:39:58** · Dan Houser: They can be better at storytelling and feel more alive and feel like, you know, their systems, all the stuff, the, the component parts we talked about. We can both make each of those parts better. …And tie them together better. I think it’s… The technology is all… To me, it still feels like it’s only just beginning. You know, it’s been, it’s been… Cinema evolved from like 1900, 1895, whenever it was, until they invented talking in 1930 or whenever that was. It’s not that. And then it’s kind of found its modern form, and then by ’39, they’re shooting in color. And that’s… Basically, a modern film is no different from a 1939 film. But with games, I still think we’ve got a long way to go. The tech-
+
+**2:40:37** · Dan Houser: …there’s so many different parts of the tech that it’s still got a long way to go and you can go in all different fun directions.
+
+**2:40:43** · Lex Fridman: I just wish… And I know you said video games take a lot less than they could, but I just wish it was faster. Like, you’ve already made me…
+
+**2:40:52** · Dan Houser: Me too
+
+**2:40:52** · Lex Fridman: …fall in love with Absurdiverse, and you’ve made me fall in love with the Better Paradise, and now I am going to sit depressed, realizing we’ll have to wait. I could, of course, read…
+
+**2:41:02** · Dan Houser: Well, we should have some little short cartoons coming out in a while for Absurdiverse and more stuff coming in the next period. But yeah, it just takes, it takes a little bit of time. You know, I think, I mean, big movies are four years plus from start to end. …You know, with all the legal stuff at the start, you know? We’ll be about the same.
+
+**2:41:21** · Lex Fridman: Yeah. And certain movies from idea to completion, I mean, take 10 plus years, some of the greats, and…
+
+**2:41:27** · Dan Houser: Yeah, I mean, often. A lot of that is just that development process. … That is really… Sometimes feels like it’s designed to not make stuff.
+
+**2:41:33** · Lex Fridman: A bit more of a specific advice, but on the topic of video games, what advice would you give to to maybe independent video game creators that are dreaming of creating great games? They’re inspired by Red Dead, they’re inspired by all the incredible open worlds and narratives you’ve created. Like, how’s it possible to have a chance at doing something like that?
+
+**2:41:56** · Dan Houser: I mean, it’s part of… There’s two ways. Try and do it cheaply with yourself and a small group, or join a company that you think is doing it the right way, you know? And I think there’s upsides to either of those. I think if you want to make something that’s cinematic… Yeah, AI is going to change some of this. But if you want to make something that’s cinematic, you need resources. You can still make something that’s really interesting that isn’t super cinematic, but it’s an interesting experience in some ways. But the second you’re involving actors and motion capture and one of those big experiences, it’s going to cost some money. So therefore, if you want to do that, you’ve got to figure out what companies you want to work at and figure out how you get to work there.
+
+**2:42:31** · Lex Fridman: Do you have hope for AI helping with some of the video generation, some of the world generation, or some of the open-world assistance in generating the world?
+
+**2:42:45** · Dan Houser: Yes, limited. Absolutely, if used correctly, it will be a great tool. If used incorrectly, it will lead to loads of generic stuff. You know, I’ve been in games for 29 years, and all the time, the piece of tech that’s going to make making games much easier and much cheaper is about to turn up, and all that’s happened is the games have got much better and way more expensive. So I’m always nervous about saying, “Finally, we have that bit of tech that makes our lives easier,” but it looks as if it might be able to do that when you use it in the right way. If you use it to try and substitute for creativity, it’s going to be really generic.
+
+**2:43:19** · Lex Fridman: A big, ridiculous question: What’s the meaning of this whole thing we have going on here, of life, of existence? Why are we here?
+
+**2:43:29** · Dan Houser: To watch the universe. The easiest plausible answer is we are designed by the universe to watch itself and to comment on it in interesting ways.
+
+**2:43:39** · Lex Fridman: Consistently more and more interesting ways. What role does love play as part of that?
+
+**2:43:46** · Dan Houser: It’s the only thing that makes it possibly worth doing. Everything else, everything material, is irrelevant. So the only things of value are these immaterial things. You know, I do think metaphysics always trumps physics for me.
+
+**2:44:03** · Lex Fridman: Well, Dan, from the bottom of my heart, speaking of love, thank you.
+
+**2:44:07** · Dan Houser: What a pleasure. Thank you, man.
+
+**2:44:09** · Lex Fridman: Thank you for everything you’ve created in this world. Me and millions of diehard fans of your games are forever grateful. I know there’s a lot of people that would like to say thank you to you.
+
+**2:44:19** · Dan Houser: Just to be clear, because I always like to make this very clear… …It was never me. It was always me sat alongside people with actual real talent who did amazing things.
+
+**2:44:28** · Lex Fridman: Well, I hope you keep being self-critical and creating awesome stuff in the world. And we can’t wait to keep exploring the worlds you create. Thank you so much for talking today, brother.
+
+**2:44:41** · Dan Houser: Thank you for having me. What a privilege.
+
+**2:44:43** · Lex Fridman: Thanks for listening to this conversation with Dan Houser. To support this podcast, please check out our sponsors in the description, where you can also find links to contact me, ask questions, get feedback, and so on. And now let me leave you with some words from Ernest Hemingway, one of Dan’s and my favorite writers: “The world breaks everyone, and afterward, many are strong at the broken places.” Thank you for listening. I hope to see you next time.

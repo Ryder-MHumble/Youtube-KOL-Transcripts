@@ -68,9 +68,9 @@ No conversion, import pipeline, or proprietary database is required.
 
 The library currently includes:
 
-- **63 complete transcripts** with source links and timestamps
-- **13 publishing accounts** across AI, technology, business, and strategy
-- **49 featured-person nodes** for cross-interview exploration
+- **85 complete transcripts** with source links and timestamps
+- **14 publishing accounts** across AI, technology, business, and strategy
+- **72 featured-person nodes** for cross-interview exploration
 - An installable **`kol-quote-research` skill** for thesis matching and exact quote retrieval
 
 The project is designed to grow without changing how users work: pull the newest version, keep your own notes beside it, and continue building on the same Obsidian graph.
