@@ -2,7 +2,7 @@
   <img src="assets/banner-en.png" alt="YouTube KOL Roundtable" width="100%">
 </p>
 
-# YouTube KOL Transcripts
+# Never Lose a Great Idea Inside a Two-Hour Interview Again
 
 [简体中文](README.zh-CN.md)
 
@@ -57,6 +57,12 @@ git clone https://github.com/Ryder-MHumble/Youtube-KOL-Transcripts.git
 In Obsidian, choose **Open folder as vault** and select the cloned repository root. Start from [Index.md](Index.md). Account, person, and transcript links are already connected, so the library becomes a navigable knowledge graph after Obsidian indexes it.
 
 No conversion, import pipeline, or proprietary database is required.
+
+<p align="center">
+  <img src="assets/obsidian-knowledge-graph.png" alt="YouTube KOL transcripts connected as an Obsidian knowledge graph" width="100%">
+</p>
+
+<p align="center"><sub>Accounts, people, transcripts, and your own research notes remain connected in one navigable Obsidian graph.</sub></p>
 
 ## Current Coverage
 

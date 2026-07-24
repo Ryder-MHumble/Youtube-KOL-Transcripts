@@ -2,7 +2,7 @@
   <img src="assets/banner-zh-CN.png" alt="YouTube KOL 旁听席" width="100%">
 </p>
 
-# YouTube KOL 逐字稿知识库
+# 别再让真正有价值的观点，埋在两小时的视频里
 
 [English](README.md)
 
@@ -57,6 +57,12 @@ git clone https://github.com/Ryder-MHumble/Youtube-KOL-Transcripts.git
 在 Obsidian 中选择“打开本地仓库”，选中克隆后的仓库根目录即可。建议从 [索引.md](索引.md) 开始浏览。账号、人物和逐字稿之间已经建立双向链接，Obsidian 完成索引后即可直接查看和扩展知识图谱。
 
 无需转换格式、导入数据库或安装专用笔记应用。
+
+<p align="center">
+  <img src="assets/obsidian-knowledge-graph.png" alt="YouTube KOL 逐字稿在 Obsidian 中形成的知识图谱" width="100%">
+</p>
+
+<p align="center"><sub>账号、人物、逐字稿和你自己的研究笔记，可以在同一张 Obsidian 关系图谱中持续连接。</sub></p>
 
 ## 当前收录
 
