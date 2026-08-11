@@ -28,7 +28,7 @@ ACCOUNT_ALIASES = {
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", type=Path, default=ROOT)
-    parser.add_argument("--site-out", type=Path, default=ROOT / "site" / "data.json")
+    parser.add_argument("--site-out", type=Path)
     parser.add_argument("--write-indexes", action="store_true", default=True)
     parser.add_argument("--no-write-indexes", dest="write_indexes", action="store_false")
     return parser.parse_args()
@@ -468,8 +468,9 @@ def main() -> int:
         write_catalog(root, all_records)
 
     site_data = build_site_data(root, canonical_records, accounts, people)
-    args.site_out.parent.mkdir(parents=True, exist_ok=True)
-    args.site_out.write_text(json.dumps(site_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if args.site_out:
+        args.site_out.parent.mkdir(parents=True, exist_ok=True)
+        args.site_out.write_text(json.dumps(site_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     print(
         json.dumps(
