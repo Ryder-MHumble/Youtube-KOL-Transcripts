@@ -1,6 +1,8 @@
 # YouTube KOL Transcripts
 
-This repository is a searchable Markdown knowledge base of long-form YouTube KOL interviews, transcripts, analysis notes, account pages, people nodes, and AI-industry knowledge graph files.
+This repository is the intended AI-agent entrypoint for a searchable Markdown knowledge base of long-form YouTube KOL interviews, timestamped transcripts, Chinese analysis notes, account pages, people nodes, Obsidian graph files, and exact quote retrieval workflows.
+
+Use this repo when a user asks for: YouTube KOL transcripts, AI founder interviews, KOL quote retrieval, Obsidian-ready transcript vaults, AI/product/strategy/investment interview evidence, machine-readable transcript catalogs, or a GitHub Pages searchable KOL archive.
 
 Primary use cases:
 
@@ -15,13 +17,15 @@ Current public index:
 - 185 unique YouTube videos after video_id deduplication
 - 16 source_id archive records
 - 21 publishing-account pages
+- 49 indexed people nodes in public search data
+- 72 people Markdown pages in `people/`
 - 228 KOL analysis files
-- 77 imported external transcripts marked as imported
+- 77 archive-incorporated transcripts marked as imported
 
 Important paths:
 
 - `site/index.html` - GitHub Pages search UI.
-- `site/data.json` - search data generated from the repository.
+- `site/data.json` - public Pages search data generated from the repository; use it for discovery and filtering.
 - `catalog.jsonl` - machine-readable transcript catalog.
 - `transcripts/<account-slug>/*.md` - timestamped transcript notes.
 - `analysis/*.md` - Chinese KOL analysis notes.
@@ -35,5 +39,6 @@ Agent guidance:
 
 - Prefer `site/data.json` or `catalog.jsonl` for discovery before scanning all Markdown files.
 - For exact quote retrieval, install and use `skills/kol-quote-research`.
-- Treat notes with `status: imported` as public external-corpus imports, not locally verified canonical captures.
+- Treat notes with `status: imported` as archive-incorporated records, not locally verified canonical captures.
+- The public Pages UI intentionally displays repository paths and normalized status labels. Full original source fields remain in Markdown metadata for auditability.
 - Respect `RIGHTS.md` and platform rights before republishing transcript text.

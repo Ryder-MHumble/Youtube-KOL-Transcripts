@@ -345,6 +345,30 @@ def write_catalog(root: Path, records: list[dict]) -> None:
 def build_site_data(root: Path, canonical: list[dict], accounts: dict[str, dict], people: dict[str, dict]) -> dict:
     latest = max((record["published"] for record in canonical if record["published"]), default="")
     imported_count = sum(1 for record in canonical if record["status"] == "imported")
+    provenance_tags = {"ai-kol-wiki", "zhangxiaojun-archives", "podcast-archive"}
+
+    def public_description(record: dict) -> str:
+        if record["status"] == "imported":
+            return "已纳入本仓库的归档语料；原始来源标识保留在 Markdown 元数据中。"
+        return record["description"]
+
+    def public_search_text(record: dict) -> str:
+        tokens = [
+            record["title"],
+            record["account_name"],
+            record["account_slug"],
+            " ".join(record["account_aliases"]),
+            record["video_id"],
+            record["source_id"],
+            record["published"],
+            record["status"],
+            "归档纳入" if record["status"] == "imported" else "本地验证",
+            " ".join(record["featured_people"]),
+            record["analysis_title"],
+            record["path"],
+        ]
+        return normalize_text(" ".join(token for token in tokens if token))
+
     records = []
     for record in canonical:
         records.append(
@@ -352,7 +376,6 @@ def build_site_data(root: Path, canonical: list[dict], accounts: dict[str, dict]
                 "kind": record["kind"],
                 "title": record["title"],
                 "path": record["path"],
-                "source_url": record["source_url"],
                 "video_id": record["video_id"],
                 "source_id": record["source_id"],
                 "account_slug": record["account_slug"],
@@ -361,12 +384,12 @@ def build_site_data(root: Path, canonical: list[dict], accounts: dict[str, dict]
                 "published": record["published"],
                 "speaker_attribution": record["speaker_attribution"] or "contextual",
                 "status": record["status"] or "canonical",
-                "tags": record["tags"],
-                "description": record["description"],
+                "tags": [tag for tag in record["tags"] if tag not in provenance_tags],
+                "description": public_description(record),
                 "analysis_path": record["analysis_path"],
                 "variant_count": record["variant_count"],
                 "variant_paths": record["variant_paths"],
-                "search_text": record["search_text"],
+                "search_text": public_search_text(record),
             }
         )
 
@@ -380,6 +403,7 @@ def build_site_data(root: Path, canonical: list[dict], accounts: dict[str, dict]
             "non_youtube_sources": sum(1 for record in canonical if not record["video_id"]),
             "account_pages": len(accounts),
             "people_pages": len(people),
+            "people_markdown_files": len(list((root / "people").glob("*.md"))),
             "analysis_files": len(list((root / "analysis").glob("*.md"))),
             "imported_transcripts": imported_count,
             "latest_published": latest,
@@ -456,6 +480,7 @@ def main() -> int:
                 "non_youtube_sources": site_data["counts"]["non_youtube_sources"],
                 "account_pages": len(accounts),
                 "people_pages": len(people),
+                "people_markdown_files": site_data["counts"]["people_markdown_files"],
                 "analysis_files": len(list((root / "analysis").glob("*.md"))),
                 "imported_transcripts": site_data["counts"]["imported_transcripts"],
                 "latest_published": site_data["counts"]["latest_published"],
