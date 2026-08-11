@@ -68,9 +68,12 @@ No conversion, import pipeline, or proprietary database is required.
 
 The library currently includes:
 
-- **85 complete transcripts** with source links and timestamps
+- **146 complete transcripts** with source links and timestamps
 - **14 publishing accounts** across AI, technology, business, and strategy
 - **72 featured-person nodes** for cross-interview exploration
+- **150 KOL deep-analysis files** in `analysis/` — structured takeaways, reasoning chains, and cross-references for each interview
+- **16 AI industry knowledge-graph files** in `knowledge-graph/` — company-specific event timelines (OpenAI, Anthropic, Google DeepMind, DeepSeek, Meta AI, Mistral AI)
+- **Deep analysis reports** in `deep-reports/` — multi-source cross-insight reports generated from the full corpus
 - An installable **`kol-quote-research` skill** for thesis matching and exact quote retrieval
 
 The project is designed to grow without changing how users work: pull the newest version, keep your own notes beside it, and continue building on the same Obsidian graph.
@@ -88,6 +91,9 @@ See [the metadata schema](docs/metadata-schema.md) for field definitions and [th
 accounts/                         Publishing-account indexes
 people/                           Featured-person indexes
 transcripts/<account-slug>/       Complete timestamped transcripts
+analysis/                         KOL deep-analysis files (takeaways, reasoning chains, cross-refs)
+knowledge-graph/                  AI industry event timelines by company
+deep-reports/                     Multi-source cross-insight reports (PDF/MD)
 skills/kol-quote-research/        Installable AI research skill
 catalog.jsonl                     Machine-readable transcript catalog
 Index.md                          English Obsidian entry point

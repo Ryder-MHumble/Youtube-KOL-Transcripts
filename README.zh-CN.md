@@ -68,9 +68,12 @@ git clone https://github.com/Ryder-MHumble/Youtube-KOL-Transcripts.git
 
 目前知识库包含：
 
-- **85 份完整逐字稿**，均保留来源链接和时间戳
+- **146 份完整逐字稿**，均保留来源链接和时间戳
 - **14 个重点发布账号**，覆盖 AI、科技、商业与战略领域
 - **72 个人物节点**，可以跨访谈追踪同一人物的观点
+- **150 篇 KOL 深度分析文件**（`analysis/`），包含每个访谈的结构化要点、推理链和交叉引用
+- **16 份 AI 行业知识图谱**（`knowledge-graph/`），按公司维度的事件时间线（OpenAI、Anthropic、Google DeepMind、DeepSeek、Meta AI、Mistral AI）
+- **深度分析报告**（`deep-reports/`），基于全量数据生成的多维度交叉洞察报告
 - 可安装的 **`kol-quote-research` Skill**，用于观点匹配和原话检索
 
 项目可以在不改变使用习惯的前提下持续增长：拉取最新版本，把自己的研究笔记写在旁边，继续在同一张 Obsidian 知识图谱上积累。
@@ -87,6 +90,15 @@ git clone https://github.com/Ryder-MHumble/Youtube-KOL-Transcripts.git
 ```text
 accounts/                         发布账号索引
 people/                           主要人物索引
+transcripts/<account-slug>/       完整逐字稿
+analysis/                         KOL 深度分析文件（要点、推理链、交叉引用）
+knowledge-graph/                  AI 行业事件时间线（按公司）
+deep-reports/                     多源交叉洞察报告（PDF/MD）
+skills/kol-quote-research/        可安装的 AI 研究 Skill
+catalog.jsonl                     机器可读的逐字稿目录
+Index.md                          英文 Obsidian 入口
+索引.md                            中文 Obsidian 入口
+```
 transcripts/<account-slug>/       完整的带时间戳逐字稿
 skills/kol-quote-research/        可安装的 AI 研究 Skill
 catalog.jsonl                     机器可读的逐字稿目录
