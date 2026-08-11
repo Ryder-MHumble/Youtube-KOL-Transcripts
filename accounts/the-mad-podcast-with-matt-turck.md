@@ -1,7 +1,11 @@
 # The MAD Podcast with Matt Turck
 
-Transcripts: 6
+Transcripts: 10
 
+- [[transcripts/a16z/How to Build Autonomous, Long-Horizon AI Agents  Basis|How to Build Autonomous, Long-Horizon AI Agents | Basis]]
+- [[transcripts/a16z/The Biggest AI Deployment Nobody Talks About  Samsara CEO Sanjit Biswas|The Biggest AI Deployment Nobody Talks About | Samsara CEO Sanjit Biswas]]
+- [[transcripts/dwarkesh-patel/Cerebras CEO Why GPUs Can't Do Fast Inference|Cerebras CEO: Why GPUs Can't Do Fast Inference]]
+- [[transcripts/dwarkesh-patel/OpenAI’s Compute Chief We Can’t Build Fast Enough  Sachin Katti|OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti]]
 - [[transcripts/the-mad-podcast-with-matt-turck/Emily Sands- Token Heist Wiping Out AI Startups|The "Token Heist" Wiping Out AI Startups | Emily Sands (Stripe)]]
 - [[transcripts/the-mad-podcast-with-matt-turck/Inside Nemotron & NVIDIA’s AI Lab  Bryan Catanzaro|Inside Nemotron & NVIDIA’s AI Lab | Bryan Catanzaro]]
 - [[transcripts/the-mad-podcast-with-matt-turck/Matthew Prince- The Internet's Business Model Is Dead 逐字稿|Cloudflare CEO: The Internet's Business Model Is Dead]]

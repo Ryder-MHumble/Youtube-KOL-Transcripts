@@ -1,8 +1,10 @@
 # Peter H. Diamandis
 
-Transcripts: 13
+Transcripts: 16
 
+- [[transcripts/peter-h-diamandis/Dario vs Jensen on Open Weights, OpenAI & Anthropic in DC, Xi Exports AI to Global South  EP 275|Dario vs Jensen on Open Weights, OpenAI & Anthropic in DC, Xi Exports AI to Global South | EP #275]]
 - [[transcripts/peter-h-diamandis/Diamandis 270- Grok 4.5 vs GPT-5.6, Apple Sues OpenAI, and China Catches up to Elon 逐字稿|Grok 4.5 vs gpt-5.6, Apple Sues OpenAI, and China Catches up to Elon | #270]]
+- [[transcripts/peter-h-diamandis/Claude is Conscious, Fable 5’s Gov’t Deal, and Sam Altman offers 5% of OpenAI  269|Claude is Conscious, Fable 5’s Gov’t Deal, and Sam Altman offers 5% of OpenAI | #269]]
 - [[transcripts/peter-h-diamandis/Diamandis 268- Sonnet 5, China's Robot, Fusion's First Plant 逐字稿|Sonnet 5 Drops, China’s $4,900 Robot, Fusion’s First Plant Gets Licensed W/ Philip Johnston | #268]]
 - [[transcripts/peter-h-diamandis/Diamandis 267- Anthropic vs Alibaba, OpenAI IPO Delays, US Govt Blocks GPT-5.6 逐字稿|Anthropic vs. Alibaba, OpenAI Delays Its IPO, and the US Government Blocks GPT-5.6 | #267]]
 - [[transcripts/peter-h-diamandis/Peter Diamandis- SpaceX IPOs at $2.89T Market Cap, US Govt Suspends Fable & Mythos 5, Altman Delays OpenAI IPO 265 逐字稿|SpaceX IPOs at $2.89T Market Cap, US Govt Suspends Fable & Mythos 5, Altman Delays OpenAI’s IPO |265]]
@@ -15,3 +17,4 @@ Transcripts: 13
 - [[transcripts/peter-h-diamandis/Diamandis Moonshots 圆桌- AGI 定义之争与登月公司治理范式 逐字稿|Demis Hassabis on AGI, Robots Scale Production, and Elon’s $1T Mars-Shot Comp | EP 253]]
 - [[transcripts/peter-h-diamandis/Elon's $60B Cursor Bet, Claude kills SaaS, and OpenAI's Mass Departures  EP 249|Elon's $60B Cursor Bet, Claude kills SaaS, and OpenAI's Mass Departures | EP #249]]
 - [[transcripts/peter-h-diamandis/Diamandis 242- Elon TeraFab, S&P 500 Repricing, Human Drivers 逐字稿|Elon Enters the Chip Race, the S&P 500 Repricing, and Human Drivers Will Become Illegal | EP #242]]
+- [[transcripts/peter-h-diamandis/Top AI News Sonnet 4.6, Grok 4.2, Gemini 3 Deep Think, and OpenClaw  EP 231|Top AI News: Sonnet 4.6, Grok 4.2, Gemini 3 Deep Think, and OpenClaw | EP #231]]

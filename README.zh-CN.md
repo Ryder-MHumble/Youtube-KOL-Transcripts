@@ -14,6 +14,14 @@
 
 它不是另一个摘要合集，而是一套记录“谁说了什么、在哪里说、不同观点如何关联”的可迁移原话资产。
 
+## 在线检索入口
+
+- 网页检索：[GitHub Pages 索引](https://ryder-mhumble.github.io/Youtube-KOL-Transcripts/)
+- 机器可读数据：[`catalog.jsonl`](catalog.jsonl) 和 [`site/data.json`](site/data.json)
+- Agent 入口：[`llms.txt`](llms.txt) 和可安装的 [`kol-quote-research`](skills/kol-quote-research/SKILL.md) Skill
+
+网页索引支持按 YouTube 账号、KOL/人物名称、标题、视频 ID 和导入状态检索。Pages 部署时会通过 [`scripts/rebuild_indexes.py`](scripts/rebuild_indexes.py) 重新生成索引数据。
+
 ## 核心价值
 
 | 核心价值 | 你能得到什么 |
@@ -68,12 +76,13 @@ git clone https://github.com/Ryder-MHumble/Youtube-KOL-Transcripts.git
 
 目前知识库包含：
 
-- **146 份完整逐字稿**，均保留来源链接和时间戳
-- **14 个重点发布账号**，覆盖 AI、科技、商业与战略领域
+- **223 份逐字稿文件 / 185 个去重 YouTube 视频 + 16 个 source_id 归档记录**，均保留来源链接和时间戳
+- **21 个发布账号页**，覆盖 AI、科技、商业与战略领域
 - **72 个人物节点**，可以跨访谈追踪同一人物的观点
-- **150 篇 KOL 深度分析文件**（`analysis/`），包含每个访谈的结构化要点、推理链和交叉引用
+- **228 篇 KOL 深度分析文件**（`analysis/`），包含每个访谈的结构化要点、推理链和交叉引用
 - **16 份 AI 行业知识图谱**（`knowledge-graph/`），按公司维度的事件时间线（OpenAI、Anthropic、Google DeepMind、DeepSeek、Meta AI、Mistral AI）
 - **深度分析报告**（`deep-reports/`），基于全量数据生成的多维度交叉洞察报告
+- **77 份外部迁移逐字稿**，来自公开 KOL 归档项目，统一标记为 `imported`，不冒充本地 canonical 捕获
 - 可安装的 **`kol-quote-research` Skill**，用于观点匹配和原话检索
 
 项目可以在不改变使用习惯的前提下持续增长：拉取最新版本，把自己的研究笔记写在旁边，继续在同一张 Obsidian 知识图谱上积累。
@@ -95,12 +104,10 @@ analysis/                         KOL 深度分析文件（要点、推理链、
 knowledge-graph/                  AI 行业事件时间线（按公司）
 deep-reports/                     多源交叉洞察报告（PDF/MD）
 skills/kol-quote-research/        可安装的 AI 研究 Skill
-catalog.jsonl                     机器可读的逐字稿目录
-Index.md                          英文 Obsidian 入口
-索引.md                            中文 Obsidian 入口
-```
-transcripts/<account-slug>/       完整的带时间戳逐字稿
-skills/kol-quote-research/        可安装的 AI 研究 Skill
+site/                             GitHub Pages 静态检索页
+.github/workflows/pages.yml       GitHub Pages 部署工作流
+scripts/rebuild_indexes.py        目录、账号页和站点数据生成器
+llms.txt                          面向 Agent 的项目入口
 catalog.jsonl                     机器可读的逐字稿目录
 Index.md                          英文 Obsidian 入口
 索引.md                            中文 Obsidian 入口

@@ -1,6 +1,6 @@
 # Dwarkesh Patel
 
-Transcripts: 12
+Transcripts: 13
 
 - [[transcripts/dwarkesh-patel/Adam Brown- General Relativity from First Principles 逐字稿|General relativity from first principles – Adam Brown]]
 - [[transcripts/dwarkesh-patel/Grant Sanderson- AI and the future of math 逐字稿|Grant Sanderson (@3blue1brown) – AI disproved a famous math conjecture. Now what?]]
@@ -14,3 +14,4 @@ Transcripts: 12
 - [[transcripts/dwarkesh-patel/Satya Nadella – How Microsoft thinks about AGI|Satya Nadella – How Microsoft thinks about AGI]]
 - [[transcripts/dwarkesh-patel/Andrej Karpathy — “We’re summoning ghosts, not building animals”|Andrej Karpathy — “We’re summoning ghosts, not building animals”]]
 - [[transcripts/dwarkesh-patel/Richard Sutton – Father of RL thinks LLMs are a dead end|Richard Sutton – Father of RL thinks LLMs are a dead end]]
+- [[transcripts/dwarkesh-patel/George Hotz vs Eliezer Yudkowsky|George Hotz vs Eliezer Yudkowsky]]

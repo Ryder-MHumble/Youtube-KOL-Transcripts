@@ -14,6 +14,14 @@ This project continuously follows a curated set of high-signal YouTube accounts,
 
 It is not another collection of summaries. It is a portable archive of what influential people actually said, where they said it, and how their views connect.
 
+## Search the Web Index
+
+- Web search: [GitHub Pages index](https://ryder-mhumble.github.io/Youtube-KOL-Transcripts/)
+- Machine-readable data: [`catalog.jsonl`](catalog.jsonl) and [`site/data.json`](site/data.json)
+- Agent entrypoint: [`llms.txt`](llms.txt) and the installable [`kol-quote-research`](skills/kol-quote-research/SKILL.md) skill
+
+The Pages index supports searching by YouTube account, KOL/person name, title, video ID, and import status. It is rebuilt by [`scripts/rebuild_indexes.py`](scripts/rebuild_indexes.py) during the Pages deployment workflow.
+
 ## Why It Is Useful
 
 | Core value | What you get |
@@ -68,12 +76,13 @@ No conversion, import pipeline, or proprietary database is required.
 
 The library currently includes:
 
-- **146 complete transcripts** with source links and timestamps
-- **14 publishing accounts** across AI, technology, business, and strategy
+- **223 transcript files / 185 unique YouTube videos + 16 source_id archive records** with source links and timestamps
+- **21 publishing-account pages** across AI, technology, business, and strategy
 - **72 featured-person nodes** for cross-interview exploration
-- **150 KOL deep-analysis files** in `analysis/` — structured takeaways, reasoning chains, and cross-references for each interview
+- **228 KOL deep-analysis files** in `analysis/` — structured takeaways, reasoning chains, and cross-references for each interview
 - **16 AI industry knowledge-graph files** in `knowledge-graph/` — company-specific event timelines (OpenAI, Anthropic, Google DeepMind, DeepSeek, Meta AI, Mistral AI)
 - **Deep analysis reports** in `deep-reports/` — multi-source cross-insight reports generated from the full corpus
+- **77 imported external transcripts** from public KOL archives, marked as imported rather than local canonical captures
 - An installable **`kol-quote-research` skill** for thesis matching and exact quote retrieval
 
 The project is designed to grow without changing how users work: pull the newest version, keep your own notes beside it, and continue building on the same Obsidian graph.
@@ -95,6 +104,10 @@ analysis/                         KOL deep-analysis files (takeaways, reasoning 
 knowledge-graph/                  AI industry event timelines by company
 deep-reports/                     Multi-source cross-insight reports (PDF/MD)
 skills/kol-quote-research/        Installable AI research skill
+site/                             Static GitHub Pages search index
+.github/workflows/pages.yml       GitHub Pages deployment workflow
+scripts/rebuild_indexes.py        Catalog/account/site data generator
+llms.txt                          Agent-readable project entrypoint
 catalog.jsonl                     Machine-readable transcript catalog
 Index.md                          English Obsidian entry point
 索引.md                            Chinese Obsidian entry point

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>YouTube KOL 逐字稿检索</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <div>
+        <h1>YouTube KOL 逐字稿检索</h1>
+        <p id="summaryText">正在载入数据</p>
+      </div>
+      <a class="repo-link" href="https://github.com/Ryder-MHumble/Youtube-KOL-Transcripts">GitHub 仓库</a>
+    </header>
+
+    <main>
+      <section class="metrics" aria-label="语料统计">
+        <div>
+          <span id="metricVideos">0</span>
+          <label>来源记录</label>
+        </div>
+        <div>
+          <span id="metricTranscripts">0</span>
+          <label>逐字稿文件</label>
+        </div>
+        <div>
+          <span id="metricAccounts">0</span>
+          <label>账号页</label>
+        </div>
+        <div>
+          <span id="metricImported">0</span>
+          <label>外部迁移</label>
+        </div>
+      </section>
+
+      <section class="filters" aria-label="检索条件">
+        <label>
+          关键词
+          <input id="queryInput" type="search" placeholder="标题、视频 ID、主题、路径" autocomplete="off" />
+        </label>
+        <label>
+          YouTube 账号
+          <input id="accountInput" type="search" placeholder="a16z、Lex Fridman、张小珺" autocomplete="off" />
+        </label>
+        <label>
+          KOL 名称
+          <input id="personInput" type="search" placeholder="Andrej Karpathy、Jensen Huang" autocomplete="off" />
+        </label>
+        <label>
+          状态
+          <select id="statusSelect">
+            <option value="">全部</option>
+            <option value="canonical">本地</option>
+            <option value="imported">外部迁移</option>
+          </select>
+        </label>
+        <button id="resetButton" type="button">重置</button>
+      </section>
+
+      <section class="table-section">
+        <div class="section-title">
+          <h2>检索结果</h2>
+          <p id="resultCount">0 条</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>标题</th>
+                <th>账号</th>
+                <th>KOL</th>
+                <th>日期</th>
+                <th>状态</th>
+                <th>链接</th>
+              </tr>
+            </thead>
+            <tbody id="resultsBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="split-section">
+        <div>
+          <div class="section-title">
+            <h2>账号统计</h2>
+            <p id="accountCount">0 个</p>
+          </div>
+          <div class="table-wrap compact">
+            <table>
+              <thead>
+                <tr>
+                  <th>账号</th>
+                  <th>视频</th>
+                  <th>最新</th>
+                </tr>
+              </thead>
+              <tbody id="accountsBody"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div>
+          <div class="section-title">
+            <h2>KOL 节点</h2>
+            <p id="peopleCount">0 个</p>
+          </div>
+          <div class="table-wrap compact">
+            <table>
+              <thead>
+                <tr>
+                  <th>KOL</th>
+                  <th>出现</th>
+                  <th>最新</th>
+                </tr>
+              </thead>
+              <tbody id="peopleBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

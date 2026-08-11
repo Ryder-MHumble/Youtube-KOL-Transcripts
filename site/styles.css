@@ -1,0 +1,289 @@
+:root {
+  color-scheme: light;
+  --bg: #f7f8fa;
+  --surface: #ffffff;
+  --text: #20242a;
+  --muted: #666f7a;
+  --line: #d9dee6;
+  --strong: #1a3a5c;
+  --soft: #eef3f8;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+a {
+  color: var(--strong);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.page-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 24px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 32px 24px 20px;
+}
+
+h1,
+h2 {
+  margin: 0;
+  color: var(--strong);
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+p {
+  margin: 6px 0 0;
+  color: var(--muted);
+}
+
+main {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px 40px;
+}
+
+.repo-link,
+button {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--strong);
+  font: inherit;
+  line-height: 1.2;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+}
+
+.repo-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 9px 12px;
+  white-space: nowrap;
+}
+
+button {
+  min-height: 42px;
+  padding: 10px 14px;
+}
+
+button:hover,
+.repo-link:hover {
+  background: var(--soft);
+  text-decoration: none;
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.metrics > div,
+.filters,
+.table-section,
+.split-section > div {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+}
+
+.metrics > div {
+  padding: 18px 20px;
+}
+
+.metrics span {
+  display: block;
+  color: var(--strong);
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.metrics label {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+}
+
+.filters {
+  display: grid;
+  grid-template-columns: minmax(220px, 1.4fr) minmax(180px, 1fr) minmax(180px, 1fr) 140px auto;
+  gap: 14px;
+  align-items: end;
+  padding: 18px 20px;
+  margin-bottom: 16px;
+}
+
+.filters label {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+input,
+select {
+  width: 100%;
+  min-height: 42px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--text);
+  font: inherit;
+  padding: 9px 10px;
+}
+
+input:focus,
+select:focus,
+button:focus {
+  outline: 2px solid rgba(26, 58, 92, 0.22);
+  outline-offset: 1px;
+}
+
+.table-section,
+.split-section > div {
+  padding: 18px 20px 20px;
+}
+
+.section-title {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.table-wrap {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border-bottom: 1px solid var(--line);
+  padding: 10px 8px;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+td {
+  color: var(--text);
+}
+
+tbody tr:hover {
+  background: #fbfcfd;
+}
+
+.title-cell {
+  min-width: 340px;
+}
+
+.title-cell strong {
+  display: block;
+  color: var(--text);
+  font-weight: 600;
+}
+
+.title-cell small,
+.people-list,
+.link-list {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.link-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  min-width: 150px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  border-radius: 999px;
+  background: var(--soft);
+  color: var(--strong);
+  padding: 2px 8px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.split-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.compact td:first-child {
+  min-width: 220px;
+}
+
+.empty {
+  padding: 24px 8px;
+  color: var(--muted);
+}
+
+@media (max-width: 900px) {
+  .page-header {
+    display: block;
+  }
+
+  .repo-link {
+    margin-top: 14px;
+  }
+
+  .metrics,
+  .split-section {
+    grid-template-columns: 1fr;
+  }
+
+  .filters {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+}

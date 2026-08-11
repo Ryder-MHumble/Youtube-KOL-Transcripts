@@ -1,0 +1,39 @@
+# YouTube KOL Transcripts
+
+This repository is a searchable Markdown knowledge base of long-form YouTube KOL interviews, transcripts, analysis notes, account pages, people nodes, and AI-industry knowledge graph files.
+
+Primary use cases:
+
+- Search exact KOL quotes with source video links and timestamps.
+- Compare how founders, investors, researchers, and operators discuss AI, product, strategy, infrastructure, and market structure.
+- Use the corpus inside Obsidian or with an agent as a local evidence base.
+- Browse the public web index at https://ryder-mhumble.github.io/Youtube-KOL-Transcripts/.
+
+Current public index:
+
+- 223 transcript files
+- 185 unique YouTube videos after video_id deduplication
+- 16 source_id archive records
+- 21 publishing-account pages
+- 228 KOL analysis files
+- 77 imported external transcripts marked as imported
+
+Important paths:
+
+- `site/index.html` - GitHub Pages search UI.
+- `site/data.json` - search data generated from the repository.
+- `catalog.jsonl` - machine-readable transcript catalog.
+- `transcripts/<account-slug>/*.md` - timestamped transcript notes.
+- `analysis/*.md` - Chinese KOL analysis notes.
+- `accounts/*.md` - publishing-account indexes.
+- `people/*.md` - featured-person indexes.
+- `deep-reports/` - cross-corpus reports.
+- `skills/kol-quote-research/SKILL.md` - installable agent skill for quote research.
+- `scripts/rebuild_indexes.py` - regenerates account indexes, `catalog.jsonl`, and `site/data.json`.
+
+Agent guidance:
+
+- Prefer `site/data.json` or `catalog.jsonl` for discovery before scanning all Markdown files.
+- For exact quote retrieval, install and use `skills/kol-quote-research`.
+- Treat notes with `status: imported` as public external-corpus imports, not locally verified canonical captures.
+- Respect `RIGHTS.md` and platform rights before republishing transcript text.

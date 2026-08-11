@@ -1,7 +1,9 @@
 # No Priors: AI, Machine Learning, Tech, & Startups
 
-Transcripts: 6
+Transcripts: 8
 
+- [[transcripts/peter-h-diamandis/Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, & Regulatory Capture|Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, & Regulatory Capture]]
+- [[transcripts/a16z/Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak|Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak]]
 - [[transcripts/no-priors-ai-machine-learning-tech-startups/Building an Autonomous Delivery Experience with DoorDash Co-Founders Andy Fang and Stanley Tang|Building an Autonomous Delivery Experience with DoorDash Co-Founders Andy Fang and Stanley Tang]]
 - [[transcripts/no-priors-ai-machine-learning-tech-startups/Glenn Fogel- 不存在护城河与 agent 化旅行的 token 经济学 逐字稿|Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel]]
 - [[transcripts/no-priors-ai-machine-learning-tech-startups/How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor|How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor]]
