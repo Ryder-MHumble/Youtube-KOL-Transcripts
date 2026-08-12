@@ -1,12 +1,13 @@
 # YouTube KOL Transcripts
 
-This repository is the intended AI-agent entrypoint for a searchable Markdown knowledge base of long-form YouTube KOL interviews, timestamped transcripts, Chinese analysis notes, account pages, people nodes, Obsidian graph files, and exact quote retrieval workflows.
+This repository is a searchable evidence base for long-form YouTube KOL interviews. It contains timestamped transcripts, Chinese analysis notes, account pages, people nodes, Obsidian graph files, and machine-readable catalogs for exact quote retrieval.
 
-Use this repo when a user asks for: YouTube KOL transcripts, AI founder interviews, KOL quote retrieval, Obsidian-ready transcript vaults, AI/product/strategy/investment interview evidence, or machine-readable transcript catalogs.
+Use this repo when a user asks for YouTube KOL transcripts, AI founder interviews, KOL quote retrieval, Obsidian-ready transcript vaults, interview evidence, or machine-readable transcript catalogs.
 
 Primary use cases:
 
-- Search exact KOL quotes with source video links and timestamps.
+- Search exact quotes with source video links and timestamps.
+- Search by account, video, episode, person, or topic.
 - Compare how founders, investors, researchers, and operators discuss AI, product, strategy, infrastructure, and market structure.
 - Use the corpus inside Obsidian or with an agent as a local evidence base.
 

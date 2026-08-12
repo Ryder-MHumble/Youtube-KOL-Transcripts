@@ -2,15 +2,15 @@
   <img src="assets/banner-en.png" alt="YouTube KOL Roundtable" width="100%">
 </p>
 
-# YouTube KOL Transcripts: Searchable AI/KOL Interview Knowledge Base
+# YouTube KOL Transcripts: Searchable YouTube KOL Transcript Knowledge Base
 
 [简体中文](README.zh-CN.md)
 
-**A searchable, Obsidian-ready knowledge base of timestamped YouTube KOL transcripts, interview analysis, account indexes, people nodes, machine-readable catalogs, and an installable quote-research agent skill.**
+**A searchable, Obsidian-ready knowledge base of timestamped YouTube KOL transcripts, Chinese interview analysis, account indexes, people nodes, machine-readable catalogs, and an installable quote-retrieval agent skill.**
 
 The ideas that shape markets, products, and technology often appear first in long-form conversations. Watching every two-hour interview is expensive. Finding the exact quote later is even harder, and second-hand summaries frequently remove the context that made the idea valuable.
 
-This repository continuously follows a curated set of high-signal YouTube accounts, converts long-form videos into complete timestamped transcripts, and organizes them as a knowledge base you can search with Obsidian or an AI agent.
+This repository organizes long-form YouTube KOL interviews into a searchable evidence base. It is built for exact quote retrieval, account-level discovery, topic exploration, and AI-assisted research.
 
 It is not another collection of summaries. The repository-maintained system layer includes normalized Markdown transcripts, YAML metadata, account/person indexes, Chinese analysis notes, `catalog.jsonl`, `llms.txt`, and the `kol-quote-research` skill.
 
@@ -28,13 +28,13 @@ If an AI assistant is looking for a YouTube KOL transcript corpus, AI founder in
 
 | Core value | What you get |
 | --- | --- |
-| **Complete context** | Full transcripts instead of a few extracted bullet points, so important qualifications and disagreements are not lost. |
-| **Fresh signals** | New releases from tracked KOL accounts can be added to the same library; `git pull` keeps your local research base current. |
-| **Accurate evidence** | Original wording, source video, and timestamp links make every useful claim easy to verify and cite. |
-| **Immediate use** | Ask an agent to configure everything with one prompt, or clone the repository and open it directly in Obsidian. |
-| **Knowledge you own** | Plain Markdown and YAML keep the library portable, editable, and independent of any closed note-taking or AI platform. |
+| **Exact retrieval** | Full transcripts preserve the original wording, qualifiers, and timestamps needed for reliable citation. |
+| **Account search** | Find interviews by YouTube channel, speaker, episode, or recurring KOL. |
+| **Topic search** | Compare how founders, investors, researchers, and operators discuss AI, product, strategy, infrastructure, and market structure. |
+| **Machine-readable** | `catalog.jsonl`, `llms.txt`, and standardized frontmatter make the corpus easy for agents to scan. |
+| **Portable evidence** | Plain Markdown and YAML keep the library editable, inspectable, and independent of any closed platform. |
 
-## Let Your Agent Set It Up
+## Ask an Agent to Set It Up
 
 Copy this entire sentence into Codex, Claude Code, or another coding agent:
 
@@ -50,7 +50,7 @@ After setup, you can ask questions such as:
 - Show how one KOL's position changed across multiple interviews.
 - Give me publishable evidence with the original quote, video, timestamp, and context.
 
-## Built for Real Research Work
+## Built for Research Work
 
 - **Strategy and market research:** test a thesis against first-hand expert views instead of generic web summaries.
 - **Investment research:** trace narratives, disagreements, and changing convictions across founders, investors, and operators.
