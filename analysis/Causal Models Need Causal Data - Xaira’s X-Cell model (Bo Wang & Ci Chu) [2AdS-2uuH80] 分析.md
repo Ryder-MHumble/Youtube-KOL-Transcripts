@@ -1,5 +1,5 @@
 ---
-title: Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)（外部迁移分析）
+title: Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang & Ci Chu)
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=2AdS-2uuH80
 video_id: 2AdS-2uuH80
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=2AdS-2uuH80) · 视频 ID：`2AdS-2uuH80`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260721-latent-space-xaira-xcell-virtual-cell.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 本库第三块系统性 AI-for-science 素材（前两块是 [Genesis Molecular AI](20260630-latent-space-genesis-diffusion-drug-discovery.md) 的小分子结构预测和 [Lila Sciences](20260716-latent-space-lila-sciences.md) 的"实验室即 verifier"）。核心命题一句话：**要预测"如果我干预了会怎样"，就必须用干预产生的数据来训练——观测数据在原理上就欠定**。这是本库里对"数据质量 > 架构"这条经验规律最干净的一次实证。
 
@@ -117,4 +117,4 @@ X-Cell 是 Xaira 的第一个虚拟细胞模型，49 亿参数，预测细胞对
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

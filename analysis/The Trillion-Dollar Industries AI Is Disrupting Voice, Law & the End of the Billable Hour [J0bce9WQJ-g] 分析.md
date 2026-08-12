@@ -1,5 +1,5 @@
 ---
-title: 'The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour（外部迁移分析）'
+title: 'The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour'
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=J0bce9WQJ-g
 video_id: J0bce9WQJ-g
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=J0bce9WQJ-g) · 视频 ID：`J0bce9WQJ-g`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260714-all-in-11labs-legora-voice-law.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 两段"AI 颠覆万亿美元传统行业"的应用层公司访谈：ElevenLabs（语音，$600M ARR）与 Legora（法律，连续 7 季度 QoQ +50%）。共同母题：**架构而非规模、垂直化、独立于前沿模型（model-agnostic）**，以及一个反复出现的紧张——用前沿模型做产品、而前沿实验室又想吃掉你的生意。
 
@@ -69,4 +69,4 @@ status: imported
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

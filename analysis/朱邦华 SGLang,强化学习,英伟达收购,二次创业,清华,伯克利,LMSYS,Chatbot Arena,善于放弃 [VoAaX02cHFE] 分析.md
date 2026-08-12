@@ -1,5 +1,5 @@
 ---
-title: '朱邦华: SGLang，强化学习，英伟达收购，二次创业，清华，伯克利，LMSYS，Chatbot Arena，善于放弃（外部迁移分析）'
+title: '朱邦华: SGLang，强化学习，英伟达收购，二次创业，清华，伯克利，LMSYS，Chatbot Arena，善于放弃'
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=VoAaX02cHFE
 video_id: VoAaX02cHFE
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=VoAaX02cHFE) · 视频 ID：`VoAaX02cHFE`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260518-uncle-moon-banghua-zhu-sglang.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 中方技术向长访谈，罕见地由一线 **AI Infra**（推理引擎 + RL 训练框架）创业者给出内部视角。朱邦华是强化学习**理论**博士（Berkeley，导师 Michael Jordan），2023 年从零转做 LLM，创立 NexusFlow（企业 Agent 后训练）→ 被 NVIDIA 收购 → 2025 年底再出来与 SGLang 原班人马联合创业。本期是本库 [AI 算力与基础设施](https://github.com/nolimitkun/ai-kol-wiki/blob/main/topics/ai-infrastructure.md)、[评估与 Benchmark](https://github.com/nolimitkun/ai-kol-wiki/blob/main/topics/evaluation-and-benchmarks.md)（Chatbot Arena 一手史）、[中美 AI 生态对照](https://github.com/nolimitkun/ai-kol-wiki/blob/main/topics/china-us-ai.md) 的重要中方素材。
 
@@ -91,4 +91,4 @@ status: imported
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

@@ -1,5 +1,5 @@
 ---
-title: Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters（外部迁移分析）
+title: Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=9IMwRIei-Xc
 video_id: 9IMwRIei-Xc
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=9IMwRIei-Xc) · 视频 ID：`9IMwRIei-Xc`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260718-all-in-sro-regulation-datacenters.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 本库首个系统性的 **AI 监管制度设计**讨论。Demis Hassabis 提出仿 FINRA 的**行业自律组织（SRO）**，Sacks 给出他愿意接受的**五个条件**——这是本页最有引用价值的部分。另两条线：数据中心的政治阻力（纽约州全美首个禁令）与 **AI 隐私的脆弱性**（xAI 代码库泄露事件）。
 
@@ -115,4 +115,4 @@ Sacks 称自己（以个人身份）**可能接受**这个方案，因为 SRO"�
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

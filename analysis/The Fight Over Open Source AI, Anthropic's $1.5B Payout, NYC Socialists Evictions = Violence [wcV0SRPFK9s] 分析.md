@@ -1,5 +1,5 @@
 ---
-title: 'The Fight Over Open Source AI, Anthropic''s $1.5B Payout, NYC Socialists: Evictions = Violence?（外部迁移分析）'
+title: 'The Fight Over Open Source AI, Anthropic''s $1.5B Payout, NYC Socialists: Evictions = Violence?'
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=wcV0SRPFK9s
 video_id: wcV0SRPFK9s
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=wcV0SRPFK9s) · 视频 ID：`wcV0SRPFK9s`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260724-all-in-open-source-ban-anthropic-copyright.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 这一期是本库迄今**关于"美国是否该封杀中国开源模型"最完整的一次辩论记录**，而且四个人罕见地站在同一侧（Sacks 自己称之为"violent agreement"）。真正的价值有三层：① **把"蒸馏"这个词拆开**——权重 vs 输出的区分，以及由此推出的"Anthropic 的反蒸馏主张与它自己的 fair use 抗辩自相矛盾"这条**法律层面的自噬论证**；② Chamath 给出**商品化速度的时间尺度论证**（正常需要 5–10 年的"独家→商品"周期被压缩到几年），并第一次在本库里被用来直接预测**前沿实验室 IPO 的估值风险**；③ Sacks 给出了本库目前**最系统的反方**（K3 没有便宜多少、中国没追上、收入曲线不支持"被摧毁"叙事）。
 >
@@ -200,4 +200,4 @@ Freeberg 的三点（[00:20:04]–[00:23:07]）：
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

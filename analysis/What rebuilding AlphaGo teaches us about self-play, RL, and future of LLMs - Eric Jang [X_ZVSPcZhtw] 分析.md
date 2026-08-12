@@ -1,5 +1,5 @@
 ---
-title: What rebuilding AlphaGo teaches us about self-play, RL, and future of LLMs - Eric Jang（外部迁移分析）
+title: What rebuilding AlphaGo teaches us about self-play, RL, and future of LLMs - Eric Jang
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=X_ZVSPcZhtw
 video_id: X_ZVSPcZhtw
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=X_ZVSPcZhtw) · 视频 ID：`X_ZVSPcZhtw`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260515-dwarkesh-eric-jang.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 这是一期"黑板课"式深度技术访谈：Eric 在 sabbatical 期间用约 $10K 租用算力从零重建了一个强 Go bot（AutoGo），借此系统对比 AlphaGo 的 MCTS self-play 与今天 LLM 的 RL，为"AI 自动化 AI 研究"提供一线观察。转录稿前 3/4 是 AlphaGo/MCTS 的逐步推导，本页聚焦其可迁移的判断。
 
@@ -65,4 +65,4 @@ AlphaGo 的核心突破：用神经网络（value + policy 双头）把 Go 那�
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

@@ -1,5 +1,5 @@
 ---
-title: Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs（外部迁移分析）
+title: Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=Y7p4rUCdqi0
 video_id: Y7p4rUCdqi0
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=Y7p4rUCdqi0) · 视频 ID：`Y7p4rUCdqi0`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260710-all-in-cerebras-bfl-open-source.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 两段访谈：Cerebras 的 Andrew Feldman 谈 AI 大基建、推理即算力、开源与主权、分阶段发布、递归/loop maxing 与丰饶叙事；Black Forest Labs 的 Robin Rombach 谈 latent diffusion → 多模态 → action prediction → 机器人，以及与 Scorsese 的合作、生成式影视与 IP。Feldman 的另一维度补充见其[人物页](https://github.com/nolimitkun/ai-kol-wiki/blob/main/people/andrew-feldman.md)（已收录 [No Priors 访谈](20260521-no-priors-cerebras-feldman.md)）。
 
@@ -63,4 +63,4 @@ status: imported
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

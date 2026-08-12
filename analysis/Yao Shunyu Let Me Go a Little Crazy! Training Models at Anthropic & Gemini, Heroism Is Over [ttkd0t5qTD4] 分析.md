@@ -1,5 +1,5 @@
 ---
-title: 'Yao Shunyu: Let Me Go a Little Crazy! Training Models at Anthropic & Gemini, Heroism Is Over（外部迁移分析）'
+title: 'Yao Shunyu: Let Me Go a Little Crazy! Training Models at Anthropic & Gemini, Heroism Is Over'
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=ttkd0t5qTD4
 video_id: ttkd0t5qTD4
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=ttkd0t5qTD4) · 视频 ID：`ttkd0t5qTD4`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260511-zhang-xiaojun-yao-shunyu.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 中方长视频里罕见的、由一线前沿模型研究员给出的技术+组织双重内部视角。姚顺宇学理论物理出身，先后在 Anthropic（做大规模 RL、参与 Claude 3.7）和 Gemini（ML coding、long horizon）训模型，因此本期是**中美三大实验室（Anthropic / OpenAI / Google DeepMind）横向对照**的第一手材料。本库据此把 [中美 AI 生态对照](https://github.com/nolimitkun/ai-kol-wiki/blob/main/topics/china-us-ai.md) 与 [AI 实验室文化与组织](https://github.com/nolimitkun/ai-kol-wiki/blob/main/topics/ai-lab-culture.md) 两个主题大幅补全。
 
@@ -113,4 +113,4 @@ status: imported
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

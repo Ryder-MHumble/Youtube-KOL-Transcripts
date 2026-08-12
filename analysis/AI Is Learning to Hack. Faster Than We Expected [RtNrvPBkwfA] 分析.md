@@ -1,5 +1,5 @@
 ---
-title: AI Is Learning to Hack. Faster Than We Expected.（外部迁移分析）
+title: AI Is Learning to Hack. Faster Than We Expected.
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=RtNrvPBkwfA
 video_id: RtNrvPBkwfA
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=RtNrvPBkwfA) · 视频 ID：`RtNrvPBkwfA`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260807-a16z-ai-learning-to-hack.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 ## 说话人与专名校正
 
@@ -238,4 +238,4 @@ Dylan 的回答，是本页唯一一句没有任何限定词的判断：
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

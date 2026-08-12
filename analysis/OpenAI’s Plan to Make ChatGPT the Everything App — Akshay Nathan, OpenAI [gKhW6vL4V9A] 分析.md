@@ -1,5 +1,5 @@
 ---
-title: OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI（外部迁移分析）
+title: OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=gKhW6vL4V9A
 video_id: gKhW6vL4V9A
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=gKhW6vL4V9A) · 视频 ID：`gKhW6vL4V9A`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260728-latent-space-akshay-nathan-chatgpt-work.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > ⚠️ **转录稿只有 `>>` 换人标记、无说话人标签**，且是三人对谈（swyx、Vibhu、Akshay），归属按内容与提问/回答关系判断。凡本页写"Akshay 认为"的，均取自明确的受访回答段落。自动字幕把模型名转得较乱（Soul / Terra / Spider / goal 等既有产品代号也有误转），本页只在能从上下文确认时才照写。
 
@@ -144,4 +144,4 @@ swyx 从数据工程角度追问：只靠 MCP / CLI / API **即时拉数据**是
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

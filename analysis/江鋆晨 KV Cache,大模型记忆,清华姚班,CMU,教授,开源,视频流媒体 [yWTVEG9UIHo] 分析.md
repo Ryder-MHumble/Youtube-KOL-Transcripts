@@ -1,5 +1,5 @@
 ---
-title: '江鋆晨: KV Cache，大模型记忆，清华姚班，CMU，教授，开源，视频流媒体（外部迁移分析）'
+title: '江鋆晨: KV Cache，大模型记忆，清华姚班，CMU，教授，开源，视频流媒体'
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=yWTVEG9UIHo
 video_id: yWTVEG9UIHo
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=yWTVEG9UIHo) · 视频 ID：`yWTVEG9UIHo`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260609-uncle-moon-junchen-jiang-kvcache.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 从网络视频流媒体转向 LLM 推理系统的一线学者+创业者视角。江鋆晨（清华姚班→CMU 博士→芝加哥大学教授）把 KV Cache 定义为**大模型自己的记忆 / "只有大模型看得懂的视频"**，并押注它是继模型权重、prompt 之后**下一个最大的数据层**。本期是本库 [AI 算力与基础设施](https://github.com/nolimitkun/ai-kol-wiki/blob/main/topics/ai-infrastructure.md) 的核心中方素材，并与 [Dan Biderman：AI 的记忆问题](https://github.com/nolimitkun/ai-kol-wiki/blob/main/videos/20260713-latent-space-dan-biderman.md) 形成"记忆/长上下文"主题的直接呼应。
 
@@ -97,4 +97,4 @@ status: imported
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

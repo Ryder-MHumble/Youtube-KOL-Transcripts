@@ -1,5 +1,5 @@
 ---
-title: 与SGLang聊聊DeepSeek V4（外部迁移分析）
+title: 与SGLang聊聊DeepSeek V4
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=I-A_yaUXK2E
 video_id: I-A_yaUXK2E
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=I-A_yaUXK2E) · 视频 ID：`I-A_yaUXK2E`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260501-uncle-moon-sglang-deepseek-v4.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > DeepSeek V4 技术报告发布次日的"Infra 界春晚"直播。三位 SGLang/Miles 工程师讲他们如何为 V4 全新架构做推理引擎和 RL 训练框架适配。全程技术细节密集，是本库中最贴近推理/训练 infra 一线工程的中方素材，与 [朱邦华（SGLang）](20260518-uncle-moon-banghua-zhu-sglang.md)、[江鋆晨（KV Cache）](20260609-uncle-moon-junchen-jiang-kvcache.md) 构成 infra 三连。
 
@@ -70,4 +70,4 @@ DeepSeek V4 的注意力机制相比前代大改，给推理和训练框架都�
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

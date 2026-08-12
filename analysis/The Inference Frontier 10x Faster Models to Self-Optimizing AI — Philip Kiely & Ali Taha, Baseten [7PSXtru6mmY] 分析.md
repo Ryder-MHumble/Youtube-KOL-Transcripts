@@ -1,5 +1,5 @@
 ---
-title: 'The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten（外部迁移分析）'
+title: 'The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely & Ali Taha, Baseten'
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=7PSXtru6mmY
 video_id: 7PSXtru6mmY
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=7PSXtru6mmY) · 视频 ID：`7PSXtru6mmY`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260803-latent-space-baseten-inference-engineering.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > ⚠️ **转录稿只有 `>>` 换人标记、无说话人标签**，四人对谈（swyx、Alessio、Philip、Ali），归属按内容与自陈线索判断：书是 Philip 写的（他自陈"我已经老了""经历过三个硬件周期"、逐章报节号）；视频扩散段由主持人点名"**Ali 你在视频扩散上很深**"引出；kernel/量化研究/GLM 自写 kernel 由 Ali 讲述。**凡本页写"Philip 认为"或"Ali 认为"的，均取自可据此区分的段落；无法区分处写"两位嘉宾"。**
 >
@@ -243,4 +243,4 @@ status: imported
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

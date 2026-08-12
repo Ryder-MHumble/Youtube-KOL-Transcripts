@@ -1,5 +1,5 @@
 ---
-title: Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding（外部迁移分析）
+title: Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=-ILKiOU5iAQ
 video_id: -ILKiOU5iAQ
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=-ILKiOU5iAQ) · 视频 ID：`-ILKiOU5iAQ`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260715-all-in-gelsinger-lovable.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 两段独立访谈。Gelsinger 给出本库迄今最内部视角的 **Intel 衰败复盘**——核心论点是"**技术公司必须由技术人领导**"，并附上一条极具体的地缘警告：**台湾能源储备不足三周**。Osika 则提供了"vibe coding 从原型走到生产"的一线证据，以及一个反直觉的组织观察：**工程不再是瓶颈后，同一问题让两拨人各做一版是好事**。
 
@@ -97,4 +97,4 @@ status: imported
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

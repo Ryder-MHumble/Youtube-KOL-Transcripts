@@ -114,7 +114,7 @@ def build_transcript(row: dict, analysis_link: str) -> str:
 
 def build_analysis(row: dict, transcript_link: str, comparison_link: str) -> str:
     metadata = {
-        "title": f"{row['title']}（张小珺归档迁移分析）",
+        "title": f"{row['title']}",
         "source": "repository_import",
         "source_id": row["source_id"],
         "transcript": transcript_link,
@@ -131,9 +131,9 @@ def build_analysis(row: dict, transcript_link: str, comparison_link: str) -> str
         f"来源原文：[Mally-cj/zhangxiaojun-archives]({row['source_url']})",
         f"稳定来源 ID：`{row['source_id']}`",
         "",
-        "## 迁移说明",
+        "## 来源说明",
         "",
-        "本文件由 `Mally-cj/zhangxiaojun-archives` 的公开原文归档迁移生成。源文件没有 YouTube video_id，因此本库按节目期号 `source_id` 管理，不按标题覆盖已有 YouTube 版本。",
+        "本文件由 `Mally-cj/zhangxiaojun-archives` 的公开原文归档生成。源文件没有 YouTube video_id，因此本库按节目期号 `source_id` 管理，不按标题覆盖已有 YouTube 版本。",
         "",
         "## 主题线索",
         "",
@@ -166,7 +166,7 @@ def comparison_report(rows: list[dict], comparison_stem: str, vault_mode: bool) 
     latest = max((row["published"] for row in rows if row["published"]), default="未知")
     lines = [
         "---",
-        f"title: \"三方 KOL 语料库对比与张小珺归档迁移（{TODAY}）\"",
+        f"title: \"三方 KOL 语料库对比（{TODAY}）\"",
         "source: repository_audit",
         f"created: {TODAY}",
         "tags:",
@@ -176,7 +176,7 @@ def comparison_report(rows: list[dict], comparison_stem: str, vault_mode: bool) 
         "status: canonical",
         "---",
         "",
-        "# 三方 KOL 语料库对比与张小珺归档迁移",
+        "# 三方 KOL 语料库对比",
         "",
         "## 结论",
         "",
@@ -196,14 +196,14 @@ def comparison_report(rows: list[dict], comparison_stem: str, vault_mode: bool) 
         "",
     ]
     for row in sorted(rows, key=lambda item: item["episode"]):
-        analysis_stem = f"张小珺归档-{row['stem']} 分析" if vault_mode else f"analysis/{row['stem']} 分析"
+        analysis_stem = f"{row['stem']} 分析" if vault_mode else f"analysis/{row['stem']} 分析"
         lines.append(f"- [[{analysis_stem}|{row['title']}]] · `{row['source_id']}` · {row['published'] or '未标注'}")
     lines.extend(
         [
             "",
             "## 运行边界",
             "",
-            "本次迁移读取的是公开 GitHub 归档原文，不是通过 YouTube 或 Obsidian 浏览器插件重新抓取。所有导入文件均标记为 `status: imported`，后续如需 canonical 逐字稿，应单独复核来源。",
+            "本次读取的是公开 GitHub 归档原文，不是通过 YouTube 或 Obsidian 浏览器插件重新抓取。所有导入文件均标记为 `status: imported`，后续如需 canonical 逐字稿，应单独复核来源。",
         ]
     )
     return "\n".join(lines).rstrip() + "\n"
@@ -211,7 +211,7 @@ def comparison_report(rows: list[dict], comparison_stem: str, vault_mode: bool) 
 
 def update_moc(vault: Path, comparison_stem: str, created: int, dry_run: bool) -> None:
     moc = vault / "KOL情报" / "KOL情报 MOC.md"
-    marker = "## 📚 张小珺原文归档迁移"
+    marker = "## 张小珺原文"
     if dry_run:
         return
     moc.parent.mkdir(parents=True, exist_ok=True)
@@ -234,7 +234,7 @@ def main() -> int:
     repo = args.repo.resolve()
     vault = args.vault.resolve()
     rows = [parse_source_file(path, source_repo) for path in sorted((source_repo / "原文").glob("*.md"))]
-    comparison_stem = f"KOL语料库三方对比与张小珺归档迁移-{args.report_date}"
+    comparison_stem = f"KOL语料库三方对比-{args.report_date}"
 
     created_repo = 0
     created_vault = 0
@@ -251,7 +251,7 @@ def main() -> int:
         if write_if_missing(repo_analysis, build_analysis(row, repo_transcript_link, repo_comparison_link), args.dry_run):
             created_repo += 1
 
-        vault_transcript_stem = f"张小珺归档-{row['stem']}"
+        vault_transcript_stem = f"{row['stem']}"
         vault_analysis_stem = f"{vault_transcript_stem} 分析"
         vault_transcript = vault / "KOL逐字稿" / f"{vault_transcript_stem}.md"
         vault_analysis = vault / "KOL情报" / f"{vault_analysis_stem}.md"

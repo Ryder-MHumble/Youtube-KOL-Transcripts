@@ -1,5 +1,5 @@
 ---
-title: 'Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩ and @swyxtv（外部迁移分析）'
+title: 'Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩ and @swyxtv'
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=bIOCKXcxloQ
 video_id: bIOCKXcxloQ
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=bIOCKXcxloQ) · 视频 ID：`bIOCKXcxloQ`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260710-latent-space-swyx-agent-labs.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 本库首次收录 swyx 作为**被访者**而非主播的完整立场表达。三条主线：**推理专用芯片的赌注为何安全**、**pdoom 要挂在时间尺度上**、以及他给应用层创业者的两字答案——**"agent lab"**。最后一段对"model-agnostic / 模型路由"的**反向论证**，与本库已收录的多位应用层 CEO 立场正面冲突，是本期最有价值的分歧点。
 
@@ -86,4 +86,4 @@ swyx 复盘 AI Engineer 大会的起源（他看到前端/云/数据工程都专
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

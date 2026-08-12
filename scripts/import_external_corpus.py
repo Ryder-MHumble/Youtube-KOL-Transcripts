@@ -192,7 +192,7 @@ def build_transcript(row: dict, stem: str, report_stem: str, source_repo: Path) 
 def build_report(row: dict, transcript_stem: str, comparison_stem: str, source_repo: Path) -> str:
     wiki = wiki_content(row, source_repo)
     metadata = {
-        "title": f"{row['title']}（外部迁移分析）",
+        "title": f"{row['title']}",
         "source": "repository_import",
         "youtube_url": row["url"],
         "video_id": row["id"],
@@ -209,20 +209,20 @@ def build_report(row: dict, transcript_stem: str, comparison_stem: str, source_r
         f"来源视频：[YouTube]({row['url']}) · 视频 ID：`{row['id']}`",
         f"原始 Wiki：[ai-kol-wiki]({metadata['source_wiki']})",
         "",
-        "## 迁移说明",
+        "## 来源说明",
         "",
-        "本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。",
+        "本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。",
         "",
     ]
     if wiki:
         lines.extend([wiki, ""])
     else:
-        lines.extend(["原项目没有对应的 Wiki 视频页；当前仅迁移逐字稿，待后续分析。", ""])
+        lines.extend(["原项目没有对应的 Wiki 视频页；当前仅保留逐字稿，待后续分析。", ""])
     lines.extend(
         [
             "## 深度关联",
             "",
-            f"- 语料层关联：[[{comparison_stem}]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。",
+            f"- 语料层关联：[[{comparison_stem}]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。",
         ]
     )
     return "\n".join(lines).rstrip() + "\n"
@@ -251,7 +251,7 @@ def comparison_report(rows: list[dict], missing: list[dict], source_rows_all: li
     newest_target = max(target_dates) if target_dates else "未知"
     lines = [
         "---",
-        f"title: \"两个 YouTube KOL 逐字稿项目对比与迁移评估（{TODAY}）\"",
+        f"title: \"两个 YouTube KOL 逐字稿项目对比评估（{TODAY}）\"",
         "source: repository_audit",
         f"created: {TODAY}",
         "tags:",
@@ -261,7 +261,7 @@ def comparison_report(rows: list[dict], missing: list[dict], source_rows_all: li
         "status: canonical",
         "---",
         "",
-        "# 两个 YouTube KOL 逐字稿项目对比与迁移评估",
+        "# 两个 YouTube KOL 逐字稿项目对比评估",
         "",
         "## 结论",
         "",
@@ -283,13 +283,13 @@ def comparison_report(rows: list[dict], missing: list[dict], source_rows_all: li
         "",
     ]
     for row in sorted(missing, key=lambda item: (item["published"], item["title"]), reverse=True):
-        lines.append(f"- [[迁移分析-AI-KOL-Wiki-{sanitize_filename(row['title'])}-{row['id']}]] · {row['published']} · {row['channel']} · `{row['id']}`")
+        lines.append(f"- [[{sanitize_filename(row['title'])}-{row['id']}]] · {row['published']} · {row['channel']} · `{row['id']}`")
     lines.extend(
         [
             "",
             "## 运行边界",
             "",
-            "本次迁移读取的是对方仓库已经提交的公开文本，不是通过 YouTube 或浏览器插件重新抓取；因此导入笔记明确标记为 `status: imported`，不替代本地插件验证。第三方逐字稿的版权仍归原作者、发布方和平台所有，二次发布前应遵守两个仓库的 RIGHTS 文件与平台规则。",
+            "本次读取的是对方仓库已经提交的公开文本，不是通过 YouTube 或浏览器插件重新抓取；因此导入笔记明确标记为 `status: imported`，不替代本地插件验证。第三方逐字稿的版权仍归原作者、发布方和平台所有，二次发布前应遵守两个仓库的 RIGHTS 文件与平台规则。",
         ]
     )
     return "\n".join(lines).rstrip() + "\n"
@@ -305,7 +305,7 @@ def main() -> int:
     existing_vault = vault_ids(vault)
     missing = [row for row in all_rows if row["id"] not in existing_repo]
     missing_vault = [row for row in all_rows if row["id"] not in existing_vault]
-    comparison_stem = f"KOL语料库对比与迁移评估-{args.report_date}"
+    comparison_stem = f"KOL语料库对比评估-{args.report_date}"
 
     created_repo = created_vault = 0
     for row in sorted(missing, key=lambda item: (item["published"], item["title"])):
@@ -347,8 +347,8 @@ def main() -> int:
 
     for row in sorted(missing_vault, key=lambda item: (item["published"], item["title"])):
         title = sanitize_filename(row["title"])
-        transcript_stem = f"迁移-AI-KOL-Wiki-{title} [{row['id']}]"
-        report_stem = f"迁移分析-AI-KOL-Wiki-{title} [{row['id']}]"
+        transcript_stem = f"{title} [{row['id']}]"
+        report_stem = f"{title} [{row['id']}]"
         transcript_path = vault / "KOL逐字稿" / f"{transcript_stem}.md"
         report_path = vault / "KOL情报" / f"{report_stem}.md"
         if write_if_missing(transcript_path, build_transcript(row, transcript_stem, report_stem, source_repo), args.dry_run):
@@ -365,17 +365,17 @@ def main() -> int:
 
         moc = vault / "KOL情报" / "KOL情报 MOC.md"
         moc_text = moc.read_text(encoding="utf-8") if moc.exists() else "# KOL情报 MOC\n"
-        marker = "## 📦 外部语料迁移"
+        marker = "## 语料说明"
         if marker not in moc_text:
             block = [
                 "",
                 f"{marker}（{args.report_date}）",
                 "",
-                f"- [[{comparison_stem}]]：两个公开仓库的数量、视频 ID、更新时间和迁移口径。",
-                f"- 外部来源：[[{comparison_stem}]] 下面的 {len(missing_vault)} 个视频分析，均标记为 `status: imported`，待本地插件复核。",
+                f"- [[{comparison_stem}]]：两个公开仓库的数量、视频 ID、更新时间和来源口径。",
+                f"- 来源：[[{comparison_stem}]] 下面的 {len(missing_vault)} 个视频分析，均标记为 `status: imported`，待本地插件复核。",
             ]
             for row in sorted(missing_vault, key=lambda item: (item["published"], item["title"]), reverse=True):
-                report_title = f"迁移分析-AI-KOL-Wiki-{sanitize_filename(row['title'])} [{row['id']}]"
+                report_title = f"{sanitize_filename(row['title'])} [{row['id']}]"
                 block.append(f"- [[{report_title}|{row['title']}]] · {row['channel']}")
             moc.write_text(moc_text.rstrip() + "\n" + "\n".join(block) + "\n", encoding="utf-8")
 

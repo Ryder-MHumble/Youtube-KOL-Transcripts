@@ -1,5 +1,5 @@
 ---
-title: 'Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?（外部迁移分析）'
+title: 'Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?'
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=OY2Sjbjd_VE
 video_id: OY2Sjbjd_VE
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=OY2Sjbjd_VE) · 视频 ID：`OY2Sjbjd_VE`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260721-all-in-mark-cuban-ai-bubble.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > Cuban 的价值在于他站在**上一场泡沫的幸存者**位置上，给出的判断既不是"没有泡沫"也不是"要崩了"，而是一个更精确的问题：**这次泡沫的损失落在谁头上**。答案是 VC / 基金 / PE，不是散户。配合他在自家风投机构做 AI-first 改造的一手观察（工具跳跃、agent 漂移），这是本库里"从企业落地反推 AI 能力上限"最具体的一份材料。
 
@@ -124,4 +124,4 @@ status: imported
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

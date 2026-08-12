@@ -1,5 +1,5 @@
 ---
-title: Decagon’s Playbook for Building Enterprise AI Applications（外部迁移分析）
+title: Decagon’s Playbook for Building Enterprise AI Applications
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=cO1f2wOxSH4
 video_id: cO1f2wOxSH4
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=cO1f2wOxSH4) · 视频 ID：`cO1f2wOxSH4`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260731-a16z-decagon-enterprise-ai-apps.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 - ⚠️ **说话人认定说明**：转录稿**只有 `>>` 换人标记、无说话人标签**，且部分换人处漏标。Jesse 被主持人多次点名（"Jesse, I'm going to mention a piece that you wrote recently"、"Sounds like you created Jesse"）；另一位在文中被自动字幕写成 **"Asha" / "Ashan"**，本库据两条内证认定为 Ashwin Sreenivas：① 主持人说"**你以前是 Palantir 的 deployment strategist**"（[00:25:16]），② 他被称"**上了纽约时报**"（[01:13:41]）。本页凡涉及具体归属处已按内容判断，边界不清处只写"其中一位创始人"。
 - **主持**: [a16z](https://github.com/nolimitkun/ai-kol-wiki/blob/main/people/a16z.md) 企业软件侧合伙人。⚠️ **转录稿从未播报主持人姓名**；仅有的线索是自陈"**我们大约整整三年前开始合作**"（即 Decagon 早期投资方）、"我一直在研究应用软件十多年"、以及一处被自动字幕写成 "Kimberly" 的调侃（[01:13:41]）。**本库不做认定。**
@@ -253,4 +253,4 @@ status: imported
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。

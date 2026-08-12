@@ -1,5 +1,5 @@
 ---
-title: Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab（外部迁移分析）
+title: Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab
 source: repository_import
 youtube_url: https://www.youtube.com/watch?v=K796MYUgt0k
 video_id: K796MYUgt0k
@@ -17,9 +17,9 @@ status: imported
 来源视频：[YouTube](https://www.youtube.com/watch?v=K796MYUgt0k) · 视频 ID：`K796MYUgt0k`
 原始 Wiki：[ai-kol-wiki](https://github.com/nolimitkun/ai-kol-wiki/blob/main/wiki/videos/20260711-latent-space-perszyk-amazon-agi.md)
 
-## 迁移说明
+## 来源说明
 
-本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面迁移生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
+本文件由 `nolimitkun/ai-kol-wiki` 的公开 Wiki 页面生成。原始观点摘要与时间戳保持来源项目的表达；本文件不是本地浏览器插件捕获的 canonical 分析，后续复核应以逐字稿为准。
 
 > 一位认知科学家从"人类智能是集体的、社会的"出发，系统批评当前 AI 的"自动化/任务优化"主导范式，主张 AI 的计算级目标应是**对齐表征（aligning representations）**而非把某个任务刷到最优。本库首个成体系的"认知科学视角 AI 哲学"素材，与 [Amazon AGI Lab](https://github.com/nolimitkun/ai-kol-wiki/blob/main/people/danielle-perszyk.md)（perception agents / Nova Act）路线互为表里。
 
@@ -69,4 +69,4 @@ Perszyk 从"人类智能是集体智能（collective brain）、从互动中涌�
 
 ## 深度关联
 
-- 语料层关联：[[KOL语料库对比与迁移评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的迁移状态与该评估保持一致。
+- 语料层关联：[[KOL语料库对比评估-2026-08-11]] 将本视频纳入两个公开知识库的覆盖、去重和更新时间比较；本文件的状态与该评估保持一致。
