@@ -1,7 +1,8 @@
 # Salim Ismail
 
-Appearances: 5
+Appearances: 6
 
+- [[transcripts/peter-h-diamandis/Sergey Brin Retakes Gemini, 4 Labs Lose Containment, Compute Trades at NYSE w Kush Bavaria  EP 278|Sergey Brin Retakes Gemini, 4 Labs Lose Containment, Compute Trades at NYSE w/ Kush Bavaria | EP 278]]
 - [[transcripts/peter-h-diamandis/Diamandis 270- Grok 4.5 vs GPT-5.6, Apple Sues OpenAI, and China Catches up to Elon 逐字稿|Grok 4.5 vs gpt-5.6, Apple Sues OpenAI, and China Catches up to Elon | #270]]
 - [[transcripts/peter-h-diamandis/Diamandis 267- Anthropic vs Alibaba, OpenAI IPO Delays, US Govt Blocks GPT-5.6 逐字稿|Anthropic vs. Alibaba, OpenAI Delays Its IPO, and the US Government Blocks GPT-5.6 | #267]]
 - [[transcripts/peter-h-diamandis/Emerging Situation Anthropic's Global Pause, Recursive Self-Improvement, and AI Personhood Arrives|Emerging Situation: Anthropic's Global Pause, Recursive Self-Improvement, and AI Personhood Arrives]]

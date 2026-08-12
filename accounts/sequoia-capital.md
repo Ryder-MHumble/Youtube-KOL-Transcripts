@@ -1,7 +1,8 @@
 # Sequoia Capital
 
-Transcripts: 9
+Transcripts: 10
 
+- [[transcripts/sequoia-capital/How Harvey Built a Research Lab on a Budget  Gabe Pereyra|How Harvey Built a Research Lab on a Budget | Gabe Pereyra]]
 - [[transcripts/a16z/Chai Discovery's Bitter Lesson Drug Design Is Another Scaling Problem|Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem]]
 - [[transcripts/a16z/Building the Automated AGI Lab Core Automation's Jerry Tworek and Rohan Anil|Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil]]
 - [[transcripts/a16z/The Philosopher CEO  Clay Co-Founder Kareem Amin|The Philosopher CEO | Clay Co-Founder Kareem Amin]]

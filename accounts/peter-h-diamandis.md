@@ -1,7 +1,8 @@
 # Peter H. Diamandis
 
-Transcripts: 16
+Transcripts: 17
 
+- [[transcripts/peter-h-diamandis/Sergey Brin Retakes Gemini, 4 Labs Lose Containment, Compute Trades at NYSE w Kush Bavaria  EP 278|Sergey Brin Retakes Gemini, 4 Labs Lose Containment, Compute Trades at NYSE w/ Kush Bavaria | EP 278]]
 - [[transcripts/peter-h-diamandis/Dario vs Jensen on Open Weights, OpenAI & Anthropic in DC, Xi Exports AI to Global South  EP 275|Dario vs Jensen on Open Weights, OpenAI & Anthropic in DC, Xi Exports AI to Global South | EP #275]]
 - [[transcripts/peter-h-diamandis/Diamandis 270- Grok 4.5 vs GPT-5.6, Apple Sues OpenAI, and China Catches up to Elon 逐字稿|Grok 4.5 vs gpt-5.6, Apple Sues OpenAI, and China Catches up to Elon | #270]]
 - [[transcripts/peter-h-diamandis/Claude is Conscious, Fable 5’s Gov’t Deal, and Sam Altman offers 5% of OpenAI  269|Claude is Conscious, Fable 5’s Gov’t Deal, and Sam Altman offers 5% of OpenAI | #269]]

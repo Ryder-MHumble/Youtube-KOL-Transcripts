@@ -78,10 +78,10 @@ git clone https://github.com/Ryder-MHumble/Youtube-KOL-Transcripts.git
 
 目前知识库包含：
 
-- **223 份逐字稿文件 / 185 个去重 YouTube 视频 + 16 个 source_id 归档记录**，均保留来源链接和时间戳
+- **226 份逐字稿文件 / 188 个去重 YouTube 视频 + 16 个 source_id 归档记录**，均保留来源链接和时间戳
 - **21 个发布账号页**，覆盖 AI、科技、商业与战略领域
-- **`people/` 中 72 个人物 Markdown 页面**，可以跨访谈追踪同一人物的观点
-- **228 篇 KOL 深度分析文件**（`analysis/`），包含每个访谈的结构化要点、推理链和交叉引用
+- **`people/` 中 75 个人物 Markdown 页面**，可以跨访谈追踪同一人物的观点
+- **231 篇 KOL 深度分析文件**（`analysis/`），包含每个访谈的结构化要点、推理链和交叉引用
 - **16 份 AI 行业知识图谱**（`knowledge-graph/`），按公司维度的事件时间线（OpenAI、Anthropic、Google DeepMind、DeepSeek、Meta AI、Mistral AI）
 - **深度分析报告**（`deep-reports/`），基于全量数据生成的多维度交叉洞察报告
 - **77 份归档纳入逐字稿**，统一标记为 `imported`，不冒充本地 canonical 捕获

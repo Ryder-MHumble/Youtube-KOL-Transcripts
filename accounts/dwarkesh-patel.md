@@ -1,7 +1,8 @@
 # Dwarkesh Patel
 
-Transcripts: 13
+Transcripts: 14
 
+- [[transcripts/dwarkesh-patel/Ryan Greenblatt – What happens once AI can automate AI research?|Ryan Greenblatt – What happens once AI can automate AI research?]]
 - [[transcripts/dwarkesh-patel/Adam Brown- General Relativity from First Principles 逐字稿|General relativity from first principles – Adam Brown]]
 - [[transcripts/dwarkesh-patel/Grant Sanderson- AI and the future of math 逐字稿|Grant Sanderson (@3blue1brown) – AI disproved a famous math conjecture. Now what?]]
 - [[transcripts/dwarkesh-patel/Machiavelli is the most misunderstood thinker of all time – Ada Palmer|Machiavelli is the most misunderstood thinker of all time – Ada Palmer]]

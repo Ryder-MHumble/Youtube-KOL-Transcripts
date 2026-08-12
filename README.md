@@ -78,10 +78,10 @@ No conversion, import pipeline, or proprietary database is required.
 
 The library currently includes:
 
-- **223 transcript files / 185 unique YouTube videos + 16 source_id archive records** with source links and timestamps
+- **226 transcript files / 188 unique YouTube videos + 16 source_id archive records** with source links and timestamps
 - **21 publishing-account pages** across AI, technology, business, and strategy
-- **72 people Markdown pages in `people/`** for cross-interview exploration
-- **228 KOL deep-analysis files** in `analysis/` — structured takeaways, reasoning chains, and cross-references for each interview
+- **75 people Markdown pages in `people/`** for cross-interview exploration
+- **231 KOL deep-analysis files** in `analysis/` — structured takeaways, reasoning chains, and cross-references for each interview
 - **16 AI industry knowledge-graph files** in `knowledge-graph/` — company-specific event timelines (OpenAI, Anthropic, Google DeepMind, DeepSeek, Meta AI, Mistral AI)
 - **Deep analysis reports** in `deep-reports/` — multi-source cross-insight reports generated from the full corpus
 - **77 archive-incorporated transcripts** marked as `imported` rather than local canonical captures

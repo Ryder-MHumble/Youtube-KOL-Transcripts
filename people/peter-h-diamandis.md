@@ -1,7 +1,8 @@
 # Peter H. Diamandis
 
-Appearances: 13
+Appearances: 14
 
+- [[transcripts/peter-h-diamandis/Sergey Brin Retakes Gemini, 4 Labs Lose Containment, Compute Trades at NYSE w Kush Bavaria  EP 278|Sergey Brin Retakes Gemini, 4 Labs Lose Containment, Compute Trades at NYSE w/ Kush Bavaria | EP 278]]
 - [[transcripts/peter-h-diamandis/Diamandis 270- Grok 4.5 vs GPT-5.6, Apple Sues OpenAI, and China Catches up to Elon 逐字稿|Grok 4.5 vs gpt-5.6, Apple Sues OpenAI, and China Catches up to Elon | #270]]
 - [[transcripts/peter-h-diamandis/Diamandis 268- Sonnet 5, China's Robot, Fusion's First Plant 逐字稿|Sonnet 5 Drops, China’s $4,900 Robot, Fusion’s First Plant Gets Licensed W/ Philip Johnston | #268]]
 - [[transcripts/peter-h-diamandis/Diamandis 267- Anthropic vs Alibaba, OpenAI IPO Delays, US Govt Blocks GPT-5.6 逐字稿|Anthropic vs. Alibaba, OpenAI Delays Its IPO, and the US Government Blocks GPT-5.6 | #267]]
